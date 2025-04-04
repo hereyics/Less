@@ -1,7 +1,7 @@
 ! Title: Less Filter
 ! Version: 2025-04-04
 
-! DPI 해결
+! DPI
 @@||hey-bro.xyz^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
 @@||livecloud-thumb.akamaized.net^$stealth=dpi
@@ -22,3 +22,7 @@
 @@||kr-ss3.chat.naver.com^$stealth=dpi
 @@||kr-ss4.chat.naver.com^$stealth=dpi
 @@||kr-ss5.chat.naver.com^$stealth=dpi
+
+! 기타
+page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
+m.naver.com##.comp_card:not(.comp_weather)
