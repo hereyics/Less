@@ -18,3 +18,4 @@
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 @@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
 @@||video-phinf.pstatic.net^$stealth=dpi
+@@||livecloud.pstatic.net^$stealth=dpi
