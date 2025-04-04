@@ -51,3 +51,5 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||tkor*.com^]###banner_21_img
 [$url=||tkor*.com^]##.bnt.bn
 [$url=||btoon*.com^]##.banner.row
+[$url=||wavvetoon*.com^]##.post-image
+[$url=||wavvetoon*.com^]##.at-copyright
