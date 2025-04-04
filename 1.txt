@@ -1,6 +1,6 @@
-! Title: Lees
+! Title: Less filter
 ! Version: 2025-04-04
-! Description: Lees
+! Description: Less filter
 
 ! DPI 해결
 @@||api.chzzk.naver.com^$stealth=dpi
