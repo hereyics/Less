@@ -24,6 +24,7 @@
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 
 ! 기타
+hey-bro.xyz##.md\:text-left.text-muted-foreground.leading-loose.text-sm.text-center.text-balance
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t1.xtoon*.com^]##.pt-4.container-fluid.hot-comic
