@@ -47,3 +47,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||happytoon*.com^]##.popup_wrap
 [$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(2)
 [$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(3)
+[$url=||tkor*.com^]###bo_list > .clearfix
+[$url=||tkor*.com^]###banner_21_img
+[$url=||tkor*.com^]##.bnt.bn
