@@ -10,3 +10,11 @@
 @@||nng-phinf.pstatic.net^$stealth=dpi
 @@||nelo2-col.navercorp.com^$stealth=dpi
 @@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
+@@||global.apis.naver.com^$stealth=dpi
+@@||comm-api.game.naver.com^$stealth=dpi
+@@||jp.apis.naver.com^$stealth=dpi
+@@||comm-api.game.naver.com^$stealth=dpi
+@@||ex-nlive-streaming.navercdn.com^$stealth=dpi
+@@||kr-ss5.chat.naver.com^$stealth=dpi
+@@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
+@@||video-phinf.pstatic.net^$stealth=dpi
