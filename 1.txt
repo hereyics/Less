@@ -39,3 +39,8 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t1.xtoon*.com^]##.py-5.row
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu > [href^="https://www.google.com/search"]
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu > .ms-2
+[$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(3)
+[$url=||b*.toon-bro.xyz^]##div.flex-1.px-1.md\:px-8.container:nth-of-type(1)
+[$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
+[$url=||b*.toon-bro.xyz^]##.md\:py-0.md\:px-8.py-6
+[$url=||b*.toon-bro.xyz^]##.xl\:hidden > div
