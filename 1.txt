@@ -1,6 +1,5 @@
 ! Title: Less Filter
 ! Version: 2025-04-04
-! Description: Less Filter
 
 ! DPI 해결
 @@||api.chzzk.naver.com^$stealth=dpi
