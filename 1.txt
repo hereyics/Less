@@ -2,4 +2,5 @@
 ! Version: 2025-04-04
 ! Description: Lees
 
+! DPI 해결
 @@||api.chzzk.naver.com^$stealth=dpi
