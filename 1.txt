@@ -57,3 +57,4 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo19.com"] > .my-3.relative
 [$url=||wfwf*.com^]##.top-banner
+[$url=||wftoon*.com^]##.top-banner
