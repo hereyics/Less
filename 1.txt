@@ -50,3 +50,4 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||tkor*.com^]###bo_list > .clearfix
 [$url=||tkor*.com^]###banner_21_img
 [$url=||tkor*.com^]##.bnt.bn
+[$url=||btoon*.com^]##.banner.row
