@@ -2,6 +2,7 @@
 ! Version: 2025-04-04
 
 ! DPI 해결
+@@||hey-bro.xyz^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
 @@||livecloud-thumb.akamaized.net^$stealth=dpi
 @@||nga.naver.com^$stealth=dpi
