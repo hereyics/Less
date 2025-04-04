@@ -13,11 +13,12 @@
 @@||jp.apis.naver.com^$stealth=dpi
 @@||comm-api.game.naver.com^$stealth=dpi
 @@||ex-nlive-streaming.navercdn.com^$stealth=dpi
-@@||kr-ss5.chat.naver.com^$stealth=dpi
 @@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
 @@||video-phinf.pstatic.net^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
 @@||kr-ss1.chat.naver.com^$stealth=dpi
-@@||kr-ss4.chat.naver.com^$stealth=dpi
+@@||kr-ss2.chat.naver.com^$stealth=dpi
 @@||kr-ss3.chat.naver.com^$stealth=dpi
+@@||kr-ss4.chat.naver.com^$stealth=dpi
+@@||kr-ss5.chat.naver.com^$stealth=dpi
 @@||apis.naver.com^$stealth=dpi
