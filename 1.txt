@@ -4,3 +4,9 @@
 
 ! DPI 해결
 @@||api.chzzk.naver.com^$stealth=dpi
+@@||livecloud-thumb.akamaized.net^$stealth=dpi
+@@||nga.naver.com^$stealth=dpi
+@@||scv-game.io.naver.com^$stealth=dpi
+@@||nng-phinf.pstatic.net^$stealth=dpi
+@@||nelo2-col.navercorp.com^$stealth=dpi
+@@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
