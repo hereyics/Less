@@ -53,3 +53,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||btoon*.com^]##.banner.row
 [$url=||wavvetoon*.com^]##.post-image
 [$url=||wavvetoon*.com^]##.at-copyright
+[$url=||t*.hoduhodu.com^]##.mt-4.flex-wrap.flex
+[$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##.cursor-pointer.hover\:bg-gray-500.text-white.bg-black.rounded-xl.text-sm.p-2.border
