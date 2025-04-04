@@ -8,7 +8,6 @@
 @@||nga.naver.com^$stealth=dpi
 @@||scv-game.io.naver.com^$stealth=dpi
 @@||nng-phinf.pstatic.net^$stealth=dpi
-@@||nelo2-col.navercorp.com^$stealth=dpi
 @@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
 @@||global.apis.naver.com^$stealth=dpi
 @@||comm-api.game.naver.com^$stealth=dpi
@@ -22,3 +21,4 @@
 @@||kr-ss1.chat.naver.com^$stealth=dpi
 @@||kr-ss4.chat.naver.com^$stealth=dpi
 @@||kr-ss3.chat.naver.com^$stealth=dpi
+@@||apis.naver.com^$stealth=dpi
