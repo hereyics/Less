@@ -28,7 +28,7 @@ m.newtokirun.com###comment
 hey-bro.xyz##.md\:text-left.text-muted-foreground.leading-loose.text-sm.text-center.text-balance
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
-[$url=||t1.xtoon*.com^]###category-Ad
+[$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.pt-4.container-fluid.hot-comic
 [$url=||t1.xtoon*.com^]##.in-home__search.container.i-search
 [$url=||t1.xtoon*.com^]##div.mt-4.container:nth-of-type(8)
@@ -40,6 +40,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t1.xtoon*.com^]##.py-5.row
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu > [href^="https://www.google.com/search"]
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu > .ms-2
+[$url=||t1.xtoon*.com^]###category-Ad
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(3)
 [$url=||b*.toon-bro.xyz^]##div.flex-1.px-1.md\:px-8.container:nth-of-type(1)
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
