@@ -1,7 +1,7 @@
 ! Title: Less Filter
-! Version: 2025-04-06
+! Version: 2025-04-07
 
-! DPI
+! #1
 @@||hey-bro.xyz^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
 @@||livecloud-thumb.akamaized.net^$stealth=dpi
@@ -23,7 +23,7 @@
 @@||kr-ss4.chat.naver.com^$stealth=dpi
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 
-! 기타
+! #2
 m.newtokirun.com###comment
 hey-bro.xyz##.md\:text-left.text-muted-foreground.leading-loose.text-sm.text-center.text-balance
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
