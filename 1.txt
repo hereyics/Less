@@ -24,6 +24,8 @@
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 @@||b13.toon-bro.xyz^$stealth=dpi
 @@||newtoki468.com^$stealth=dpi
+@@||newtokirun.com^$stealth=dpi
+@@||m.newtokirun.com^$stealth=dpi
 
 ! 기타
 m.newtokirun.com###comment
