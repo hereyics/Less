@@ -24,6 +24,7 @@
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 
 ! #2
+anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 m.newtokirun.com###comment
 hey-bro.xyz##.md\:text-left.text-muted-foreground.leading-loose.text-sm.text-center.text-balance
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
