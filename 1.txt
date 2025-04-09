@@ -44,6 +44,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t1.xtoon*.com^]##a.align-items-center.d-flex.hover-pink.text-dark.fw-bold:nth-of-type(4)
 [$url=||t1.xtoon*.com^]##a.align-items-center.d-flex.hover-pink.text-dark.fw-bold > [src]
 [$url=||t1.xtoon*.com^]###category-Ad
+[$url=||t1.xtoon*.com^]###go-top
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(3)
 [$url=||b*.toon-bro.xyz^]##div.flex-1.px-1.md\:px-8.container:nth-of-type(1)
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
