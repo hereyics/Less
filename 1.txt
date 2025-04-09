@@ -1,5 +1,5 @@
 ! Title: Freecs Filter
-! Version: 2025-04-08
+! Version: 2025-04-10
 
 ! #1
 @@||hey-bro.xyz^$stealth=dpi
