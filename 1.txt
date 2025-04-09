@@ -24,6 +24,7 @@
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 
 ! #2
+anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://kr1.yohli24.net/"]
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 m.newtokirun.com###comment
 hey-bro.xyz##.md\:text-left.text-muted-foreground.leading-loose.text-sm.text-center.text-balance
