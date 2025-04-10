@@ -1,5 +1,5 @@
 ! Title: Freecs Filter
-! Version: 2025-04-10
+! Version: 2025-04-11
 
 ! #1
 @@||hey-bro.xyz^$stealth=dpi
@@ -30,6 +30,7 @@ m.newtokirun.com###comment
 hey-bro.xyz##.md\:text-left.text-muted-foreground.leading-loose.text-sm.text-center.text-balance
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
+||tj.oktoon.top^
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.pt-4.container-fluid.hot-comic
 [$url=||t1.xtoon*.com^]##.in-home__search.container.i-search
