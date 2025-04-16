@@ -24,6 +24,7 @@
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 
 ! #2
+||tj.oktoon.top^
 manhwabang.org##.banner_max
 manhwabang.org##.copyright
 manhwabang.org##.banner-container
