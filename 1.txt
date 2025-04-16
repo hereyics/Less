@@ -27,6 +27,7 @@
 manhwabang.org##.banner_max
 manhwabang.org##.copyright
 manhwabang.org##.banner-container
+anilife.live##div.bixbox:nth-of-type(1)
 anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://kr1.yohli24.net/"]
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 m.newtokirun.com###comment
