@@ -144,6 +144,8 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvroom\d+.org/]##div.banner_l.text-center
 [$domain=/^tvwiki\d+.com/]###bannerList
 [$domain=/^tvwiki\d+.com/]##[src*='/AD/']
+[$domain=/^tvwiki\d+.com/]##.active.search_wrap > ul
+[$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^yako[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]###banner
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[alt*='광고'], [alt*='배너']
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[class*='carousel'][id]
