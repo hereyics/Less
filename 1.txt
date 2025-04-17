@@ -26,6 +26,7 @@ ohli24.net##.ad-list
 ohli24.net##.at-links
 ohli24.net##.site-info
 ohli24.net##.main-bg.pd-bt40
+ohli24.net##div.coment-box.layui-tab-brief.layui-tab:nth-of-type(5)
 op.gg###notification-header > li
 manhwabang.org##.banner_max
 manhwabang.org##.copyright
