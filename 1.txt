@@ -17,6 +17,7 @@
 @@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
 @@||video-phinf.pstatic.net^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
+@@||esports-api.game.naver.com^$stealth=dpi
 @@||kr-ss1.chat.naver.com^$stealth=dpi
 @@||kr-ss2.chat.naver.com^$stealth=dpi
 @@||kr-ss3.chat.naver.com^$stealth=dpi
