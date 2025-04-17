@@ -22,8 +22,6 @@
 @@||kr-ss3.chat.naver.com^$stealth=dpi
 @@||kr-ss4.chat.naver.com^$stealth=dpi
 @@||kr-ss5.chat.naver.com^$stealth=dpi
-
-! #2
 ohli24.net##.ad-list
 ohli24.net##.at-links
 ohli24.net##.site-info
