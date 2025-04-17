@@ -24,6 +24,8 @@
 @@||kr-ss5.chat.naver.com^$stealth=dpi
 
 ! #2
+@@||cdn-ao.adison.co^
+@@||alex.daum.net^
 manhwabang.org##.banner_max
 manhwabang.org##.copyright
 manhwabang.org##.banner-container
