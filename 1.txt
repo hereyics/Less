@@ -23,6 +23,8 @@
 @@||kr-ss3.chat.naver.com^$stealth=dpi
 @@||kr-ss4.chat.naver.com^$stealth=dpi
 @@||kr-ss5.chat.naver.com^$stealth=dpi
+hey-bro.xyz##.mb-2
+hey-bro.xyz##.md\:py-0.md\:px-8.py-6
 ohli24.net##.ad-list
 ohli24.net##.at-links
 ohli24.net##.site-info
