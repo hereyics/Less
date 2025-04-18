@@ -66,6 +66,11 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t1.xtoon*.com^]##a.align-items-center.d-flex.hover-pink.text-dark.fw-bold > [src]
 [$url=||t1.xtoon*.com^]###category-Ad
 [$url=||t1.xtoon*.com^]###go-top
+[$url=||joatoon*.com^]##.base_wrapper.gap-0\.5.lg\:grid-cols-6.md\:grid-cols-5.sm\:grid-cols-4.grid-cols-3.mt-2.grid
+[$url=||joatoon*.com^]##div.mt-2:nth-of-type(2)
+[$url=||joatoon*.com^]##div.mt-2:nth-of-type(3)
+[$url=||joatoon*.com^]##.py-5.px-4.z-10 > div > .space-y-1.p-1
+[$url=||joatoon*.com^]###thepage > div > .space-y-1.p-1
 [$url=||z*.mzgtoon.com^]##.mt-4.flex-wrap.flex
 [$url=||z*.mzgtoon.com^]##.relative.mx-auto.max-w-\[800px\]
 [$url=||z*.mzgtoon.com^]##[href="https://xn--ly1b93vtre3ub.com/"] > .my-3.relative
