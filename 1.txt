@@ -150,6 +150,14 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^newtoki\d+.com/]##[style="margin-bottom: 20px;"].row.row-15
 [$domain=/^newtoki\d+.com/]##div.col-15.col-md-9
 [$domain=/^newtoki\d+.com/]##li:has([target]:not([href*=bbs]))
+[$domain=/^funbe\d+.com/]##.mobile-banner.col-md-12
+[$domain=/^funbe\d+.com/]##.text-center.m_nav.navbar-nav.nav > li > [href="https://funbe527.com/토토보증업체1BET1"]
+[$domain=/^funbe\d+.com/]##.text-center.m_nav.navbar-nav.nav > li > [href="https://funbe527.com/주소알림"]
+[$domain=/^funbe\d+.com/]##.text-center.m_nav.navbar-nav.nav > li > [href="https://funbe527.com/코사이트"]
+[$domain=/^funbe\d+.com/]##[href="/토토보증업체1BET1"]
+[$domain=/^funbe\d+.com/]##[href="/코사이트"]
+[$domain=/^funbe\d+.com/]###bo_list > .clearfix
+[$domain=/^funbe\d+.com/]###banner_21_img
 [$domain=/^tvmon\d+.org/]##.banner_wrap2
 [$domain=/^tvmon\d+.org/]##[src*='/AD/']
 [$domain=/^tvroom\d+.org/]###mq-notice
