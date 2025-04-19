@@ -124,6 +124,7 @@ naver.com,~chzzk.naver.com##+js(addEventListener-defuser, /contextmenu|selectsta
 *#%#//scriptlet('prevent-fetch', 'doubleclick.net')
 *#%#//scriptlet('prevent-fetch','pagead2.googlesyndication.com')
 *#%#//scriptlet('prevent-xhr','pagead2.googlesyndication.com')
+start.klauncher.kr$$script:contains(detected)
 ||maxmovie.com/_next/static/chunks/framework.aa400efa16f23e2b0cfe.js
 
 ! 나무위키 최근변경, 나무뉴스 위젯, etc(임시) 숨기기
