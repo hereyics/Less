@@ -192,6 +192,9 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvwiki\d+.com/]###bo_v_act > ul
 [$domain=/^mtoon\d+.com/]##div.container_full:nth-of-type(1)
 [$domain=/^mtoon\d+.com/]##.wrapper > .pc_w.row
+[$domain=/^newtoon\d+.com/]##div.mt-3.ad-form.container:nth-of-type(1)
+[$domain=/^newtoon\d+.com/]##.nav-wrapper-1.nav-wrapper > .second-nav > div
+[$domain=/^newtoon\d+.com/]##.text-small.text-center.text-muted.pt-4.mt-5
 [$domain=/^yako[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]###banner
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[alt*='광고'], [alt*='배너']
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[class*='carousel'][id]
