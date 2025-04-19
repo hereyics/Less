@@ -3,6 +3,8 @@
 
 ! #1
 @@||hey-bro.xyz^$stealth=dpi
+@@||dn-zip-page.kakao.com^$stealth=dpi
+@@||dn-img-page.kakao.com^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
 @@||livecloud-thumb.akamaized.net^$stealth=dpi
 @@||nga.naver.com^$stealth=dpi
