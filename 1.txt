@@ -203,6 +203,16 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^wtwt\d+.com/]###pop-content
 [$domain=/^bpt\d+.com/]##.footer
 [$domain=/^yatoon\d+.com/]##.ad-form.container
+[$domain=/^hdhd\d+.com/]##.bnt.bn
+[$domain=/^hdhd\d+.com/]##[href="http://bn104.kr"]
+[$domain=/^hdhd\d+.com/]##[href="http://fox-ss.com"]
+[$domain=/^hdhd\d+.com/]##[href="http://1bet1.vip"]
+[$domain=/^hdhd\d+.com/]##[href="https://kkk-02.com"]
+[$domain=/^hdhd\d+.com/]##[href="http://missyouyou.me"]
+[$domain=/^hdhd\d+.com/]##[href="https://oplove27.com"]
+[$domain=/^hdhd\d+.com/]##.row > .text-center.col-md-12
+[$domain=/^hdhd\d+.com/]##.content-zoom.no-attach.view-head.panel-default.panel.contents [href="https://dg4379.com"]
+[$domain=/^hdhd\d+.com/]##.content-zoom.no-attach.view-head.panel-default.panel.contents [href="https://rb-002.com/"]
 [$domain=/^newtoon\d+.com/]##div.mt-3.ad-form.container:nth-of-type(1)
 [$domain=/^newtoon\d+.com/]##.nav-wrapper-1.nav-wrapper > .second-nav > div
 [$domain=/^newtoon\d+.com/]##.text-small.text-center.text-muted.pt-4.mt-5
