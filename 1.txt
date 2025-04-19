@@ -56,6 +56,7 @@ anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
+||moeni.live/data/apms/background/*g$image
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.pt-4.container-fluid.hot-comic
 [$url=||t1.xtoon*.com^]##.in-home__search.container.i-search
