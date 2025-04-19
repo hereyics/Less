@@ -28,7 +28,6 @@
 @@||kr-ss3.chat.naver.com^$stealth=dpi
 @@||kr-ss4.chat.naver.com^$stealth=dpi
 @@||kr-ss5.chat.naver.com^$stealth=dpi
-m.fmkorea.com##div[class="video-container"]:has(iframe[src^="https://vod.sooplive.co.kr"])
 linkbro.xyz##.mb-4.gap-\[4px\].flex-col.flex
 linkbro.xyz##.md\:py-0.md\:px-8.py-6
 linkbro.xyz##div.col-span-1:nth-of-type(11)
