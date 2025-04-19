@@ -204,6 +204,8 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^bpt\d+.com/]##.footer
 [$domain=/^yatoon\d+.com/]##.ad-form.container
 [$domain=/^hdhd\d+.com/]##.bnt.bn
+[$domain=/^hdhd\d+.com/]##.top_banner.clearfix.row
+[$domain=/^hdhd\d+.com/]##.alert_windows
 [$domain=/^hdhd\d+.com/]##[href="http://bn104.kr"]
 [$domain=/^hdhd\d+.com/]##[href="http://fox-ss.com"]
 [$domain=/^hdhd\d+.com/]##[href="http://1bet1.vip"]
