@@ -313,6 +313,7 @@ cafe.naver.com##*:style(-webkit-touch-callout: default !important; -webkit-user-
 [$domain=/^booktoki\d+.com/]###novel_content:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 [$domain=/^manatoki\d+.net/]#%#//scriptlet('abort-current-inline-script', 'oncontextmenu')
 [$domain=/^newtoki\d+.com/]#%#//scriptlet('abort-current-inline-script', 'oncontextmenu')
+[$domain=/^page.kakao\d+.com/]#%#//scriptlet('abort-current-inline-script', 'oncontextmenu')
 
 ! 트래커 차단
 fmkorea.com#%#//scriptlet('set-constant', 'link_url', '')
