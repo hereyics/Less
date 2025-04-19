@@ -202,6 +202,7 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^wtwt\d+.com/]##div.row > .banner
 [$domain=/^wtwt\d+.com/]###pop-content
 [$domain=/^bpt\d+.com/]##.footer
+[$domain=/^yatoon\d+.com/]##.ad-form.container
 [$domain=/^newtoon\d+.com/]##div.mt-3.ad-form.container:nth-of-type(1)
 [$domain=/^newtoon\d+.com/]##.nav-wrapper-1.nav-wrapper > .second-nav > div
 [$domain=/^newtoon\d+.com/]##.text-small.text-center.text-muted.pt-4.mt-5
