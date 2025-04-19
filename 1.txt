@@ -203,6 +203,12 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^wtwt\d+.com/]###pop-content
 [$domain=/^bpt\d+.com/]##.footer
 [$domain=/^yatoon\d+.com/]##.ad-form.container
+[$domain=/^tvpan\d+.com/]##[href="/promotion.html"]
+[$domain=/^tvpan\d+.com/]##.Footer
+[$domain=/^tvpan\d+.com/]##.top_notice
+[$domain=/^tvpan\d+.com/]##.mask_all
+[$domain=/^tvpan\d+.com/]###dialog_595_0
+[$domain=/^tvpan\d+.com/]###dialog_595_1
 [$domain=/^hdhd\d+.net/]##.bnt.bn
 [$domain=/^hdhd\d+.net/]##.top_banner.clearfix.row
 [$domain=/^hdhd\d+.net/]##.alert_windows
