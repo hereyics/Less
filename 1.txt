@@ -56,6 +56,7 @@ anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
 ||moeni.live/data/apms/background/*g$image
+||marumaru*.com/data/apms/background/*g$image
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.pt-4.container-fluid.hot-comic
 [$url=||t1.xtoon*.com^]##.in-home__search.container.i-search
@@ -193,7 +194,6 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvwiki\d+.com/]###bo_v_act > ul
 [$domain=/^toon\d+.net/]##body > div > .guanggao1
 [$domain=/^toon\d+.net/]###container > div > .guanggao1
-[$domain=/^marumaru\d+.com/]
 [$domain=/^mtoon\d+.com/]##div.container_full:nth-of-type(1)
 [$domain=/^mtoon\d+.com/]##.wrapper > .pc_w.row
 [$domain=/^wftoon\d+.com/]##.top-banner
