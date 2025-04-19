@@ -193,7 +193,7 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvwiki\d+.com/]###bo_v_act > ul
 [$domain=/^toon\d+.net/]##body > div > .guanggao1
 [$domain=/^toon\d+.net/]###container > div > .guanggao1
-[$domain=/^marumaru\d+.com/]##.row-10.row.basic-banner-4
+[$domain=/^marumaru\d+.com/]
 [$domain=/^mtoon\d+.com/]##div.container_full:nth-of-type(1)
 [$domain=/^mtoon\d+.com/]##.wrapper > .pc_w.row
 [$domain=/^wftoon\d+.com/]##.top-banner
