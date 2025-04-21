@@ -58,6 +58,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||moeni.live/data/apms/background/*g$image
 ||marumaru*.com/data/apms/background/*g$image
 [$url=||t1.xtoon*.com^]##.f-tips
+[$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
+[$url=||t1.xtoon*.com^]###offcanvasExample > div.offcanvas-body.d-flex.flex-column.gap-4:last-child > a.text-dark.fw-bold:nth-child(3)
+[$url=||t1.xtoon*.com^]###offcanvasExample > div.offcanvas-body.d-flex.flex-column.gap-4:last-child > div.login_info1:nth-child(5) > div.w-100.d-flex.flex-column > small.mt-3.text-secondary:last-child
 [$url=||t1.xtoon*.com^]##.pt-4.container-fluid.hot-comic
 [$url=||t1.xtoon*.com^]##.in-home__search.container.i-search
 [$url=||t1.xtoon*.com^]##div.mt-4.container:nth-of-type(8)
