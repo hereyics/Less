@@ -107,7 +107,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||wavvetoon*.com^]##.at-copyright
 [$url=||t*.hoduhodu.com^]##.mt-4.flex-wrap.flex
 [$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##a[href="https://opgo19.com"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||blacktoon*.com^]##.alert-dark.alert
 [$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
 
