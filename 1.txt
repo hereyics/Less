@@ -200,6 +200,15 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvwiki\d+.com/]##.notice
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
 [$domain=/^tvwiki\d+.com/]###bo_v_act > ul
+[$domain=/^hottoon\d+.com/]###main_banner
+[$domain=/^hottoon\d+.com/]##div.container.banner:nth-child(14) > div.row > div.alert.alert-dark.row
+[$domain=/^hottoon\d+.com/]##div.container.mt-2:nth-child(19)
+[$domain=/^hottoon\d+.com/]##div.container-full.mt-2:nth-child(15) > div.container.banner:first-child > div.row
+[$domain=/^hottoon\d+.com/]##div.container-full.mt-2:nth-child(15) > div.container.mt-2:nth-child(5)
+[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.mt-2:nth-child(4) > div.row
+[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.container.banner:first-child > div.row > div.alert.alert-dark.row
+[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.banner.mt-2:nth-child(2) > div.row.top-ad-padding
+[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.mt-2:first-child > div.row
 [$domain=/^toon\d+.net/]##body > div > .guanggao1
 [$domain=/^toon\d+.net/]###container > div > .guanggao1
 [$domain=/^mtoon\d+.com/]##div.container_full:nth-of-type(1)
