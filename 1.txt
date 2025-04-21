@@ -206,6 +206,10 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvwiki\d+.com/]##.notice
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
 [$domain=/^tvwiki\d+.com/]###bo_v_act > ul
+[$domain=/^foc\d+.com/]##.pc_w.notice_alert
+[$domain=/^foc\d+.com/]##.aaa.row
+[$domain=/^foc\d+.com/]###top_btn
+[$domain=/^foc\d+.com/]##.footer_m
 [$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div.menu_header:nth-child(2) > div.menu_header_box.p_w > div.menu_box.show_m_menu > ul > li:nth-child(5) > a
 [$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div.notice_header:last-child > div.p_w
 [$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
