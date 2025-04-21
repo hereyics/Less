@@ -200,6 +200,9 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvwiki\d+.com/]##.notice
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
 [$domain=/^tvwiki\d+.com/]###bo_v_act > ul
+[$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div.menu_header:nth-child(2) > div.menu_header_box.p_w > div.menu_box.show_m_menu > ul > li:nth-child(5) > a
+[$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div.notice_header:last-child > div.p_w
+[$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
 [$domain=/^hottoon\d+.com/]###main_banner
 [$domain=/^hottoon\d+.com/]##div.container.banner:nth-child(14) > div.row > div.alert.alert-dark.row
 [$domain=/^hottoon\d+.com/]##div.container.mt-2:nth-child(19)
