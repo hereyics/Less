@@ -97,6 +97,12 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||tkor*.com^]###bo_list > .clearfix
 [$url=||tkor*.com^]###banner_21_img
 [$url=||tkor*.com^]##.bnt.bn
+[$url=||tkor*.com^]##[href="/단행본"]
+[$url=||tkor*.com^]##[href="/망가"]
+[$url=||tkor*.com^]##[href="/포토툰"]
+[$url=||tkor*.com^]##[href="/주소안내"]
+[$url=||tkor*.com^]##[href="/코사이트"]
+[$url=||tkor*.com^]##[href="/토토보증업체"]
 [$url=||tkor*.com^]##div.visible-xs.text-center:nth-of-type(7)
 [$url=||tkor*.com^]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(3) > a
 [$url=||tkor*.com^]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(4) > a
