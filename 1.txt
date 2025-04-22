@@ -359,10 +359,8 @@ zod.kr##[data-href^='https://zod.kr/go/']
 cafe.naver.com##*:style(-webkit-touch-callout: default !important; -webkit-user-select: text !important; -moz-user-select: text !important; -ms-user-select: text !important; user-select: text !important;)
 
 ! 트래커 차단
-fmkorea.com#%#//scriptlet('set-constant', 'link_url', '')
 ||dcinside.com/_js/jquery/jquery.iframetracker.js
 ||dcinside.com/js/kakao.min.js
-||google.*/search$removeparam=/^(ved|uact|rlz|oq|k|sclient|iflsig|bih|biw|client|hl|cp|dpr)=/
 ||wcs.naver.net^$domain=dcinside.com
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
