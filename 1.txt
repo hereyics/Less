@@ -92,6 +92,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
 [$url=||b*.toon-bro.xyz^]##.md\:py-0.md\:px-8.py-6
 [$url=||b*.toon-bro.xyz^]##.xl\:hidden > div
+[$url=||b*.toon-bro.xyz^]##main.flex-1:nth-child(5) > div.container.md\:px-8.px-1.flex-1.items-start:last-child > main.relative.py-6 > div.mx-auto.w-full.min-w-0 > div.grid.lg\:grid-cols-\[150px_1fr_150px\].xl\:grid-cols-\[200px_1fr_200px\] > div:nth-child(2) > div.sticky.z-50.flex.h-14.items-center.backdrop-blur.bg-background\/95.supports-\[backdrop-filter\]\:bg-background\/60.duration-500.bottom-0:last-child > div.flex.flex-1.justify-end:last-child > button.inline-flex.items-center.justify-center.whitespace-nowrap.rounded-md.text-sm.font-medium.transition-colors.focus-visible\:outline-none.focus-visible\:ring-1.focus-visible\:ring-ring.disabled\:pointer-events-none.disabled\:opacity-50.hover\:bg-accent.hover\:text-accent-foreground.h-9.py-2.px-2.mr-2:first-child
 [$url=||happytoon*.com^]##.popup_wrap
 [$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(2)
 [$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(3)
