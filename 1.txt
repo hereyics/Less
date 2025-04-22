@@ -367,6 +367,10 @@ fmkorea.com#%#//scriptlet('set-constant', 'link_url', '')
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 
+! 멀웨어 / 수익링크 차단 
+fmkorea.com#%#//scriptlet('set-constant', 'link_url', '')
+||mistydivided.com^$all
+
 ! 애드가드 필터 오차단 해제
 11st.co.kr#@#div[class$="-ad"]
 @@/.*/$permissions=identity-credentials-get=(),document,domain=slrclub.com
