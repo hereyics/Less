@@ -114,6 +114,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||tkor*.com^]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(8) > a
 [$url=||tkor*.com^]##div.visible-xs.text-center:nth-of-type(9)
 [$url=||btoon*.com^]##.banner.row
+[$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:last-child
 [$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(3)
 [$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(4)
 [$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(5)
