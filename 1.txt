@@ -8,26 +8,6 @@
 @@||api-page.kakao.com^$stealth=dpi
 @@||dn-zip-page.kakao.com^$stealth=dpi
 @@||dn-img-page.kakao.com^$stealth=dpi
-@@||api.chzzk.naver.com^$stealth=dpi
-@@||livecloud-thumb.akamaized.net^$stealth=dpi
-@@||nga.naver.com^$stealth=dpi
-@@||scv-game.io.naver.com^$stealth=dpi
-@@||nng-phinf.pstatic.net^$stealth=dpi
-@@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
-@@||global.apis.naver.com^$stealth=dpi
-@@||comm-api.game.naver.com^$stealth=dpi
-@@||jp.apis.naver.com^$stealth=dpi
-@@||comm-api.game.naver.com^$stealth=dpi
-@@||ex-nlive-streaming.navercdn.com^$stealth=dpi
-@@||kr-col-ext.nelo.navercorp.com^$stealth=dpi
-@@||video-phinf.pstatic.net^$stealth=dpi
-@@||livecloud.pstatic.net^$stealth=dpi
-@@||esports-api.game.naver.com^$stealth=dpi
-@@||kr-ss1.chat.naver.com^$stealth=dpi
-@@||kr-ss2.chat.naver.com^$stealth=dpi
-@@||kr-ss3.chat.naver.com^$stealth=dpi
-@@||kr-ss4.chat.naver.com^$stealth=dpi
-@@||kr-ss5.chat.naver.com^$stealth=dpi
 m.comic.naver.com##.link_shortcut
 m.comic.naver.com##div.section_image_single:nth-of-type(11)
 m.comic.naver.com##div.section_image_single:nth-of-type(9)
@@ -132,6 +112,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##[href="https://xn--ly1b93vtre3ub.com/"] > .my-3.relative
 [$url=||t*.hoduhodu.com^]##.mt-4.flex-wrap.flex
 [$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##.right-5.bottom-20.fixed
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||blacktoon*.com^]##.alert-dark.alert
 [$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
