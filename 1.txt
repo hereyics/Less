@@ -216,6 +216,9 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.banner.mt-2:nth-child(2) > div.row.top-ad-padding
 [$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.mt-2:first-child > div.row
 [$domain=/^toon\d+.net/]##body > div > .guanggao1
+[$domain=/^toon\d+.net/]###ft_copy
+[$domain=/^toon\d+.net/]###top_btn
+[$domain=/^toon\d+.net/]##.ft_info > [href="https://t.me/nanbam01"]
 [$domain=/^toon\d+.net/]###container > div > .guanggao1
 [$domain=/^mtoon\d+.com/]##div.container_full:nth-of-type(1)
 [$domain=/^mtoon\d+.com/]##.wrapper > .pc_w.row
