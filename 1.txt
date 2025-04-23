@@ -206,15 +206,6 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div.menu_header:nth-child(2) > div.menu_header_box.p_w > div.menu_box.show_m_menu > ul > li:nth-child(5) > a
 [$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div.notice_header:last-child > div.p_w
 [$domain=/^namee\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
-[$domain=/^hottoon\d+.com/]###main_banner
-[$domain=/^hottoon\d+.com/]##div.container.banner:nth-child(14) > div.row > div.alert.alert-dark.row
-[$domain=/^hottoon\d+.com/]##div.container.mt-2:nth-child(19)
-[$domain=/^hottoon\d+.com/]##div.container-full.mt-2:nth-child(15) > div.container.banner:first-child > div.row
-[$domain=/^hottoon\d+.com/]##div.container-full.mt-2:nth-child(15) > div.container.mt-2:nth-child(5)
-[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.mt-2:nth-child(4) > div.row
-[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.container.banner:first-child > div.row > div.alert.alert-dark.row
-[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.banner.mt-2:nth-child(2) > div.row.top-ad-padding
-[$domain=/^hottoon\d+.com/]##div.container.toon-viewer:nth-child(8) > div.toon-viewer-warp:last-child > div.container.mt-2:first-child > div.row
 [$domain=/^toon\d+.net/]##body > div > .guanggao1
 [$domain=/^toon\d+.net/]###ft_copy
 [$domain=/^toon\d+.net/]###top_btn
