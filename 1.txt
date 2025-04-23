@@ -228,7 +228,6 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^wfwf\d+.com/]##.top-banner
 [$domain=/^wtwt\d+.com/]##div.row > .banner
 [$domain=/^wtwt\d+.com/]###pop-content
-[$domain=/^bpt\d+.com/]##.footer
 [$domain=/^yatoon\d+.com/]##.ad-form.container
 [$domain=/^tvpan\d+.com/]##[href="/promotion.html"]
 [$domain=/^tvpan\d+.com/]##.Footer
