@@ -60,6 +60,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t1.xtoon*.com^]##a.align-items-center.d-flex.hover-pink.text-dark.fw-bold:nth-of-type(4)
 [$url=||t1.xtoon*.com^]##a.align-items-center.d-flex.hover-pink.text-dark.fw-bold > [src]
 [$url=||t1.xtoon*.com^]##.history-alert
+[$url=||t1.xtoon*.com^]##.fw-bold.mb-md-2.mb-2
 [$url=||t1.xtoon*.com^]###category-Ad
 [$url=||t1.xtoon*.com^]###go-top
 [$url=||zzap*.com^]##.partner-banner-flex
