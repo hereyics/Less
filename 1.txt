@@ -159,6 +159,11 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 *##iframe[src*='sga.adp']
 *##img[alt$='광고']
 11st.co.kr##iframe[src*='ads.adoffice.11st.co.kr']
+[$domain=/^bpt\d+.com/]##.footer
+[$domain=/^bpt\d+.com/]##div.wrapper:first-child > div:nth-child(3)
+[$domain=/^bpt\d+.com/]##div.wrapper:first-child > div:nth-child(4)
+[$domain=/^bpt\d+.com/]##div.wrapper:first-child > div.container_full:nth-child(2)
+[$domain=/^bpt\d+.com/]##div.wrapper:first-child > header.main-header:first-child > div.head_con_3:last-child > div.head_con_search > div.notice_tab:last-child
 [$domain=/^booktoki\d+.com/]##.col-sm-9.col-md-9.col-15
 [$domain=/^booktoki\d+.com/]##li:has([target]:not([href*=bbs]))
 [$domain=/^cokcoktv\d+.com/]###cpb-popup-banners
@@ -227,6 +232,7 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^tvpan\d+.com/]###dialog_595_0
 [$domain=/^tvpan\d+.com/]###dialog_595_1
 [$domain=/^hdhd\d+.net/]##.bnt.bn
+[$domain=/^hdhd\d+.net/]##div.list-row:nth-of-type(1)
 [$domain=/^hdhd\d+.net/]##.top_banner.clearfix.row
 [$domain=/^hdhd\d+.net/]##.alert_windows
 [$domain=/^hdhd\d+.net/]##[href="http://bn104.kr"]
