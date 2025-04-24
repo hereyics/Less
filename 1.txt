@@ -246,6 +246,8 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[class*='carousel'][id]
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[href*='/ad'][target='_blank']:has(img)
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[target='_blank']:has([src$='.gif']):upward(1)
+[$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##.at-side.at-col.col-md-3 > .header.at-banner.at-row.row
+[$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##.at-main.at-col.col-md-9 > .header.at-banner.at-row.row
 aagag.com#$#.la {position: absolute !important; left: -3000px !important; width: 60px !important; height: 20px !important; }
 auction.co.kr##.component--sponsor_link.component
 avdbs.com##.ad-btn[class*='tp']
