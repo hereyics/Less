@@ -118,8 +118,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||blacktoon*.com^]##.alert-dark.alert
 [$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
-
-! new rules
 itworld.co.kr##[id^='sp_message_container_']:remove()
 m.gmarket.co.kr##.box__ad-banner
 m.gmarket.co.kr##.box__banner-promotion
