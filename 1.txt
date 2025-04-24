@@ -175,6 +175,9 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^manatoki\d+.net/]##.board-tail-banner
 [$domain=/^manatoki\d+.net/]##[style="margin-bottom: 20px;"].row.row-15
 [$domain=/^manatoki\d+.net/]##li:has([target]:not([href*=bbs]))
+[$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(2)
+[$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(3)
+[$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##.banner
 [$domain=/^newtoki\d+.com/]##.board-tail-banner
 [$domain=/^newtoki\d+.com/]##[style="margin-bottom: 20px;"].row.row-15
