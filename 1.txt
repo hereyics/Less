@@ -8,14 +8,6 @@
 @@||api-page.kakao.com^$stealth=dpi
 @@||dn-zip-page.kakao.com^$stealth=dpi
 @@||dn-img-page.kakao.com^$stealth=dpi
-m.comic.naver.com##.N\=a\:fot\.shortcut.link_shortcut
-m.comic.naver.com##.cont_app_banner
-m.comic.naver.com##.link_shortcut
-m.comic.naver.com###goTopBtn
-m.comic.naver.com##div.section_image_single:nth-of-type(9)
-m.comic.naver.com##div.section_image_single:nth-of-type(11)
-m.series.naver.com##.footer_home
-m.series.naver.com##.BookStoreAppLauncher\.launchDefault\(\).series_banner
 check-host.net##.text-sm.rounded.border-red-500.border-l-8.pl-1.py-0\.5.bg-gray-200.mb-2
 linkbro.xyz##.mb-4.gap-\[4px\].flex-col.flex
 linkbro.xyz##.md\:py-0.md\:px-8.py-6
