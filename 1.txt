@@ -32,6 +32,8 @@ op.gg###notification-header > li
 manhwabang.org##.banner_max
 manhwabang.org##.copyright
 manhwabang.org##.banner-container
+anilife.live##[href="/notice"]
+anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-post_type.menu-item:nth-of-type(7)
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
