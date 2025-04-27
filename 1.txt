@@ -391,6 +391,7 @@ lol.inven.co.kr#@#article > div[style].banner
 seorinexpress.com#%#//scriptlet('set-constant', 'AM_PRODUCT', 'noopFunc')
 video.kakao.com#@#.list_share
 web.joongna.com#@#a[rel*="sponsored"]
+||t.co^$all,badfilter
 @@||192.168.$stealth
 @@||app.link^$stealth=dpi
 @@||isplus.$stealth=dpi
