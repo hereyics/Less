@@ -113,30 +113,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||blacktoon*.com^]##.alert-dark.alert
 [$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
-itworld.co.kr##[id^='sp_message_container_']:remove()
-m.gmarket.co.kr##.box__ad-banner
-m.gmarket.co.kr##.box__banner-promotion
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
-naver.com,~chzzk.naver.com##+js(addEventListener-defuser, /contextmenu|selectstart|dragstart/)
-#@#.appBanner:not(body)
-*##.ad-view
-*##.basic-banner
-*##.happy-header
-*##.happy-header-mobile
-*##.happy-under-player-mobile
-*##.popup_left
-*##[id*='powerlink']
-*##[id^='hd_pop']
-*##[target='_blank']:has([src*='/banner'])
-*##cloudflare-app
-*##div.banner_m
-*##div[class^='AD'][style]
-*##iframe[src*='ad.doorigo.co.kr']
-*##iframe[src*='cdn.targetpush.co.kr']
-*##iframe[src*='digitalcamp.co.kr']
-*##iframe[src*='sga.adp']
-*##img[alt$='광고']
-11st.co.kr##iframe[src*='ads.adoffice.11st.co.kr']
 [$domain=/^tvwiki\d+.com/]##.active.search_wrap > ul
 [$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
