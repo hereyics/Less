@@ -114,6 +114,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||blacktoon*.com^]##.alert-dark.alert
 [$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
+[$url=||namee*.com^]##.aaa.row
+[$url=||namee*.com^]##.notice_header
+[$url=||namee*.com^]###top_btn
+[$url=||namee*.com^]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
 [$domain=/^tvwiki\d+.com/]##.active.search_wrap > ul
 [$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
