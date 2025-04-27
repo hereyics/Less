@@ -1,6 +1,7 @@
 ! Title: Custom Filter
 ! Version: 2025-04-28
 
+##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 manhwabang.org##.banner_max
 manhwabang.org##.btn_area
 manhwabang.org###bottom_btn
@@ -113,7 +114,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||blacktoon*.com^]##.alert-dark.alert
 [$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
-##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 [$domain=/^tvwiki\d+.com/]##.active.search_wrap > ul
 [$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
