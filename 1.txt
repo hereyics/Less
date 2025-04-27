@@ -1,13 +1,6 @@
 ! Title: Custom Filter
-! Version: 2025-04-26
+! Version: 2025-04-28
 
-! #1
-@@||hey-bro.xyz^$stealth=dpi
-@@||tv.kakao.com^$stealth=dpi
-@@||track.cashfriends.io^$stealth=dpi
-@@||api-page.kakao.com^$stealth=dpi
-@@||dn-zip-page.kakao.com^$stealth=dpi
-@@||dn-img-page.kakao.com^$stealth=dpi
 manhwabang.org##.banner_max
 manhwabang.org##.btn_area
 manhwabang.org###bottom_btn
