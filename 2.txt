@@ -1,3 +1,6 @@
+! Title: Custom DNS
+! Version: 2025-04-28
+
 @@||alex.daum.net^
 @@||cdn-ao.adison.co^
 ||tj.oktoon.top^
