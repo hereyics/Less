@@ -192,6 +192,7 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^funbe\d+.com/]##[href="/코사이트"]
 [$domain=/^funbe\d+.com/]###bo_list > .clearfix
 [$domain=/^funbe\d+.com/]###banner_21_img
+[$domain=/^tkor\d+.com/]##[target='_blank']:has([src])
 [$domain=/^tvmon\d+.org/]##.banner_wrap2
 [$domain=/^tvmon\d+.org/]##[src*='/AD/']
 [$domain=/^tvroom\d+.org/]###mq-notice
