@@ -124,6 +124,11 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tvwiki\d+.com/]###bo_v_act
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-side.at-col.col-md-3 > .header.at-banner.at-row.row
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-main.at-col.col-md-9 > .header.at-banner.at-row.row
+[$domain=/^hottoon\d+.com/]##div.banner.container:nth-of-type(1)
+[$domain=/^hottoon\d+.com/]##div.banner.container:nth-of-type(3)
+[$domain=/^hottoon\d+.com/]##div.mt-2.container:nth-of-type(7)
+[$domain=/^hottoon\d+.com/]###main_banner
+[$domain=/^hottoon\d+.com/]##div.container-full.mt-2:nth-child(15) > div.container.mt-2:nth-child(5) > div.row
 [$domain=/^bpt\d+.com/]##.footer
 [$domain=/^bpt\d+.com/]##div.wrapper:first-child > div:nth-child(3)
 [$domain=/^bpt\d+.com/]##div.wrapper:first-child > div:nth-child(4)
