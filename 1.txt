@@ -255,6 +255,9 @@ namu.wiki##span:has-text(더 보기):upward(2):has([target])
 [$domain=/^newtoon\d+.com/]##.nav-wrapper-1.nav-wrapper > .second-nav > div
 [$domain=/^newtoon\d+.com/]##.text-small.text-center.text-muted.pt-4.mt-5
 [$domain=/^yako[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]###banner
+[$domain=/^[a-z]*toki\d+\.[a-z]{3}$/]##.board-tail-banner
+[$domain=/^[a-z]*toki\d+\.[a-z]{3}$/]##[style='margin-bottom: 20px;'].row.row-15
+[$domain=/^[a-z]*toki\d+\.[a-z]{3}$/]##li:has([target]:not([href*=bbs]))
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[alt*='광고'], [alt*='배너']
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[class*='carousel'][id]
 [$domain=/torrent[a-zA-Z0-9]*.[a-zA-Z]{2,}$/]##[href*='/ad'][target='_blank']:has(img)
