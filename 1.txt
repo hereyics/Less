@@ -109,6 +109,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
 [$domain=/^tvwiki\d+.com/]###bo_v_act
+[$domain=/^tv\d+\.wiki/]##.custom_banner_wrap
+[$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
+[$domain=/^tv\d+\.wiki/]##.items
+[$domain=/^tv\d+\.wiki/]##.bl.comments-area
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-side.at-col.col-md-3 > .header.at-banner.at-row.row
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-main.at-col.col-md-9 > .header.at-banner.at-row.row
 [$domain=/^tkor\d+\.com/]###bo_list > .clearfix
