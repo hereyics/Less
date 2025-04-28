@@ -40,6 +40,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||moeni.live/data/apms/background/*g$image
 ||marumaru*.com/data/apms/background/*g$image
 ||b.hottoon.top/*$image
+||yatoon*.com/plugin/sns/icon/*.png$image
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
 [$url=||t1.xtoon*.com^]###offcanvasExample > div.offcanvas-body.d-flex.flex-column.gap-4:last-child > a.text-dark.fw-bold:nth-child(3)
