@@ -2,6 +2,7 @@
 ! Version: 2025-04-29
 
 @@||lcs.naver.com^
+@@||cc.naver.com^
 @@||alex.daum.net^
 @@||cdn-ao.adison.co^
 ||tj.oktoon.top^
