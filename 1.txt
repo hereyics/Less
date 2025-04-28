@@ -2,21 +2,6 @@
 ! Version: 2025-04-28
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
-m.comic.naver.com##.N\=a\:fot\.shortcut.link_shortcut
-m.comic.naver.com##.N\=a\:ckp\.autobenefitc.link
-m.comic.naver.com##div.section_image_single:nth-of-type(9)
-m.comic.naver.com##div.section_image_single:nth-of-type(11)
-m.comic.naver.com##.link_shortcut
-m.comic.naver.com###goTopBtn
-m.comic.naver.com###event_wrapper2
-m.comic.naver.com##.cookieshop.event_package_area > .cookie_title
-m.novel.naver.com##.on.dim
-m.novel.naver.com##.popup_img
-m.novel.naver.com##._launchApp\(\).link_series
-m.novel.naver.com##.home_add_a
-m.novel.naver.com##.btn_top
-m.series.naver.com##.BookStoreAppLauncher\.launchDefault\(\).series_banner
-m.series.naver.com##.footer_home
 m.dcinside.com###recom_box1
 manhwabang.org##.banner_max
 manhwabang.org##.btn_area
