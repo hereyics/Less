@@ -128,6 +128,23 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tvwiki\d+.com/]###bo_v_act
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-side.at-col.col-md-3 > .header.at-banner.at-row.row
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-main.at-col.col-md-9 > .header.at-banner.at-row.row
+[$domain=/^tkor\d+\.com/]###bo_list > .clearfix
+[$domain=/^tkor\d+\.com/]###banner_21_img
+[$domain=/^tkor\d+\.com/]##.bnt.bn
+[$domain=/^tkor\d+\.com/]##[href="/단행본"]
+[$domain=/^tkor\d+\.com/]##[href="/망가"]
+[$domain=/^tkor\d+\.com/]##[href="/포토툰"]
+[$domain=/^tkor\d+\.com/]##[href="/주소안내"]
+[$domain=/^tkor\d+\.com/]##[href="/코사이트"]
+[$domain=/^tkor\d+\.com/]##[href="/토토보증업체"]
+[$domain=/^tkor\d+\.com/]##div.visible-xs.text-center:nth-of-type(7)
+[$domain=/^tkor\d+\.com/]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(3) > a
+[$domain=/^tkor\d+\.com/]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(4) > a
+[$domain=/^tkor\d+\.com/]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(5) > a
+[$domain=/^tkor\d+\.com/]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(6) > a
+[$domain=/^tkor\d+\.com/]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(7) > a
+[$domain=/^tkor\d+\.com/]###mobile_nav > ul.nav.navbar-nav.m_nav.text-center > li:nth-child(8) > a
+[$domain=/^tkor\d+\.com/]##div.visible-xs.text-center:nth-of-type(9)
 [$domain=/^hottoon\d+.com/]##div.banner.container:nth-of-type(1)
 [$domain=/^hottoon\d+.com/]##div.banner.container:nth-of-type(3)
 [$domain=/^hottoon\d+.com/]##div.mt-2.container:nth-of-type(7)
