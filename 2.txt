@@ -1,6 +1,7 @@
 ! Title: Custom DNS
 ! Version: 2025-04-28
 
+@@||lcs.naver.com^
 @@||alex.daum.net^
 @@||cdn-ao.adison.co^
 ||tj.oktoon.top^
