@@ -165,6 +165,15 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^wtwt\d+.com/]##div.row > .banner
 [$domain=/^wtwt\d+.com/]###pop-content
 [$domain=/^yatoon\d+.com/]##.ad-form.container
+[$domain=/^yatoon\d+.com/]##.bo_v_snswr
+[$domain=/^yatoon\d+.com/]##div.swiper-slide:nth-of-type(3)
+[$domain=/^yatoon\d+.com/]##div.swiper-slide:nth-of-type(4)
+[$domain=/^yatoon\d+.com/]##.col-md-4
+[$domain=/^yatoon\d+.com/]##div.col-md-2:nth-of-type(3)
+[$domain=/^yatoon\d+.com/]##div.col-md-2:nth-of-type(4)
+[$domain=/^yatoon\d+.com/]###top_btn
+[$domain=/^yatoon\d+.com/]##div.container > p
+[$domain=/^yatoon\d+.com/]##.text-small.text-center.text-muted.pt-4.mt-5
 [$domain=/^tvpan\d+.com/]##[href="/promotion.html"]
 [$domain=/^tvpan\d+.com/]##.Footer
 [$domain=/^tvpan\d+.com/]##.top_notice
