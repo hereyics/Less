@@ -214,5 +214,8 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^newtoon\d+.com/]##div.mt-3.ad-form.container:nth-of-type(1)
 [$domain=/^newtoon\d+.com/]##.nav-wrapper-1.nav-wrapper > .second-nav > div
 [$domain=/^newtoon\d+.com/]##.text-small.text-center.text-muted.pt-4.mt-5
+[$domain=/^ani\d+.net/]##li.gnb_1dli:nth-of-type(6)
+[$domain=/^ani\d+.net/]##body > div > .guanggao1
+[$domain=/^ani\d+.net/]###container > div > .guanggao1
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
