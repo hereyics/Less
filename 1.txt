@@ -117,6 +117,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||namee*.com^]##.notice_header
 [$url=||namee*.com^]###top_btn
 [$url=||namee*.com^]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
+[$url=||m*.watchakr.com^]##.at-title
+[$url=||*.ondoani.com^]###ueqjlkmirostnpghf
+[$url=||*.ondotoon.com^]###nehfsgjuorvkldqixmwypt
+[$url=||*.ondobook.net^]###iumgljtqnovsxpkwcadefrbh
 [$domain=/^tvwiki\d+.com/]##.active.search_wrap > ul
 [$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
