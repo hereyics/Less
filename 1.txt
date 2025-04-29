@@ -44,6 +44,7 @@ ohli24.net##.site-info
 ohli24.net##.main-bg.pd-bt40
 ohli24.net##div.coment-box.layui-tab-brief.layui-tab:nth-of-type(5)
 op.gg###notification-header > li
+anilife.live##.surprise
 anilife.live##[href="/notice"]
 anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-post_type.menu-item:nth-of-type(7)
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
