@@ -124,6 +124,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||namee*.com^]###top_btn
 [$url=||namee*.com^]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
 [$url=||m*.watchakr.com^]##.at-title
+[$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
+[$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(2)
+[$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(3)
 [$domain=/^tvwiki\d+.com/]##.active.search_wrap > ul
 [$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
