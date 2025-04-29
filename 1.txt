@@ -53,6 +53,11 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||marumaru*.com/data/apms/background/*g$image
 ||b.hottoon.top/*$image
 ||yatoon*.com/plugin/sns/icon/*.png$image
+||*.ondoani.com/data/apms/background/%E*g$image
+||*.ondotoon.com/data/apms/background/%E*g$image
+||*.ondomana.com/data/apms/background/%E*g$image
+||*.ondobook.net/data/apms/background/%E*g$image
+||*.ondotv.com/data/apms/background/%E*g$image
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
 [$url=||t1.xtoon*.com^]###offcanvasExample > div.offcanvas-body.d-flex.flex-column.gap-4:last-child > a.text-dark.fw-bold:nth-child(3)
