@@ -2,6 +2,11 @@
 ! Version: 2025-04-28
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
+aniweek.com##.at-title
+aniweek.com##.at-copyright
+anizoa.net##.banner-grid
+anizoa.net##.popup-overlay
+anizoa.net##.my-custom-footer
 m.dcinside.com###recom_box1
 manhwabang.org##.banner_max
 manhwabang.org##.btn_area
