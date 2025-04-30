@@ -123,8 +123,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^blacktoon\d+\.com/]##.show.fade.alert-dismissible.alert-danger.alert
 [$domain=/^joatoon\d+\.com/]##.base_wrapper.gap-0\.5.lg\:grid-cols-6.md\:grid-cols-5.sm\:grid-cols-4.grid-cols-2.mt-2.grid
 [$domain=/^joatoon\d+\.com/]##.p-5.justify-center.flex
-[$domain=/^joatoon\d+\.com/]
-[$domain=/^joatoon\d+\.com/]
+[$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(2)
+[$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(3)
+[$domain=/^joatoon\d+\.com/]##.text-gray-900.font-bold.text-2xl
 [$domain=/^joatoon\d+\.com/]##div.flex.flex-col.min-h-screen:first-child > div:last-child > main.flex-grow.w-full.mt-2.base_wrapper:nth-child(2) > div:nth-child(2) > div.grid.grid-cols-2.gap-1.md\:grid-cols-4.md\:gap-3:first-child > div.main_menu.redbg.group:nth-child(2)
 [$domain=/^joatoon\d+\.com/]##div.flex.flex-col.min-h-screen:first-child > div:last-child > main.flex-grow.w-full.mt-2.base_wrapper:nth-child(2) > div:nth-child(2) > div.grid.grid-cols-2.gap-1.md\:grid-cols-4.md\:gap-3:first-child > div.main_menu.greenbg.group:nth-child(3)
 [$domain=/^wavvetoon\d+\.com/]##.post-image
