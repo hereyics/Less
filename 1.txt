@@ -94,13 +94,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||happytoon*.com^]##.popup_wrap
 [$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(2)
 [$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(3)
-[$url=||btoon*.com^]##.banner.row
-[$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:last-child
-[$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(3)
-[$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(4)
-[$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(5)
-[$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(6)
-[$url=||btoon*.com^]###header_mo > div:last-child > ul.menu_swp > li:nth-child(7)
 [$url=||wavvetoon*.com^]##.post-image
 [$url=||wavvetoon*.com^]##.at-copyright
 [$url=||t*.hoduhodu.com^]##a.border-b.border-r.w-\[25\%\]:nth-of-type(4)
