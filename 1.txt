@@ -91,9 +91,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||b*.toon-bro.xyz^]##.md\:py-0.md\:px-8.py-6
 [$url=||b*.toon-bro.xyz^]##.xl\:hidden > div
 [$url=||b*.toon-bro.xyz^]##.mr-2.px-2.py-2.h-9.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center.items-center.inline-flex
-[$url=||happytoon*.com^]##.popup_wrap
-[$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(2)
-[$url=||happytoon*.com^]##div.webtoon-details:nth-of-type(3)
 [$url=||wavvetoon*.com^]##.post-image
 [$url=||wavvetoon*.com^]##.at-copyright
 [$url=||t*.hoduhodu.com^]##a.border-b.border-r.w-\[25\%\]:nth-of-type(4)
@@ -104,8 +101,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
 [$url=||t*.hoduhodu.com^]##.right-5.bottom-20.fixed
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
-[$url=||blacktoon*.com^]##.alert-dark.alert
-[$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
 [$url=||m*.watchakr.com^]##.at-title
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(2)
@@ -121,6 +116,11 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
 [$domain=/^tv\d+\.wiki/]##.bl.comments-area
+[$domain=/^happytoon\d+\.com/]##.popup_wrap
+[$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(2)
+[$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(3)
+[$domain=/^blacktoon\d+\.com/]##.alert-dark.alert
+[$domain=/^blacktoon\d+\.com/]##.show.fade.alert-dismissible.alert-danger.alert
 [$domain=/^joatoon\d+\.com/]##.base_wrapper.gap-0\.5.lg\:grid-cols-6.md\:grid-cols-5.sm\:grid-cols-4.grid-cols-3.mt-2.grid
 [$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(2)
 [$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(3)
