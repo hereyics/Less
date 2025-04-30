@@ -130,6 +130,13 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^namee\d+\.com/]##.notice_header
 [$domain=/^namee\d+\.com/]###top_btn
 [$domain=/^namee\d+\.com/]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
+[$domain=/^btoon\d+\.com/]##.banner.row
+[$domain=/^btoon\d+\.com/]###header_mo > div:last-child > ul.menu_swp > li:last-child
+[$domain=/^btoon\d+\.com/]###header_mo > div:last-child > ul.menu_swp > li:nth-child(3)
+[$domain=/^btoon\d+\.com/]###header_mo > div:last-child > ul.menu_swp > li:nth-child(4)
+[$domain=/^btoon\d+\.com/]###header_mo > div:last-child > ul.menu_swp > li:nth-child(5)
+[$domain=/^btoon\d+\.com/]###header_mo > div:last-child > ul.menu_swp > li:nth-child(6)
+[$domain=/^btoon\d+\.com/]###header_mo > div:last-child > ul.menu_swp > li:nth-child(7)
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-side.at-col.col-md-3 > .header.at-banner.at-row.row
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-main.at-col.col-md-9 > .header.at-banner.at-row.row
 [$domain=/^tkor\d+\.com/]###bo_list > .clearfix
