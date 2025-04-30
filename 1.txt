@@ -121,11 +121,11 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
 [$domain=/^tv\d+\.wiki/]##.bl.comments-area
-[$url=||joatoon*.com^]##.base_wrapper.gap-0\.5.lg\:grid-cols-6.md\:grid-cols-5.sm\:grid-cols-4.grid-cols-3.mt-2.grid
-[$url=||joatoon*.com^]##div.mt-2:nth-of-type(2)
-[$url=||joatoon*.com^]##div.mt-2:nth-of-type(3)
-[$url=||joatoon*.com^]##.py-5.px-4.z-10 > div > .space-y-1.p-1
-[$url=||joatoon*.com^]###thepage > div > .space-y-1.p-1
+[$domain=/^joatoon\d+\.com/]##.base_wrapper.gap-0\.5.lg\:grid-cols-6.md\:grid-cols-5.sm\:grid-cols-4.grid-cols-3.mt-2.grid
+[$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(2)
+[$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(3)
+[$domain=/^joatoon\d+\.com/]##.py-5.px-4.z-10 > div > .space-y-1.p-1
+[$domain=/^joatoon\d+\.com/]###thepage > div > .space-y-1.p-1
 [$domain=/^namee\d+\.com/]##.aaa.row
 [$domain=/^namee\d+\.com/]##.notice_header
 [$domain=/^namee\d+\.com/]###top_btn
