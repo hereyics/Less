@@ -80,7 +80,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t1.xtoon*.com^]##.fw-bold.mb-md-2.mb-2
 [$url=||t1.xtoon*.com^]###category-Ad
 [$url=||t1.xtoon*.com^]###go-top
-[$url=||zzap*.com^]##.partner-banner-flex
 [$url=||z*.mzgtoon.com^]##.mt-4.flex-wrap.flex
 [$url=||z*.mzgtoon.com^]##.relative.mx-auto.max-w-\[800px\]
 [$url=||z*.mzgtoon.com^]##[href="https://xn--ly1b93vtre3ub.com/"] > .my-3.relative
@@ -230,5 +229,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^ani\d+.net/]##li.gnb_1dli:nth-of-type(6)
 [$domain=/^ani\d+.net/]##body > div > .guanggao1
 [$domain=/^ani\d+.net/]###container > div > .guanggao1
+[$domain=/^zzap\d+.com/]##.partner-banner-flex
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
