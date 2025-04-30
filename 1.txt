@@ -119,10 +119,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||blacktoon*.com^]##.alert-dark.alert
 [$url=||blacktoon*.com^]##.show.fade.alert-dismissible.alert-danger.alert
-[$url=||namee*.com^]##.aaa.row
-[$url=||namee*.com^]##.notice_header
-[$url=||namee*.com^]###top_btn
-[$url=||namee*.com^]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
 [$url=||m*.watchakr.com^]##.at-title
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(2)
@@ -138,6 +134,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
 [$domain=/^tv\d+\.wiki/]##.bl.comments-area
+[$domain=/^namee\d+\.com/]##.aaa.row
+[$domain=/^namee\d+\.com/]##.notice_header
+[$domain=/^namee\d+\.com/]###top_btn
+[$domain=/^namee\d+\.com/]##div.wrapper:first-child > header.main-header:first-child > div:nth-child(3)
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-side.at-col.col-md-3 > .header.at-banner.at-row.row
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-main.at-col.col-md-9 > .header.at-banner.at-row.row
 [$domain=/^tkor\d+\.com/]###bo_list > .clearfix
