@@ -3,6 +3,7 @@
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
+chatgpt.com##.leading-none.text-sm
 yajuso.com###banner-basic
 aniabout.com##.adstop-box1
 aniabout.com##.adstop-box
@@ -126,6 +127,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^joatoon\d+\.com/]###thepage > div > .space-y-1.p-1
 [$domain=/^wavvetoon\d+\.com/]##.post-image
 [$domain=/^wavvetoon\d+\.com/]##.at-copyright
+[$domain=/^wavvetoon\d+\.com/]##.mb.ad_txt
+[$domain=/^wavvetoon\d+\.com/]##.post-col.post-list
+[$domain=/^wavvetoon\d+\.com/]##.widget-index.at-container > .h20
 [$domain=/^namee\d+\.com/]##.aaa.row
 [$domain=/^namee\d+\.com/]##.notice_header
 [$domain=/^namee\d+\.com/]###top_btn
