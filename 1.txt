@@ -60,6 +60,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||*.ondomana.com/data/apms/background/%E*g$image
 ||*.ondobook.net/data/apms/background/%E*g$image
 ||*.ondotv.com/data/apms/background/%E*g$image
+||joatoon*.com/storage/ad/*.webp$image
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
 [$url=||t1.xtoon*.com^]###offcanvasExample > div.offcanvas-body.d-flex.flex-column.gap-4:last-child > a.text-dark.fw-bold:nth-child(3)
@@ -120,11 +121,12 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(3)
 [$domain=/^blacktoon\d+\.com/]##.alert-dark.alert
 [$domain=/^blacktoon\d+\.com/]##.show.fade.alert-dismissible.alert-danger.alert
-[$domain=/^joatoon\d+\.com/]##.base_wrapper.gap-0\.5.lg\:grid-cols-6.md\:grid-cols-5.sm\:grid-cols-4.grid-cols-3.mt-2.grid
-[$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(2)
-[$domain=/^joatoon\d+\.com/]##div.mt-2:nth-of-type(3)
-[$domain=/^joatoon\d+\.com/]##.py-5.px-4.z-10 > div > .space-y-1.p-1
-[$domain=/^joatoon\d+\.com/]###thepage > div > .space-y-1.p-1
+[$domain=/^joatoon\d+\.com/]##.base_wrapper.gap-0\.5.lg\:grid-cols-6.md\:grid-cols-5.sm\:grid-cols-4.grid-cols-2.mt-2.grid
+[$domain=/^joatoon\d+\.com/]##.p-5.justify-center.flex
+[$domain=/^joatoon\d+\.com/]
+[$domain=/^joatoon\d+\.com/]
+[$domain=/^joatoon\d+\.com/]##div.flex.flex-col.min-h-screen:first-child > div:last-child > main.flex-grow.w-full.mt-2.base_wrapper:nth-child(2) > div:nth-child(2) > div.grid.grid-cols-2.gap-1.md\:grid-cols-4.md\:gap-3:first-child > div.main_menu.redbg.group:nth-child(2)
+[$domain=/^joatoon\d+\.com/]##div.flex.flex-col.min-h-screen:first-child > div:last-child > main.flex-grow.w-full.mt-2.base_wrapper:nth-child(2) > div:nth-child(2) > div.grid.grid-cols-2.gap-1.md\:grid-cols-4.md\:gap-3:first-child > div.main_menu.greenbg.group:nth-child(3)
 [$domain=/^wavvetoon\d+\.com/]##.post-image
 [$domain=/^wavvetoon\d+\.com/]##.at-copyright
 [$domain=/^wavvetoon\d+\.com/]##.mb.ad_txt
