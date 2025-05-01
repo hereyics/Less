@@ -242,3 +242,4 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||nelo2-col.navercorp.com^$app=com.navercorp.game.android.community
 @@||apis.naver.com^$important,app=com.navercorp.game.android.community
+@@||nelo2-col.navercorp.com^$important,app=com.nhn.android.webtoon
