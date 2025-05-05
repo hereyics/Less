@@ -59,8 +59,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||*.ondobook.net/data/apms/background/%E*g$image
 ||*.ondotv.com/data/apms/background/%E*g$image
 ||joatoon*.com/storage/ad/*.webp$image
-||tj.oktoon.top^
-||oktoon.top^
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
