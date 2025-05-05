@@ -2,9 +2,11 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2025.02.04
+! Version: 2025.05.06
 
 ||warning.or.kr^
+||tj.oktoon.top^
+||oktoon.top^
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
 ||steamdb.info^$dnsrewrite=104.16.181.45
