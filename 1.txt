@@ -2,8 +2,6 @@
 ! Version: 2025-05-05
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
-chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
-chatgpt.com##.leading-none.text-sm
 yajuso.com###banner-basic
 aniabout.com##.adstop-box1
 aniabout.com##.adstop-box
