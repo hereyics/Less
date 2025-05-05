@@ -13,7 +13,6 @@ anizoa.net##.my-custom-footer
 tv.viaproducciones.net##.appList
 tv.viaproducciones.net##.announ.row
 tv.viaproducciones.net##[href^="https://ani01.net/board_e.php"]
-m.dcinside.com###recom_box1
 manhwabang.org##.banner_max
 manhwabang.org##.btn_area
 manhwabang.org###bottom_btn
@@ -60,6 +59,8 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||*.ondobook.net/data/apms/background/%E*g$image
 ||*.ondotv.com/data/apms/background/%E*g$image
 ||joatoon*.com/storage/ad/*.webp$image
+||tj.oktoon.top^
+||oktoon.top^
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
