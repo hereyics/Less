@@ -2,8 +2,10 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList
 ! Expires: 1 days
-! Version: 2025.05.06
+! Version: 2025.05.05
 
+namu.wiki##div[style^="color: rgba("]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
+namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 harpi.in##div:has(> script[src*="jads.js"])
 ||prts.plus/ad_leidian.jpg
 prts.plus##a:has(> img[src="/ad_leidian.jpg"])
