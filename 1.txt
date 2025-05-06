@@ -23,6 +23,14 @@ manhwabang.org##.copyright
 manhwabang.org###telegram
 aniwolf.com##.block-rounded.block.row
 check-host.net##.text-sm.rounded.border-red-500.border-l-8.pl-1.py-0\.5.bg-gray-200.mb-2
+damoalink.com##.main-ad-banner__list
+damoalink.com##.box-section.main-platform
+damoalink.com###footer
+damoalink.com##.wp-dark-mode-ignore._track
+jusokorea.com##.main-ad-banner__list
+jusokorea.com##.box-section.main-platform
+jusokorea.com##.wp-dark-mode-ignore._track
+jusokorea.com###footer
 linkbro.xyz##.mb-4.gap-\[4px\].flex-col.flex
 linkbro.xyz##.md\:py-0.md\:px-8.py-6
 linkbro.xyz##div.col-span-1:nth-of-type(11)
@@ -117,12 +125,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
 [$domain=/^tv\d+\.wiki/]##.bl.comments-area
-[$domain=/^jusokorea\d+.com/]##.box-section.main-platform
-[$domain=/^jusokorea\d+.com/]##.main-ad-banner
-[$domain=/^jusokorea\d+.com/]###footer
-[$domain=/^damoalink\d+.com/]##.box-section.main-platform
-[$domain=/^damoalink\d+.com/]##.main-ad-banner
-[$domain=/^damoalink\d+.com/]###footer
 [$domain=/^happytoon\d+\.com/]##.popup_wrap
 [$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(2)
 [$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(3)
