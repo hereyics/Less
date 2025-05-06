@@ -1,4 +1,4 @@
-! Title: Custom Filter
+! Title: LevList
 ! Version: 2025-05-07
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
