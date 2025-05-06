@@ -1,7 +1,8 @@
 ! Title: Custom Filter
-! Version: 2025-05-05
+! Version: 2025-05-07
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
+missav.ws##button.hover\:text-nord6.focus\:outline-none.font-medium.leading-4.text-nord4.text-sm.shadow-sm.whitespace-nowrap.items-center.inline-flex:nth-of-type(3)
 yajuso.com###banner-basic
 aniabout.com##.adstop-box1
 aniabout.com##.adstop-box
@@ -100,6 +101,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
 [$url=||t*.hoduhodu.com^]##.right-5.bottom-20.fixed
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##.relative.mx-auto.max-w-\[800px\]
 [$url=||m*.watchakr.com^]##.at-title
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(2)
