@@ -117,6 +117,12 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
 [$domain=/^tv\d+\.wiki/]##.bl.comments-area
+[$domain=/^jusokorea\d+.com/]##.box-section.main-platform
+[$domain=/^jusokorea\d+.com/]##.main-ad-banner
+[$domain=/^jusokorea\d+.com/]###footer
+[$domain=/^damoalink\d+.com/]##.box-section.main-platform
+[$domain=/^damoalink\d+.com/]##.main-ad-banner
+[$domain=/^damoalink\d+.com/]###footer
 [$domain=/^happytoon\d+\.com/]##.popup_wrap
 [$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(2)
 [$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(3)
