@@ -130,6 +130,17 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||www.cookmana*.com^]##.new.mChatBtn.m-chat-btn
 [$url=||www.cookmana*.com^]##.mToTop.m-to-top
 [$url=||www.cookmana*.com^]##.m-recommend-toons
+[$url=||www.hulk*.com^]##.banner_zone
+[$url=||www.hulk*.com^]##.notice_wrap
+[$url=||www.hulk*.com^]##.right_fix_zone
+[$url=||www.hulk*.com^]##.hulk_seo_wrap
+[$url=||www.hulk*.com^]##.f_customer
+[$url=||www.hulk*.com^]##li:nth-of-type(6)
+[$url=||www.hulk*.com^]##[href^="/bbs_list.php"] > .gnb_title
+[$url=||jusokok*.com^]##div.section > div
+[$url=||jusokok*.com^]##.mheader-top
+[$url=||jusokok*.com^]###lcadoputjmrbnvgfqikesh > .bg-black.carousel-inner > .active.item
+[$url=||jusokok*.com^]###nlrfbsouijpvkcmhdtqeg > .bg-black.carousel-inner > .active.item
 [$url=||m*.watchakr.com^]##.at-title
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(2)
