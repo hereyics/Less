@@ -2,6 +2,21 @@
 ! Version: 2025-05-08
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
+154.219.3.228##.four.b_item.grid_gap_5.gridArea
+154.219.3.228##.m-recommend-toons
+154.219.3.228##.oot-height
+154.219.3.228##.new.mChatBtn.m-chat-btn
+154.219.3.228##.mToTop.m-to-top
+103.1.250.199##.four.b_item.grid_gap_5.gridArea
+103.1.250.199##.m-recommend-toons
+103.1.250.199##.oot-height
+103.1.250.199##.new.mChatBtn.m-chat-btn
+103.1.250.199##.mToTop.m-to-top
+103.204.13.81##.four.b_item.grid_gap_5.gridArea
+103.204.13.81##.new.mChatBtn.m-chat-btn
+103.204.13.81##.m-recommend-toons
+103.204.13.81##.oot-height
+103.204.13.81##.mToTop.m-to-top
 missav.ws##button.hover\:text-nord6.focus\:outline-none.font-medium.leading-4.text-nord4.text-sm.shadow-sm.whitespace-nowrap.items-center.inline-flex:nth-of-type(3)
 yajuso.com###banner-basic
 aniabout.com##.adstop-box1
