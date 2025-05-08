@@ -2,9 +2,13 @@
 ! License: https://github.com/green1052/GreenList/raw/master/LICENSE
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2025.05.06
+! Version: 2025.05.08
 
 ||warning.or.kr^
+||blocked.or.kr^
+||cleanweb1.uplus.co.kr^
+||www.gracwarning.or.kr^
+||gracwarning.or.kr^
 ||tj.oktoon.top^
 ||oktoon.top^
 ||playrecord.biz^$dnsrewrite=104.16.181.45
