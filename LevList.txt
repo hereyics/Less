@@ -6,6 +6,7 @@
 zeta-ai.io##.rounded-b-none.w-full.mt-auto.shadow-400.bg-gray-sub1.rounded-xl.flex-col.max-w-full.max-h-full.flex.relative
 zeta-ai.io##.justify-center.items-center.flex-col.flex-1.flex.z-50.absolute
 zeta-ai.io##.-mx-4.py-\[15px\].px-4.bg-gray-sub1.justify-between.items-center.flex-row.flex
+zeta-ai.io###contents > div.flex.max-h-\[calc\(var\(--full-height\)_-_56px\)\].flex-1.flex-col > div.flex.min-h-0.flex-col.overflow-y-auto:first-child > div.flex.flex-col.pb-16.pt-6.gap-y-2.px-4 > div:first-child > div.flex.flex-col.gap-10 > section.flex.flex-col.gap-2:nth-child(2) > div.flex.flex-col.gap-3.rounded-xl.border-white\/5.bg-gray-sub1.p-4:last-child > button.flex.flex-row.items-center.justify-between.border-t.border-t-white\/5.bg-gray-sub1.pt-3:last-child
 154.219.3.228##.m-recommend-toons
 154.219.3.228##.oot-height
 154.219.3.228##.new.mChatBtn.m-chat-btn
