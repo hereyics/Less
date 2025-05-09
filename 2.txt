@@ -1,6 +1,6 @@
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2025.05.08
+! Version: 2025.05.09
 
 ||warning.or.kr^
 ||blocked.or.kr^
