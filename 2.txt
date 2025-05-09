@@ -5,6 +5,7 @@
 ||blocked.or.kr^
 ||alldoc.work.gd^
 ||cleanweb1.uplus.co.kr^
+||sololv.onelink.me^
 ||www.gracwarning.or.kr^
 ||gracwarning.or.kr^
 ||tj.oktoon.top^
