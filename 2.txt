@@ -4,6 +4,7 @@
 
 ||warning.or.kr^
 ||blocked.or.kr^
+||alldoc.work.gd^
 ||cleanweb1.uplus.co.kr^
 ||www.gracwarning.or.kr^
 ||gracwarning.or.kr^
