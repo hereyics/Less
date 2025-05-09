@@ -1,5 +1,5 @@
 ! Title: LevList
-! Version: 2025-05-09
+! Version: 2025-05-10
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 154.219.3.228##.four.b_item.grid_gap_5.gridArea
@@ -297,10 +297,18 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^chm\d+\.com/]##.font-weight-normal.f-sm.position-relative
 [$domain=/^chm\d+\.com/]##.online_notice_wrap
 [$domain=/^chm\d+\.com/]##.cursor.sidebar-move-top
+[$domain=/^chm\d+\.com/]###imhatfnqxluopcsjbdkywegvr
+[$domain=/^chm\d+\.com/]###mobile_nav > ul.d-flex:first-child > li.text-nowrap:first-child
+[$domain=/^chm\d+\.com/]###mobile_nav > ul.d-flex:first-child > li.text-nowrap:nth-child(6)
+[$domain=/^chm\d+\.com/]###mobile_nav > ul.d-flex:first-child > li.text-nowrap:nth-child(8)
+[$domain=/^chm\d+\.com/]###mobile_nav > ul.d-flex:first-child > li.text-nowrap:last-child
+[$domain=/^chm\d+\.com/]##div.div_bottom_box:nth-child(9) > div.foot_nav > ul.tool_menu
 [$domain=/^allstv\d+\.com/]##.line_container
 [$domain=/^allstv\d+\.com/]###ft
 [$domain=/^allstv\d+\.com/]###top_btn
 [$domain=/^allstv\d+\.com/]###footer_mobile
+[$domain=/^allstv\d+\.com/]###container > div.main_bn_box.swiper-container:nth-child(3) > div:nth-child(6)
+[$domain=/^allstv\d+\.com/]###container > div.main_bn_box.swiper-container:nth-child(3) > div:nth-child(7)
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||nelo2-col.navercorp.com^$app=com.navercorp.game.android.community
