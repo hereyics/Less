@@ -201,6 +201,15 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^btoon\d+\.com/]###header_mo > div:last-child > ul.menu_swp > li:nth-child(7)
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-side.at-col.col-md-3 > .header.at-banner.at-row.row
 [$domain=/torrent[a-z0-9]*.[a-z]{2,}$/]##.at-main.at-col.col-md-9 > .header.at-banner.at-row.row
+[$domain=/^bmtv\d+\.com/]###mo_hd > div.mo_hd_area > div.mo_hd_nav:last-child > ul.hd_navbox > li:nth-child(5)
+[$domain=/^bmtv\d+\.com/]##div.modal_wrap:nth-of-type(5)
+[$domain=/^bmtv\d+\.com/]##div.modal_wrap:nth-of-type(4)
+[$domain=/^bmtv\d+\.com/]##div.modal_wrap:nth-of-type(6)
+[$domain=/^kktv\d+\.com/]##div.modal_wrap:nth-of-type(3)
+[$domain=/^kktv\d+\.com/]##div.modal_wrap:nth-of-type(4)
+[$domain=/^nolgoga\d+\.com/]##.copy
+[$domain=/^nolgoga\d+\.com/]##[src="https://nolgoga*.com/data/file/1x2basic/0c92ad38b3288301f27a270ade1e3ac6_35RB7g9t_4d560a279fd6a0a210699ac1dd3606f18764956b.jpg"]
+[$domain=/^today-sports\d+\.com/]##.mobile-banner.live-stream.hidden-xl.hidden-lg.hidden-md
 [$domain=/^tkor\d+\.com/]###bo_list > .clearfix
 [$domain=/^tkor\d+\.com/]###banner_21_img
 [$domain=/^tkor\d+\.com/]##.bnt.bn
