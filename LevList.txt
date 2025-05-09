@@ -292,6 +292,14 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^ani\d+.net/]##body > div > .guanggao1
 [$domain=/^ani\d+.net/]###container > div > .guanggao1
 [$domain=/^zzap\d+.com/]##.partner-banner-flex
+[$domain=/^chm\d+\.com/]##.order-md-2.na-col.col-lg-9 > div
+[$domain=/^chm\d+\.com/]##.font-weight-normal.f-sm.position-relative
+[$domain=/^chm\d+\.com/]##.online_notice_wrap
+[$domain=/^chm\d+\.com/]##.cursor.sidebar-move-top
+[$domain=/^allstv\d+\.com/]##.line_container
+[$domain=/^allstv\d+\.com/]###ft
+[$domain=/^allstv\d+\.com/]###top_btn
+[$domain=/^allstv\d+\.com/]###footer_mobile
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||nelo2-col.navercorp.com^$app=com.navercorp.game.android.community
