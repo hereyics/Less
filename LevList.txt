@@ -1,6 +1,9 @@
 ! Title: LevList
 ! Version: 2025-05-10
 
+chzzk.naver.com#%#//scriptlet('prevent‑xhr', 'veta.naver.com/vas')
+chzzk.naver.com#%#//scriptlet('prevent‑xhr', 'veta.naver.com/gfp')
+chzzk.naver.com#%#//scriptlet('prevent‑xhr', 'veta.naver.com/call')
 webtoon.kakao.com##.z-toastMinus1.left-0.bottom-0.bg-dark-grey-13.fixed.w-full
 zeta-ai.io##.rounded-b-none.w-full.mt-auto.shadow-400.bg-gray-sub1.rounded-xl.flex-col.max-w-full.max-h-full.flex.relative
 zeta-ai.io##.justify-center.items-center.flex-col.flex-1.flex.z-50.absolute
