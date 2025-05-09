@@ -241,6 +241,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^foc\d+.com/]##.aaa.row
 [$domain=/^foc\d+.com/]###top_btn
 [$domain=/^foc\d+.com/]##.footer_m
+[$domain=/^torrentj\d+\.com/]##[href="https://t.me/abcdcenter"]
 [$domain=/^toon\d+.net/]##body > div > .guanggao1
 [$domain=/^toon\d+.net/]###ft_copy
 [$domain=/^toon\d+.net/]###top_btn
