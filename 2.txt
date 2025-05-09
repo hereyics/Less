@@ -3,6 +3,8 @@
 
 ||warning.or.kr^
 ||blocked.or.kr^
+||buzzad.buzzvil.com^
+||pointhub.buzzvil.com^
 ||alldoc.work.gd^
 ||cleanweb1.uplus.co.kr^
 ||www.gracwarning.or.kr^
