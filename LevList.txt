@@ -1,7 +1,7 @@
 ! Title: LevList
 ! Version: 2025-05-10
 
-##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
+webtoon.kakao.com##.z-toastMinus1.left-0.bottom-0.bg-dark-grey-13.fixed.w-full
 zeta-ai.io##.rounded-b-none.w-full.mt-auto.shadow-400.bg-gray-sub1.rounded-xl.flex-col.max-w-full.max-h-full.flex.relative
 zeta-ai.io##.justify-center.items-center.flex-col.flex-1.flex.z-50.absolute
 zeta-ai.io##.-mx-4.py-\[15px\].px-4.bg-gray-sub1.justify-between.items-center.flex-row.flex
@@ -190,6 +190,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
 [$domain=/^tv\d+\.wiki/]##.bl.comments-area
+[$domain=/^mgmg\d+\.com/]###container > div > .guanggao1 > div
+[$domain=/^mgmg\d+\.com/]###ft
+[$domain=/^mgmg\d+\.com/]##body > div > .guanggao1
 [$domain=/^happytoon\d+\.com/]##.popup_wrap
 [$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(2)
 [$domain=/^happytoon\d+\.com/]##div.webtoon-details:nth-of-type(3)
@@ -344,3 +347,4 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||nelo2-col.navercorp.com^$important,app=com.nhn.android.webtoon
 @@||alex.daum.net^
 @@||cdn-ao.adison.co^
+##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
