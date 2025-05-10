@@ -1,4 +1,4 @@
-[uBlock Origin]1
+[uBlock Origin]
 
 csgoconfigs.com##+js(acis, m, CH.Anonymous)
 djs.sk,mladipodnikatelia.sk,tubettajat.net##+js(aopr, miner)
