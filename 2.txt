@@ -1,6 +1,9 @@
 ! Title: GreenList DNS
 ! Version: 2025.05.11
 
+127.0.0.1  localhost
+::1  localhost
+
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
@@ -117,4 +120,3 @@
 /hodu\d*\.net/$dnsrewrite=104.16.181.45
 /wftoon\d*\.com/$dnsrewrite=104.16.181.45
 /wfwf\d*\.com/$dnsrewrite=104.16.181.45
-@@||gmarket.co.kr^
