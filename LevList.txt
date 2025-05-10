@@ -1,5 +1,5 @@
 ! Title: LevList
-! Version: 2025-05-10
+! Version: 2025-05-11
 
 webtoon.kakao.com##.z-toastMinus1.left-0.bottom-0.bg-dark-grey-13.fixed.w-full
 zeta-ai.io##.rounded-b-none.w-full.mt-auto.shadow-400.bg-gray-sub1.rounded-xl.flex-col.max-w-full.max-h-full.flex.relative
