@@ -216,6 +216,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(2)
 [$domain=/^newtoki\d+.com/]##div.col-xs-6.col-sm-3.col-md-3.col-15:nth-of-type(3)
 [$domain=/^newtoki\d+.com/]###content_wrapper > div.content:last-child > div.at-content > div.at-wrap:last-child > div.row.row-15:last-child
+[$domain=/^www.manaboza\d+.com/]##.banner
+[$domain=/^www.manaboza\d+.com/]##div.theme_bottom_list_div.theme_bnr > a
+[$domain=/^www.manaboza\d+.com/]##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.swiper-container-fade.swiper-container
 [$domain=/^tvwiki\d+.com/]##.active.search_wrap > ul
 [$domain=/^tvwiki\d+.com/]##.search_title_mobile
 [$domain=/^tvwiki\d+.com/]###bo_v_atc
