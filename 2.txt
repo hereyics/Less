@@ -1,6 +1,13 @@
 ! Title: GreenList DNS
 ! Version: 2025.05.11
 
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 analytics.ad.daum.net
+127.0.0.1 analytics.twitter.com
+127.0.0.1 backend.dna-delivery.com
+
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
