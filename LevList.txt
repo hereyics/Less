@@ -99,6 +99,19 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||*.ondobook.net/data/apms/background/%E*g$image
 ||*.ondotv.com/data/apms/background/%E*g$image
 ||joatoon*.com/storage/ad/*.webp$image
+||pagead2.googlesyndication.com^
+||partner.googleadservices.com^
+||adservice.google.co.kr^
+||adservice.google.com^
+||adservice.google.com.tw^
+||adservice.google.tw^
+||pagead2.googleadservices.com^
+||doubleclick.net^
+||google-analytics.com^
+||googletagservices.com^
+||partnerssl.googleadservices.com^
+||googletagmanager.com^
+||www-googletagmanager.l.google.com^
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
