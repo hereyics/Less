@@ -695,3 +695,535 @@ $script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepira
 ! Filters optimized for uBlock -------------------------------------------------
 !#include U.txt
 !-------------------------------------------------------------------------------
+
+!-------------------------------------!
+!---------- Generic Filters ----------!
+!-------------------------------------!
+! Cosmetic Filters
+##.js_smartbanner
+##meta[name="apple-itunes-app"]:remove()
+
+! Network Filters
+||adj.st^
+||app.adjust.com^
+||app.appsflyer.com^
+||app.link^
+
+!--------------------------------------!
+!---------- Specific Filters ----------!
+!--------------------------------------!
+! 88Kanqiu
+bszb002.com,kqzb123.com,kanqiu00.com##.feedback
+bszb002.com,kqzb123.com,kanqiu00.com##.home_godown
+bszb002.com,kqzb123.com,kanqiu00.com##.zhuboinfo_box
+
+! 9GAG
+9gag.com##.download-app-container
+9gag.com##.inline-banner
+9gag.com##.noscroll:style(overflow: auto !important;)
+9gag.com##.post-signup-list-banner
+9gag.com##div[class="overlay-layer layer-more visible open-in-app"]
+9gag.com##div[class="right use-app"]
+9gag.com##div[style="padding-top: 146px;"]:style(padding-top: 96px !important;)
+9gag.com##div[style="padding-top: 98px;"]:style(padding-top: 48px !important;)
+
+! adidas
+adidas.com##article[data-testid="plp-featured-product-card"]
+
+! Advance Publications
+oregonlive.com##.ad-wrapper__mobile-bottom-adhesion
+oregonlive.com##.alert-bar--news-promo
+
+! Amazon
+amazon.com##.sparkle-container
+
+! Asura Scans
+asura.gg,asurascans.com##.scrollToTop
+asura.gg,asurascans.com##.wp-video
+
+! AutoZone
+autozone.com##._3f3af7
+
+! Ballnaja
+ballnaja.com###videoPlayerJs:style(position: static !important;)
+ballnaja.com##.player-size
+ballnaja.com#@#.stream-ball-content-component:has(video[src]):style(padding-bottom: 340px !important;)
+
+! Best Buy
+bestbuy.com##.sku-list-display-ad
+bestbuy.com##div[id^="shop-blue-assist-"]
+bestbuy.com##div[id^="shop-dedicated-sponsored-carousel-"]
+bestbuy.com##div[id^="shop-display-ad-"]
+bestbuy.com##div[id^="shop-google-adsense-"]
+
+! Bleacher Report
+bleacherreport.com##.appInstallButton
+bleacherreport.com##.fixedBottom
+bleacherreport.com##.mobileInterstitial
+bleacherreport.com##.newsletterSubsModule
+bleacherreport.com##.stickyAdvert
+
+! BuzzFeed
+buzzfeednews.com##.Ad
+buzzfeednews.com##.cls-min-size
+
+! CBS
+cbsnews.com###smart-banner-download
+
+! ClutchPoints
+clutchpoints.com##.caffeine-embed:upward(1)
+
+! CNN
+cnn.com##.ad--mobile
+cnn.com##.ad-slot-rail:upward(1)
+cnn.com##.BasicArticle__outbrainMain
+cnn.com##.BasicArticle__zone > .Zone__wrapper > .BasicArticle__tail > div > .lt-widget-iframe:upward(4)
+cnn.com##.bizdev-healthgrade:style(margin-bottom: 8px !important;)
+cnn.com##.bizdev-lending-tree
+cnn.com##.OUTBRAIN:upward(.zn > .zn__background--content-relative > .zn__containers > .column)
+cnn.com##.toast-popup
+cnn.com##.ym:upward(.story > .BasicArticle__component > .BasicArticle__zone)
+cnn.com##.zn-homepage-magellan-zone-1 > .l-container > .zn__containers > .zn__column--idx-5:has(.ad--mobile)
+cnn.com##section[class="layout__wrapper layout-homepage-mobile__wrapper"] > section > div > section > div > div > div > div[class="zone zone--t-dark zone-2-observer"]:style(margin-bottom: 0px !important;)
+cnn.com##section[class="layout__wrapper layout-homepage-mobile__wrapper"] > section > div > section > div > div > div > div[class="zone zone--t-light zone-1-observer"]:style(margin-bottom: -40px !important;)
+
+! Craigslist
+craigslist.org##.tryapp
+
+! Designer Shoe Warehouse
+dsw.com##app-cookies-lightbox
+
+! DuckDuckGo
+duckduckgo.com##.footer--mobile
+duckduckgo.com##.js-tag-home
+
+! ESPN
+espn.com##.ad-slot-inview
+espn.com##.AppPromo
+espn.com##.promo-banner-container
+
+! Fandom
+fandom.com##.article-featured-video:remove()
+fandom.com##.notifications-box
+fandom.com##.recirculation-prefooter
+fandom.com##div[data-testid="QuizBanner"]
+fandom.com##h2:has-text(Fandom Trivia)
+
+! FedEx
+fedex.com##fedex-smart-banner
+fedex.com##trk-shared-smart-app-banner
+
+! G/O Media
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com###splashy-ad-container-top
+avclub.com,deadspin.com,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,theinventory.com,theonion.com,theroot.com,thetakeout.com##.js_ad-sticky-footer:upward(.js_sticky-footer)
+
+! GasBuddy
+gasbuddy.com##+js(rc, smartbanner-margin-top, html, stay)
+gasbuddy.com##+js(rc, smartbanner-show, html, stay)
+gasbuddy.com##.smartbanner
+gasbuddy.com##button[class*="__viewMapButton__"]
+
+! Genius
+genius.com##div[class^="AppleMusicPlayer__PositioningContainer"]
+genius.com##div[class^="InreadAdmobile__Container"]
+genius.com##div[class^="StickyBannerAd__Container"]
+
+! Gfycat
+gfycat.com##div[class="share-container share-mobile-container"] > div[style="width: 320px; text-align: center; margin: 10px auto;"]
+
+! Giphy
+giphy.com##div[class*="OpenInAppContainer"]
+
+! GoodRx
+goodrx.com##div[data-qa="advertisement"]
+
+! Google
+google.com###footer
+google.com###lb:has-text(Stay signed out)
+google.com###stUuGf
+google.com##.torspo_view__follow-button
+google.com##.zU3lCe
+google.com##body:style(overflow: auto !important; position: static !important;)
+google.com##div[aria-label="Navigation drawer"][role="menu"] > a[href^="https://search.app.goo.gl/"][role="menuitem"]
+google.com##div[class="HyoXdf Pk5QZ"][jsname="lC3xKd"]
+google.com##div[class="HyoXdf VZPqNb"][jsname="lC3xKd"]
+google.com##div[class="rKJOcDNwrHj__pb-dfr rKJOcDNwrHj__pb-s"][jsname="ORHb"]
+google.com##div[jsaction="f2nbFb"][jsname="rLQONe"][role="button"]
+google.com##div[jsaction="JdMZaf:ot0Etb;rcuQ6b:npT2md;ZUAQIc:aziXvf"][jscontroller="Kby1he"][jsname="Ycs7vc"]:has-text(Give feedback on the result above?)
+google.com##div[jsaction="KIgGGb;rcuQ6b:npT2md"][jscontroller="dJBiMd"][jsname="suEOdc"]
+google.com##div[jsaction="rcuQ6b:npT2md"][jscontroller="JlIvbd"][jsname="xy3Vt"]
+google.com##div[jsaction="rcuQ6b:npT2md"][jscontroller="OPwjEf"][role="section"]
+google.com##div[jsaction="rcuQ6b:npT2md"][jscontroller="R87u2"]
+google.com##div[jsaction="Y2XUzc:Fs7Xzc"][jscontroller="dve5w"][jsname="hK5Dwd"]
+google.com##ios-safari-home-screen-icon-banner
+google.com##promo-bottom-tout
+google.com##span[jsaction^="I9owB"][jsname="EFexIf"]
+
+! Gopuff
+gopuff.com##.jr-smart-banner
+
+! Healthline
+healthline.com##.myFinance-ad-unit
+healthline.com##.myFinance-widget
+
+! Histar
+histar.tv##div[class^="live_sharePhone__"] > div > a[class^="live_icon__"][href="/download"]
+histar.tv##div[class^="modal-download_content__"]
+histar.tv##div[class^="play-error-phone_error__"]
+histar.tv##div[class^="play-error-phone_error__"]:remove()
+
+! Hoops Rumors
+hoopsrumors.com##.wptouch-custom-ad
+
+! HoopsHype
+hoopshype.com##.mobile-instream-ad-holder
+
+! IMDb
+m.imdb.com###inlinebottom_inline_wrapper
+m.imdb.com##.footer__app
+
+! Imgur
+imgur.com##.BottomRecirc
+imgur.com##.Gallery-Content--ad
+imgur.com##.Gallery-EngagementBar
+imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .Grid-column > div[id^="Col-Child-Imgur/Home/InContent/"]:has(.fast-grid-ad)
+imgur.com##.MainContainer > div > .UploadSpinner-contentWrapper > .FastGrid > .Grid-column > div[id^="Col-Child-Imgur/Post/InContent/"]:has(.fast-grid-ad)
+imgur.com##body:style(overflow: auto !important;)
+imgur.com##div[class^="SeeImgurOIA-"]
+
+! Insider Monkey
+insidermonkey.com##.article-daily-newsletter
+insidermonkey.com##.article-daily-newsletter + email-privacy-policy-warning
+insidermonkey.com##.premium-content-login-v2-container
+insidermonkey.com##.premium-content-wall
+insidermonkey.com##body:style(overflow: auto !important; position: static !important;)
+
+! iTD Music
+itdmusics.com##.itdmu-widget
+
+! J Brand
+jbrandjeans.com##.modal-cookie
+
+! KidsHealth
+kidshealth.org###kh-partner-ad
+
+! Kitsu
+kitsu.io##.alert
+
+! LinkedIn
+linkedin.com##div[class^="apptivation-promo"]
+
+! Live Soccer TV
+livesoccertv.com##.ads-container
+
+! Major League Baseball
+mlb.com##.ad
+
+! MangaDex
+mangadex.org##body > div > div > div > div > div > div[class^="expander"]:has-text(MangaDex needs your support)
+
+! Mayo Clinic
+mayoclinic.org###kampyleButtonContainer
+
+! Mozilla
+mozilla.org###firefox-app-store-banner
+
+! MyAnimeList
+myanimelist.net###top_scroller
+myanimelist.net##.ad-block-for-billboard
+myanimelist.net##.btn-mal-service-outer
+myanimelist.net##.mxj
+myanimelist.net##.mxj-list
+myanimelist.net##div[class="header2 ac po-r"]:has-text(MALxJapan)
+myanimelist.net##div[style="height:14px;margin:0;padding:0;"]:style(height: 0px !important;)
+myanimelist.net##h2[class="anime-detail head slider mt12"]:has-text(More Anime Suggestions)
+myanimelist.net##h2[class="anime-detail head slider mt12"]:has-text(More Anime Suggestions) + div[class="slider-outer anime-detail"]
+myanimelist.net##h3[class="header3 pb12"]:has-text(MALxJapan)
+myanimelist.net##h3[class="manga-detail head slider mt12"]:has-text(More Manga Suggestions)
+myanimelist.net##h3[class="manga-detail head slider mt12"]:has-text(More Manga Suggestions) + div[class="slider-outer manga-detail"]
+
+! National Collegiate Athletic Association
+ncaa.com##.mobile-persistent-bottom
+ncaa.com##.sticky-button-section
+
+! NextShark
+nextshark.com###nextshark_com_leaderboard_top
+
+! OLEVOD
+olevod.tv###loading-box
+olevod.tv##.app-siders
+
+! Oxygen
+oxygen.com##.blog-post__ad-wrapper
+
+! Panda Express
+pandaexpress.com##+js(rc, is-ios, body, stay)
+pandaexpress.com##.native-app-banner
+pandaexpress.com##app-install-native-app-banner
+
+! PayPal
+paypal.com###PPAppDownloadBannerContainer
+
+! Plane Finder
+planefinder.net###in-app-banner
+
+! Platt Electric Supply
+platt.com##.cookie[role="alert"]
+platt.com##div[class="v-application--wrap"] > a[href="https://apple.co/3KZACWo"]
+platt.com##main[class="v-main"][style="padding: 188px 0px 0px;"]:style(padding: 128px 0px 0px !important;)
+
+! Presearch
+presearch.com##.extension-notice
+presearch.com##div[x-data^="ptaBannerMobile"]
+
+! Quora
+quora.com##.qu-bg--poe_primary_purple:has-text(Ask AI bots any question on Poe, a free app by Quora)
+quora.com##button[type="button"]:has-text(Open in App)
+
+! Reddit
+redd.it##shreddit-async-loader[bundlename="bottom_bar_xpromo"]
+redd.it##shreddit-async-loader[bundlename="top_button"][paint-group="xpromo"]
+reddit.com###blocking-modal
+reddit.com###blocking-modal-blur-container:style(filter: none !important;)
+reddit.com###nsfw-qr-dialog
+reddit.com###post-image:style(margin-bottom: 0rem !important;)
+reddit.com###trending-searches-ad
+reddit.com###use-app
+reddit.com##+js(rc, rpl-scroll-lock, body, stay)
+reddit.com##+js(rc, scroll-disabled, body, stay)
+reddit.com##+js(rc, scroll-is-blocked, body, stay)
+reddit.com##._13geajc1u3mpvccghflqg4
+reddit.com##.blurred:style(background: none !important; filter: none !important;)
+reddit.com##.communityheader-text-row > .topiclist
+reddit.com##.getappfooter
+reddit.com##.joinbuttonfull
+reddit.com##.lb-footer
+reddit.com##.lb-header
+reddit.com##.m-blurred:style(filter: none !important;)
+reddit.com##.navframe:style(overflow: auto !important;)
+reddit.com##.paginationbuttons:style(padding: 0rem 1rem 0rem !important;)
+reddit.com##.pb-xl:style(padding-bottom: 0rem !important;)
+reddit.com##.postcontent__img[src]:style(object-fit: contain !important;)
+reddit.com##.previewdrawer
+reddit.com##.prompt
+reddit.com##.right-sidebar:has-text(More posts you may like)
+reddit.com##.scroll-disabled:style(overflow: auto !important; position: static !important;)
+reddit.com##.scroll-is-blocked:style(overflow: auto !important; position: static !important;)
+reddit.com##.shreddit-pagination:style(margin-bottom: 0rem !important; padding: 0rem 1rem 0.5rem !important;)
+reddit.com##.sidebar-grid:style(filter: none !important;)
+reddit.com##.slideimagemaindiv[style="object-fit: cover;"][src]:style(object-fit: contain !important;)
+reddit.com##.subreddit-content-error > .order-last
+reddit.com##.topics-links-block
+reddit.com##.topnav__promobutton
+reddit.com##.topnav__useappbutton
+reddit.com##.topposts
+reddit.com##.xpromoappstorefooter
+reddit.com##.xpromoblockingmodal
+reddit.com##.xpromoblockingmodalrpl
+reddit.com##.xpromobottombar
+reddit.com##.xpromochoicebanner
+reddit.com##.xpromoinfeed
+reddit.com##.xpromonsfwblocking__warning
+reddit.com##.xpromonsfwblockingmodal
+reddit.com##.xpromopill
+reddit.com##.xpromopopup
+reddit.com##.xpromopopuprpl
+reddit.com##.xpromopopuprplnew
+reddit.com##body:style(overflow: auto !important; position: static !important; pointer-events: auto !important; touch-action: auto !important;)
+reddit.com##button[id$="-read-more-button"]
+reddit.com##div[class*="safe-area-inset-bottom"]
+reddit.com##div[class^="sidebar-grid"][class$="fixed"]:style(position: static !important;)
+reddit.com##div[id$="-overflow-cover"]
+reddit.com##div[id$="-post-rtjson-content"]:style(max-height: fit-content !important;)
+reddit.com##faceplate-tracker[noun="campaign_slot"][source="nav"]
+reddit.com##faceplate-tracker[noun="campaign_slot"][source="nav"] + hr
+reddit.com##faceplate-tracker[noun="top_button"][source="xpromo"]
+reddit.com##img[class="_1VSyzeCqhLG-H2N68kAx9V _3UqAK6QeNaMYy-9jvRefdv"]:style(filter: none !important;)
+reddit.com##rpl-dialog-trigger[dialog-id$="-privacy-dialog"]
+reddit.com##shreddit-ad-post
+reddit.com##shreddit-app:style(padding: var(--shreddit-header-height) 0rem 0rem !important;)
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
+reddit.com##shreddit-async-loader[bundlename="bottom_bar_xpromo"]
+reddit.com##shreddit-async-loader[bundlename="faceplate_alerts"]
+reddit.com##shreddit-async-loader[bundlename="nsfw_blocking_modal"]
+reddit.com##shreddit-async-loader[bundlename="nsfw_blocking_modal"]:remove()
+reddit.com##shreddit-async-loader[bundlename="post_deletion_modal"]
+reddit.com##shreddit-async-loader[bundlename="rpl_continue_chat_in_app"]
+reddit.com##shreddit-async-loader[bundlename="top_button"][paint-group="xpromo"]
+reddit.com##shreddit-comments-page-ad
+reddit.com##shreddit-experience-tree
+reddit.com##shreddit-experience-tree:remove()
+reddit.com##shreddit-overlay-display
+reddit.com##shreddit-overlay-display:remove()
+reddit.com##shreddit-post[view-context^="ListingBelow"][view-context$="Posts"]
+reddit.com##shreddit-rereddit-promo
+reddit.com##slot[name="use-app"]
+reddit.com##xpromo-app-selector
+reddit.com##xpromo-footer
+reddit.com##xpromo-new-app-selector
+reddit.com##xpromo-new-nsfw-blocking-modal
+reddit.com##xpromo-nsfw-blocking-container[slot="blurred"]
+reddit.com##xpromo-nsfw-blocking-modal
+reddit.com##xpromo-untagged-content-blocking-modal
+reddit.com##xpromo-untagged-content-blocking-modal:remove()
+
+! Robinhood
+robinhood.com##a[href^="https://share.robinhood.com/logged_out_page?rh_url="][role="link"]
+
+! Sinclair Broadcast Group
+katu.com##div[class^="interstory_"][class$="_mobile"]
+
+! SingleCare
+singlecare.com##.stickyAppPromoBanner
+
+! Slickdeals
+coupons.slickdeals.net##.bp-c-tooltip
+coupons.slickdeals.net##.bp-p-couponHub_appInstallCTA
+coupons.slickdeals.net##.bp-p-scrollToTopButton
+slickdeals.net##+js(rc, pushToAppDrawerScrollLock, body, stay)
+slickdeals.net##.bottomFullBar
+slickdeals.net##.bp-p-cashbackActivationSignupBanner_wrapper
+slickdeals.net##.bp-p-cashbackDealCardPromo
+slickdeals.net##.ftcDisclaimer
+slickdeals.net##.mobileAdFluid
+slickdeals.net##.newsletterSignUp
+slickdeals.net##.push
+slickdeals.net##.sdModalOverlay
+slickdeals.net##.welcomeToast
+slickdeals.net##body:style(overflow: auto !important;)
+
+! SoundCloud
+m.soundcloud.com##a[data-testid="open-in-app-link"]
+
+! Spectrum News
+baynews9.com##.article-app-prompt
+baynews9.com##.articleAdWrapper
+baynews9.com##.icon-advertisement
+
+! Spotify
+open.spotify.com##button[data-testid="open-app-button"]
+
+! StockTwits
+stocktwits.com##a[class*="MobileHeader_useAppButton"]
+
+! Target
+target.com##div[data-test="@web/baseboardAd"]
+
+! TEGNA
+kgw.com##.universal-ad
+
+! Telegram
+t.me##.tgme_header_info > .tgme_channel_join_telegram
+
+! Temu
+temu.com##body > div[class^="root-"] > div[class^="move-"] > div > div[aria-label="Cart"][role="button"][style^="transform"]
+temu.com##div[js-selector="mobile-download-ui"]:upward(1)
+temu.com##div[style="height: 0.66rem"]:style(height: auto !important;)
+temu.com##div[style="height: 0.66rem;"]:style(height: auto !important;)
+temu.com##div[style="height:0.66rem"]:style(height: auto !important;)
+temu.com##div[style="height:0.66rem;"]:style(height: auto !important;)
+
+! Tenor
+tenor.com##.LanguageBanner
+tenor.com##.UpsellPill
+
+! The Undefeated
+theundefeated.com##.ad-prevent-jump
+
+! theScore
+thescore.com###app-container > div:nth-child(2)
+thescore.com##.the-score-article-ad-unit
+
+! Ticketmaster
+ticketmaster.com##.mobile-terms-of-use-notification
+
+! TMZ
+tmz.com###ad-footer
+tmz.com##.ad-container
+tmz.com##.body-article:style(padding-bottom: 0px !important;)
+tmz.com##div[class^="ad-blogroll"]
+
+! Twitch
+m.twitch.tv##div[class^="ScCoreButtonLabel"]:has-text(Open in App)
+
+! Twitter
+twitter.com##div[class="css-1dbjc4n r-1iusvr4 r-16y2uox r-97wbjc"]
+
+! U-Haul
+uhaul.com##.download-uhaul-app
+
+! Uniqlo
+uniqlo.com##.fr-ec-cms-smart-banner
+
+! Venmo
+venmo.com##.organisms-layoutContainer-mobileWrapper
+
+! Vidio
+vidio.com##div[data-testid="smart-banner"]
+
+! Walmart
+walmart.com##.alert-bar
+walmart.com##button[data-automation-id="sb-btn-get-the-app"]:upward(2)
+walmart.com##div[data-testid="buy-box-ad"]
+walmart.com##div[id^="ITEM-MarqueeDisplayAd-marquee"]
+walmart.com##div[id^="ITEM-SponsoredProductCarousel-"]
+
+! WebMD
+webmd.com###lln-toppks
+webmd.com##.article-page > .top-picks-inf
+webmd.com##.article__body > .top-picks-inf
+webmd.com##.medianet-ctr
+webmd.com##.mobile-ad-inside-center
+webmd.com##.ovr-lazy-ad
+webmd.com##.promoWrapper
+webmd.com##div[data-v-app] > .top-picks-inf
+webmd.com##div[id*="mnet-ia-instream-"]
+
+! Webull
+webull.com##body > div > div > div:has(div > img[src^="https://u1sweb.webullfinance.com/us/office/"])
+webull.com##body > div > div > div:has-text(Invest in Stocks, ETFs, Options)
+
+! Western Hockey League
+whl.ca###app-banner--holder
+
+! Wikipedia
+wikipedia.org##+js(rc, frb-overlay-open, body, stay)
+wikipedia.org##+js(rc, frb-overlay-open, html, stay)
+
+! Xoom
+xoom.com###ccpaCookieBanner
+
+! Yahoo
+yahoo.com###app-promo
+yahoo.com##.app-banner
+
+! Yelp
+m.yelp.com###smart-banner
+m.yelp.com##a[aria-label="Download the Yelp app"]:upward(1)
+m.yelp.com##a[class*="link__"]:has-text(Open in App)
+m.yelp.com##div[class*="2BTbv"]:has-text(Open in App)
+m.yelp.com##div[class*="banner__"]:has-text(Yelp for iPhone)
+m.yelp.com##div[class*="cta-menubar-pitch_left-icons"]:has-text(Open in App)
+m.yelp.com##div[class*="u-space-"]:has-text(Open in the Yelp App)
+
+! Yibababa
+yibababa.com##.tv_name:style(font-size: xx-small !important;)
+
+! YouTube
+m.youtube.com##.music-metadata-premium-upsell-link
+
+! ZARA
+zara.com##.native-app-banner
+
+! Zillow
+zillow.com###local-app-upsell
+zillow.com###pfs-upsell
+
+!----------------------------------------!
+!---------- JavaScript Filters ----------!
+!----------------------------------------!
+! Disable Accelerated Mobile Pages
+#%#(function(){window.addEventListener("load",function(){!function(e){var t={};function r(n){if(t[n])return t[n].exports;var o=t[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,r),o.l=!0,o.exports}r.m=e,r.c=t,r.d=function(e,t,n){r.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:n})},r.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.t=function(e,t){if(1&t&&(e=r(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var n=Object.create(null);if(r.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)r.d(n,o,function(t){return e[t]}.bind(null,o));return n},r.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(t,"a",t),t},r.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},r.p="",r(r.s=0)}([function(e,t,r){"use strict";r.r(t);function n(e){return function(e){if(Array.isArray(e))return o(e)}(e)||function(e){if("undefined"!=typeof Symbol&&Symbol.iterator in Object(e))return Array.from(e)}(e)||function(e,t){if(!e)return;if("string"==typeof e)return o(e,t);var r=Object.prototype.toString.call(e).slice(8,-1);"Object"===r&&e.constructor&&(r=e.constructor.name);if("Map"===r||"Set"===r)return Array.from(e);if("Arguments"===r||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(r))return o(e,t)}(e)||function(){throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function o(e,t){(null==t||t>e.length)&&(t=e.length);for(var r=0,n=new Array(t);r<t;r++)n[r]=e[r];return n}var a=/^https?:\/\/.+/i,i=/(amp\/|amp-|\.amp)/,c="__".concat(Math.random()),u=function(e){var t=e.querySelector('[aria-label="AMP logo"], [aria-label="Logo AMP"]');t&&(t.style.display="none")},l=function(e,t){e.setAttribute("href",t),e.addEventListener("click",(function(e){e.preventDefault(),e.stopPropagation(),document.location.href=t}),!0),u(e)},s=function(){n(document.querySelectorAll("a[data-amp-cur]")).forEach((function(e){if(!e[c]){e[c]=!0;var t=e.getAttribute("data-amp-cur")||e.getAttribute("data-amp");if(t)l(e,t.replace(i,""));else{var r=e.href;r&&r.includes("articleViewAmp")&&l(e,r.replace("articleViewAmp","articleView"))}}}))},f=function(){s(),document.querySelectorAll("a[data-amp-cdn]").forEach((function(e){var t=e.href;t.includes("cdn.ampproject.org")&&(t="https://"+t.substr(t.indexOf("cdn.ampproject.org/wp/s/")+24)),t.substr(8).startsWith("amp.")&&(t="https://"+t.substr(12)),(t=t.replace("?amp&","?&"))!==e.href&&(e.setAttribute("href",t),e.addEventListener("click",(function(e){e.preventDefault(),e.stopPropagation(),document.location.href=t}),!0),u(e))}))},d=document.location,p=d.href,m=d.origin;p.includes("https://yandex.ru/turbo")||p.includes("turbopages.org")?function(){var e=document.querySelector('script[data-name="post-message"][data-message]');if(e){var t=e.getAttribute("data-message"),r=JSON.parse(t);r&&r.originalUrl&&(document.location.href=r.originalUrl)}}():m.includes(".google.")?new MutationObserver(f).observe(document,{childList:!0,subtree:!0}):function(){var e=Number(sessionStorage.getItem("__disable_amp_redirected"));if(!(window.self!==window.top||e&&Date.now()-e<3e4)){var t=document.querySelector('head > link[rel="canonical"]');document.querySelector('head > script[src^="https://cdn.ampproject.org"]')&&t&&a.test(t.href)&&(sessionStorage.setItem("__disable_amp_redirected",Date.now()),window.top.location.href=t.href)}}()}]);});})();
+
+! Remove Smart App Banners on iOS
+#%#(function(){window.addEventListener("load",function(){(document.querySelector("meta[name='apple-itunes-app']")||{remove:()=>0}).remove();});})();
