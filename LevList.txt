@@ -693,5 +693,5 @@ $script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepira
 @@||aptal.pro^$websocket
 
 ! Filters optimized for uBlock -------------------------------------------------
-!#include nocoin-ublock.txt
+!#include U.txt
 !-------------------------------------------------------------------------------
