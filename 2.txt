@@ -115,3 +115,4 @@
 /hodu\d*\.net/$dnsrewrite=104.16.181.45
 /wftoon\d*\.com/$dnsrewrite=104.16.181.45
 /wfwf\d*\.com/$dnsrewrite=104.16.181.45
+@@||gmarket.co.kr^
