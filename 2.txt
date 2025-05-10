@@ -1,5 +1,5 @@
 ! Title: GreenList DNS
-! Version: 2025.05.09
+! Version: 2025.05.10
 
 ||warning.or.kr^
 ||blocked.or.kr^
@@ -10,6 +10,12 @@
 ||gracwarning.or.kr^
 ||tj.oktoon.top^
 ||oktoon.top^
+||adobe.tt.omtrdc.net^
+||analytics.twitter.com^
+||t.paypal.com^
+||gemini.yahoo.com^
+||m.stripe.network^
+||log.mmstat.com^
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
 ||steamdb.info^$dnsrewrite=104.16.181.45
