@@ -20,7 +20,6 @@
 ||ads.unity3d.com^
 ||media.admob.com^
 ||adengine.mobi^
-||cdn.jsdelivr.net/npm/adsbygoogle^
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
 ||steamdb.info^$dnsrewrite=104.16.181.45
