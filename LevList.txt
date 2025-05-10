@@ -349,6 +349,4 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||nelo2-col.navercorp.com^$app=com.navercorp.game.android.community
 @@||apis.naver.com^$important,app=com.navercorp.game.android.community
 @@||nelo2-col.navercorp.com^$important,app=com.nhn.android.webtoon
-@@||alex.daum.net^
-@@||cdn-ao.adison.co^
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
