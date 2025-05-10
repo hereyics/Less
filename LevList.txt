@@ -359,6 +359,30 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||nelo2-col.navercorp.com^$app=com.navercorp.game.android.community
 @@||apis.naver.com^$important,app=com.navercorp.game.android.community
 @@||nelo2-col.navercorp.com^$important,app=com.nhn.android.webtoon
+@@||res-creatives.maio.jp$important
+@@||media-api.maio.jp$important
+@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com|m.clien.net
+@@||dcinside.co.kr/viewmovie.php^$stealth
+@@||dcinside.co.kr/viewimage.php^$stealth
+@@||cargo.koreanair.com^$important
+@@||tivan.naver.com^$important
+@@||www.googletagmanager.com^$important,domain=skt0.co.kr
+@@||www-googletagmanager.l.google.com^$important,domain=skt0.co.kr
+@@||mktp.tmoney.co.kr^$important,app=com.samsung.android.spay
+@@||adcr.naver.com^$important,domain=search.naver.com
+@@||mobile.launchdarkly.com^$important,app=com.samsung.android.oneconnect
+@@||ap.www.namecheap.com^$important,document
+@@||wurfl.io/wurfl.js$important,domain=todomate.net
+@@||t.co^$important
+@@||weblog.coupang.com^$important
+@@||metrics.icloud.com^$important
+@@||securemetrics.apple.com^$important
+@@||supportmetrics.apple.com^$important
+@@||iadsdk.apple.com^$important
+@@||ca.iadsdk.apple.com^$important
+@@||cf.iadsdk.apple.com^$important
+@@||tr.iadsdk.apple.com^$important
+@@||news.iadsdk.apple.com^$important
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 
 ! Third Party blocking ---------------------------------------------------------
