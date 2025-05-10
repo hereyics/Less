@@ -1,9 +1,6 @@
 ! Title: GreenList DNS
 ! Version: 2025.05.11
 
-127.0.0.1  localhost
-::1  localhost
-
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
