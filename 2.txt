@@ -5,6 +5,26 @@
 @@||searchad-phinf.pstatic.net^
 @@||gmarket.co.kr^
 
+||vortex.data.microsoft.com^
+||settings-win.data.microsoft.com^
+||watson.telemetry.microsoft.com^
+||telemetry.microsoft.com^
+||tracking.epicgames.com^
+||epicgames.112.2o7.net^
+||telemetry-in.battle.net^
+||log-ingest.battle.net^
+||metrics.ea.com^
+||telemetry.origin.com^
+||cdn.optimizely.com^
+||metrics.ubisoft.com^
+||ubistatic3-a.akamaihd.net^
+||prod.telemetry.rockstargames.com^
+||stove-pixel.smilegatesite.com^
+||adsm.smilegatesite.com^
+||log-api.purple.nc.com^
+||log-p-api.purple.com^
+||tracking.gog.com^
+||analytics.itch.io^
 ||survey.nexon.com^
 ||log.nexon.com^
 ||analytics.nexon.com^
