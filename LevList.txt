@@ -1,6 +1,19 @@
 ! Title: LevList
 ! Version: 2025-05-11
 
+! NAVER * > 광고 배너
+||ssl.pstatic.net/tveta/
+||ssl.pstatic.net/melona/
+||ssl.pstatic.net/static/www/m-new/uit/img/
+||ssl.pstatic.net/static/kin/*/promotion/main/
+||ssl.pstatic.net/static/kin/*/promotion/mobile/
+! NAVER * > 트래커
+||apis.naver.com/mcollector/
+||wcs.naver.net/wcslog.js
+||cafe.naver.com/static/js/mycafe/javascript/lcslog-*.js
+||scv-blog.io.naver.com/jackpotlog/*/logs
+||scv-cafe.io.naver.com/jackpotlog/*/logs
+
 webtoon.kakao.com##.z-toastMinus1.left-0.bottom-0.bg-dark-grey-13.fixed.w-full
 zeta-ai.io##.rounded-b-none.w-full.mt-auto.shadow-400.bg-gray-sub1.rounded-xl.flex-col.max-w-full.max-h-full.flex.relative
 zeta-ai.io##.justify-center.items-center.flex-col.flex-1.flex.z-50.absolute
