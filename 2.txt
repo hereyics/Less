@@ -14,6 +14,7 @@
 ||analytics.twitter.com^
 ||backend.dna-delivery.com^
 ||adfoc.us^
+||nimble.li^
 ||splunkcloud.com^
 ||wpadmngr.com^
 ||i2ad.jp^
