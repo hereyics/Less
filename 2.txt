@@ -6,7 +6,7 @@
 @@||gmarket.co.kr^
 
 
-||lck.legendaries.com^
+||lck.legendaries.com^ ## Scam WebSite
 ||vortex.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
