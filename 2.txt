@@ -13,6 +13,10 @@
 ||steampipe.steamcontent.com^
 ||api.segment.io^
 ||cdn.segment.com^
+||metrics.ea.com^
+||telemetry.origin.com^
+||cdn.optimizely.com^
+||bam.nr-data.net^
 ||survey.game.nexon.com^
 ||analytics.ad.daum.net^
 ||analytics.twitter.com^
