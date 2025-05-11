@@ -13,9 +13,6 @@
 ||epicgames.112.2o7.net^
 ||telemetry-in.battle.net^
 ||log-ingest.battle.net^
-||metrics.ea.com^
-||telemetry.origin.com^
-||cdn.optimizely.com^
 ||metrics.ubisoft.com^
 ||ubistatic3-a.akamaihd.net^
 ||prod.telemetry.rockstargames.com^
@@ -33,13 +30,8 @@
 ||steampipe.steamcontent.com^
 ||api.segment.io^
 ||cdn.segment.com^
-||metrics.ea.com^
-||telemetry.origin.com^
-||cdn.optimizely.com^
-||bam.nr-data.net^
 ||survey.game.nexon.com^
 ||analytics.ad.daum.net^
-||analytics.twitter.com^
 ||backend.dna-delivery.com^
 ||adfoc.us^
 ||nimble.li^
@@ -64,7 +56,6 @@
 ||tj.oktoon.top^
 ||oktoon.top^
 ||adobe.tt.omtrdc.net^
-||analytics.twitter.com^
 ||t.paypal.com^
 ||gemini.yahoo.com^
 ||m.stripe.network^
@@ -86,7 +77,6 @@
 ||analytics.githubassets.com^
 ||analytics.google.com^
 ||analytics.routinehub.co^
-||analytics.twitter.com^
 ||api.loganalytics.io^
 ||app.adjust.com^$important
 ||applicationinsights.io^
