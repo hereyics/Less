@@ -1,6 +1,10 @@
 ! Title: GreenList DNS
 ! Version: 2025.05.11
 
+@@||ad-creative.pstatic.net^
+@@||searchad-phinf.pstatic.net^
+@@||gmarket.co.kr^
+
 ||survey.nexon.com^
 ||log.nexon.com^
 ||analytics.nexon.com^
