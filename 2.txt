@@ -1,13 +1,14 @@
 ! Title: GreenList DNS
 ! Version: 2025.05.11
 
-127.0.0.1  localhost
-::1  localhost
-
-127.0.0.1 analytics.ad.daum.net
-127.0.0.1 analytics.twitter.com
-127.0.0.1 backend.dna-delivery.com
-
+||survey.nexon.com^
+||log.nexon.com^
+||analytics.nexon.com^
+||tracking.nexon.com^
+||survey.game.nexon.com^
+||analytics.ad.daum.net^
+||analytics.twitter.com^
+||backend.dna-delivery.com^
 ||adfoc.us^
 ||splunkcloud.com^
 ||wpadmngr.com^
