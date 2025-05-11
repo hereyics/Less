@@ -8,6 +8,17 @@
 127.0.0.1 analytics.twitter.com
 127.0.0.1 backend.dna-delivery.com
 
+||adfoc.us^
+||splunkcloud.com^
+||wpadmngr.com^
+||i2ad.jp^
+||carbonads.com^
+||ad.daum.net^
+||track.hubspot.com^
+||error-tracking.reddit.com^
+||hs-analytics.net^
+||analytics.edgekey.net^
+||hexagon-analytics.com^
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
