@@ -1,5 +1,5 @@
 ! Title: GreenList DNS
-! Version: 2025.05.11
+! Version: 2025.05.12
 
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
@@ -9,6 +9,10 @@
 ||log.nexon.com^
 ||analytics.nexon.com^
 ||tracking.nexon.com^
+||metrics.steampowered.com^
+||steampipe.steamcontent.com^
+||api.segment.io^
+||cdn.segment.com^
 ||survey.game.nexon.com^
 ||analytics.ad.daum.net^
 ||analytics.twitter.com^
