@@ -5,6 +5,8 @@
 @@||searchad-phinf.pstatic.net^
 @@||gmarket.co.kr^
 
+
+||lck.legendaries.com^
 ||vortex.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
