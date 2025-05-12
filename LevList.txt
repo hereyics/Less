@@ -1,5 +1,5 @@
 ! Title: LevList
-! Version: 2025-05-11
+! Version: 2025-05-12
 
 ! NAVER * > 광고 배너
 ||ssl.pstatic.net/tveta/
