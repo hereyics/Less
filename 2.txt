@@ -11,6 +11,7 @@
 ||vortex.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
+||green1052.com^
 ||telemetry.microsoft.com^
 ||tracking.epicgames.com^
 ||epicgames.112.2o7.net^
