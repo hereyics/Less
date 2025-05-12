@@ -398,9 +398,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^allstv\d+\.com/]###container > div.main_bn_box.swiper-container:nth-child(3) > div:nth-child(7)
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
-@@||nelo2-col.navercorp.com^$app=com.navercorp.game.android.community
 @@||apis.naver.com^$important,app=com.navercorp.game.android.community
-@@||nelo2-col.navercorp.com^$important,app=com.nhn.android.webtoon
 @@||res-creatives.maio.jp$important
 @@||media-api.maio.jp$important
 @@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com|m.clien.net
