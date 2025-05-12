@@ -7,6 +7,7 @@
 
 
 ||lck.legendaries.com^
+||nelo2-col.navercorp.com^
 ||scv-game.io.naver.com^
 ||vortex.data.microsoft.com^
 ||settings-win.data.microsoft.com^
