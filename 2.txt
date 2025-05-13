@@ -5,6 +5,8 @@
 @@||searchad-phinf.pstatic.net^
 @@||gmarket.co.kr^
 
+!#include hosts.txt
+
 ||nelo2-col.navercorp.com^
 ||scv-game.io.naver.com^
 ||vortex.data.microsoft.com^
