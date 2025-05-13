@@ -5,7 +5,6 @@
 @@||searchad-phinf.pstatic.net^
 @@||gmarket.co.kr^
 
-||lck.legendaries.com^
 ||nelo2-col.navercorp.com^
 ||scv-game.io.naver.com^
 ||vortex.data.microsoft.com^
