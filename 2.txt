@@ -237,4 +237,3 @@
 /wfwf\d*\.com/$dnsrewrite=104.16.181.45
 
 !#include H.txt
-!#include https://someonewhocares.org/hosts/hosts
