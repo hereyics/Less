@@ -1,5 +1,5 @@
 ! Title: LevList
-! Version: 2025-05-13
+! Version: 2025-05-14
 
 ! NAVER * > 광고 배너
 ||ssl.pstatic.net/tveta/
@@ -242,6 +242,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tvwiki\d+.com/]###bnb_wrap
 [$domain=/^tvwiki\d+.com/]##.notice
 [$domain=/^manatoki\d+\.net/]##.view-good-box.print-hide
+[$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^newtoki\d+.com/]##.view-padding.view-tag
+[$domain=/^newtoki\d+.com/]##.text-center.well
+[$domain=/^newtoki\d+.com/]##.cursor.to-show
 [$domain=/^tv\d+\.wiki/]##.custom_banner_wrap
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
