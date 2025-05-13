@@ -1,6 +1,5 @@
 ! Title: GreenList Filter
-! Expires: 1 days
-! Version: 2025.05.08
+! Version: 2025.05.14
 
 ||prts.plus/ad_leidian.jpg
 ||novelpia.com/js/jdetects.min.js
