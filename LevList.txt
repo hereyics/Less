@@ -16,6 +16,7 @@
 
 @@||ad-creative.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 @@||searchad-phinf.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
+@@||challenges.cloudflare.com^$stealth
 
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
 dmm.co.jp#%#//scriptlet('trusted-set-cookie-reload', 'ckcy_remedied_check', 'ec_mrnhbtk', '1year', '/', '.dmm.co.jp')
