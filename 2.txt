@@ -237,4 +237,4 @@
 /wfwf\d*\.com/$dnsrewrite=104.16.181.45
 
 !#include H.txt
-!#include https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext
+!#include https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
