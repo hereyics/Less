@@ -1,9 +1,6 @@
 ! Title: GreenList DNS
 ! Version: 2025.05.14
 
-!#include H.txt
-!#include A.txt
-
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
 @@||gmarket.co.kr^
