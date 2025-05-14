@@ -14,8 +14,6 @@
 ||scv-blog.io.naver.com/jackpotlog/*/logs
 ||scv-cafe.io.naver.com/jackpotlog/*/logs
 
-[$url=||t*.hoduhodu.com^]#%#//scriptlet('abort-current-inline-script', 'oncontextmenu')
-
 @@||ad-creative.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 @@||searchad-phinf.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 
