@@ -17,6 +17,8 @@
 @@||ad-creative.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 @@||searchad-phinf.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 
+!#include K.txt
+
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
 webtoon.kakao.com##.swiper-wrapper
 webtoon.kakao.com##.z-toastMinus1.left-0.bottom-0.bg-dark-grey-13.fixed.w-full
