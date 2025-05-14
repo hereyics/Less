@@ -3,39 +3,6 @@ startpage.com##div[class^="blog-menu"]
 startpage.com##div[id="home-hide-promo-container"]
 startpage.com##div[class^="home-hero-down-arrow"]
 startpage.com##div[id="home-below-the-fold-container"]
-m.dcinside.com$$button[class="btn-otp"]
-m.dcinside.com$$a:contains(즐겨찾기)
-m.dcinside.com$$a:contains(상품권)
-m.dcinside.com$$li:contains(디시픽)
-m.dcinside.com$$li:contains(공지사항)
-m.dcinside.com$$li:contains(뉴스)
-m.dcinside.com$$li:contains(NFT)
-m.dcinside.com$$li:contains(게임)
-m.dcinside.com$$li:contains(위키)
-m.dcinside.com###topmenu_depthbox > li:nth-of-type(2)
-m.dcinside.com$$section[class="nh-group"]
-m.dcinside.com$$a:contains(랭킹)
-m.dcinside.com$$div[id="livebest_img"]
-m.dcinside.com$$div[class="thum-img"]
-m.dcinside.com$$div[class="paging blue"]
-m.dcinside.com$$section[class="dna-group"]
-m.dcinside.com$$section[class="gall-group"]
-m.dcinside.com$$section[class="media-group"]
-m.dcinside.com##section[class$="livebest-group"]:nth-of-type(1)
-m.dcinside.com##section[class$="livebest-group"]:nth-of-type(3)
-m.dcinside.com$$li[class="adv-inner"]
-m.dcinside.com$$div[class="tip_box1"]
-m.dcinside.com$$script[src="survey"]
-m.dcinside.com$$div[id="survey"]
-m.dcinside.com$$a:contains(설문)
-m.dcinside.com$$ul[class="share-lst"]
-m.dcinside.com##div[class="wallet-box guide"]
-m.dcinside.com$$ul[class="news-schthum"]
-m.dcinside.com$$h3:contains(뉴스)
-m.dcinside.com$$ul[class="play-schthum"]
-m.dcinside.com$$h3:contains(동영상)
-m.dcinside.com$$ul[class="outside-search-box"]
-m.dcinside.com$$section:contains(다음 검색)
 arca.live$$div[class="link-list"]
 arca.live$$select[name="sort"]
 arca.live$$select[name="cut"]
@@ -44,14 +11,6 @@ arca.live$$video[height="100"]
 arca.live$$form[class="form-inline mt-2 justify-content-center"]
 arca.live$$small:contains(사용하고 계신 브라우저가 시간대 설정을 지원하지 않으므로 GMT 시간대가 적용됩니다.)
 mega.nz##div[id*="commercial-wrapper"]
-fmkorea.com$$header[id="header"]
-fmkorea.com##div[class="hd"]
-fmkorea.com##div[class$="bd_bc_pop_btn"]
-fmkorea.com$$div[class="fm_hot_key"]
-fmkorea.com$$a:contains([연관 게시판] 자유쇼핑)
-fmkorea.com##li[class^="notice"]
-fmkorea.com$$div[id="fm_alert"]
-fmkorea.com$$script[src="mediaelement"]
 naver.com,~chzzk.naver.com##+js(addEventListener-defuser, /contextmenu|selectstart|dragstart/)
 google.*#%#//scriptlet('trusted-click-element', '[aria-controls="hdtbMenus"][aria-expanded="false"][role="button"]', '', '1800')
 @@||isplus.$stealth=dpi
