@@ -1,5 +1,5 @@
 ! Title: LevList
-! Version: 2025-05-14
+! Version: 2025-05-15
 
 ! NAVER * > 광고 배너
 ||ssl.pstatic.net/tveta/
@@ -13,6 +13,8 @@
 ||cafe.naver.com/static/js/mycafe/javascript/lcslog-*.js
 ||scv-blog.io.naver.com/jackpotlog/*/logs
 ||scv-cafe.io.naver.com/jackpotlog/*/logs
+
+[$url=||t*.hoduhodu.com^]#%#//scriptlet('abort-current-inline-script', 'oncontextmenu')
 
 @@||ad-creative.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 @@||searchad-phinf.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
