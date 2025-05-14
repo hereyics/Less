@@ -1,8 +1,9 @@
 ! Title: GreenList DNS
-! Version: 2025.05.14
+! Version: 2025.05.15
 
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
+@@||creative.live.missav.com^
 @@||gmarket.co.kr^
 
 ||nelo2-col.navercorp.com^
