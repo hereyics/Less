@@ -13,23 +13,6 @@ arca.live$$small:contains(사용하고 계신 브라우저가 시간대 설정�
 mega.nz##div[id*="commercial-wrapper"]
 naver.com,~chzzk.naver.com##+js(addEventListener-defuser, /contextmenu|selectstart|dragstart/)
 google.*#%#//scriptlet('trusted-click-element', '[aria-controls="hdtbMenus"][aria-expanded="false"][role="button"]', '', '1800')
-@@||isplus.$stealth=dpi
-@@||ourhome.co.kr^$stealth=dpi
-@@||onelink.me^$stealth=dpi
-@@||ses.signgate.com^$stealth=dpi
-@@||nid.naver.com^$stealth=dpi
-@@||kurly.com^$stealth=dpi
-@@||startpage.com^$stealth=dpi
-@@||app.link^$stealth=dpi
-###hd_pop
-*##[id*='powerLink']
-*##[id*='powerlink']
-*##img[alt$='광고']
-e-hentai.org#$##sm { padding-top: 70px !important; }
-[$domain=/^manatoki\d+.net/]##[style="margin-bottom: 20px;"].row.row-15
-[$domain=/^manatoki\d+.net/]##li:has([target])
-[$domain=/^newtoki\d+.com/]##li:has([target])
 ||arca.live/static/assets/js/adult.min.js
 @@||app.appsflyer.com^$domain=ofw.adison.co
 @@||avdbs.com^$generichide
-@@||client-rapi-missav.recombee.com^
