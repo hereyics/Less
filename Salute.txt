@@ -9,9 +9,6 @@ arca.live$$select[name="cut"]
 arca.live$$a[class="title preview-image"]
 arca.live$$video[height="100"]
 arca.live$$form[class="form-inline mt-2 justify-content-center"]
-arca.live$$small:contains(사용하고 계신 브라우저가 시간대 설정을 지원하지 않으므로 GMT 시간대가 적용됩니다.)
-mega.nz##div[id*="commercial-wrapper"]
-naver.com,~chzzk.naver.com##+js(addEventListener-defuser, /contextmenu|selectstart|dragstart/)
 google.*#%#//scriptlet('trusted-click-element', '[aria-controls="hdtbMenus"][aria-expanded="false"][role="button"]', '', '1800')
 ||arca.live/static/assets/js/adult.min.js
 @@||app.appsflyer.com^$domain=ofw.adison.co
