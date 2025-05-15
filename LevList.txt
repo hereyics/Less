@@ -19,6 +19,7 @@
 @@||searchad-phinf.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 
 !#include Salute.txt
+!#include Salute1.txt
 !#include Ublock.txt
 
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
