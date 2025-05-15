@@ -1,6 +1,4 @@
 ! Title: LevList DNS
-! Version: 2025.05.14
+! Version: 2025.05.16
 
 !#include H.txt
-!#include A.txt
-!#include P.txt
