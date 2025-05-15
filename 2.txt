@@ -4,6 +4,7 @@
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
 @@||creative.live.missav.com^
+@@||track.cashfriends.io^
 @@||gmarket.co.kr^
 
 ||nelo2-col.navercorp.com^
