@@ -5,6 +5,7 @@
 @@||searchad-phinf.pstatic.net^
 @@||creative.live.missav.com^
 @@||track.cashfriends.io^
+@@||img-ad-img-vp.daumcdn.net^
 @@||gmarket.co.kr^
 
 ||nelo2-col.navercorp.com^
