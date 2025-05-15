@@ -764,22 +764,14 @@ $script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepira
 ! Filters optimized for uBlock
 !#include U.txt
 
-!-------------------------------------!
-!---------- Generic Filters ----------!
-!-------------------------------------!
-! Cosmetic Filters
 ##.js_smartbanner
 ##meta[name="apple-itunes-app"]:remove()
 
-! Network Filters
 ||adj.st^
 ||app.adjust.com^
 ||app.appsflyer.com^
 ||app.link^
 
-!--------------------------------------!
-!---------- Specific Filters ----------!
-!--------------------------------------!
 ! 88Kanqiu
 bszb002.com,kqzb123.com,kanqiu00.com##.feedback
 bszb002.com,kqzb123.com,kanqiu00.com##.home_godown
