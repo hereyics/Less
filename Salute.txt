@@ -4,11 +4,11 @@
 [$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^newtoki\d+.com/]##.view-padding.view-tag
 [$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-[$domain=/^manatoki\d+.com/]##.go-btn
-[$domain=/^manatoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-[$domain=/^manatoki\d+.com/]##.view-good-box.print-hide
-[$domain=/^manatoki\d+.com/]##.text-center.well
-[$domain=/^manatoki\d+.com/]##.view-padding.view-tag
+[$domain=/^manatoki\d+.net/]##.go-btn
+[$domain=/^manatoki\d+.net/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^manatoki\d+.net/]##.view-good-box.print-hide
+[$domain=/^manatoki\d+.net/]##.text-center.well
+[$domain=/^manatoki\d+.net/]##.view-padding.view-tag
 [$domain=/^booktoki\d+.com/]##.go-btn
 [$domain=/^booktoki\d+.com/]##.comment-box
 [$domain=/^booktoki\d+.com/]##.view-padding.view-tag
