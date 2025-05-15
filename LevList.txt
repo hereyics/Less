@@ -259,6 +259,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^newtoki\d+.com/]##.view-padding.view-tag
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.cursor.to-show
+[$domain=/^newtoki\d+.com/]##.en.font-18.view-comment
 [$domain=/^newtoki\d+.com/]###content_wrapper > div.content:last-child > div.at-content > div.row.row-15:nth-child(2) > div.col-15.col-md-3.col-sm-4:first-child > div:first-child
 [$domain=/^newtoki\d+.com/]###content_wrapper > div.content:last-child > div.at-content > div.row.row-15:last-child
 [$domain=/^tv\d+\.wiki/]##.custom_banner_wrap
