@@ -19,6 +19,7 @@
 @@||searchad-phinf.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
 
 !#include Salute.txt
+!#include Ublock.txt
 
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
 webtoon.kakao.com##.swiper-wrapper
@@ -760,9 +761,6 @@ $script,websocket,domain=pirateproxy.mx|thepiratebay.by|thepiratebay.org|thepira
 @@||live.api.stream^$websocket
 @@||quiknode.pro^$websocket
 @@||aptal.pro^$websocket
-
-! Filters optimized for uBlock
-!#include U.txt
 
 ##.js_smartbanner
 ##meta[name="apple-itunes-app"]:remove()
