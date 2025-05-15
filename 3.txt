@@ -1,5 +1,5 @@
 ! Title: GreenList Filter
-! Version: 2025.05.15
+! Version: 2025.05.16
 
 ||prts.plus/ad_leidian.jpg
 ||novelpia.com/js/jdetects.min.js
@@ -29,7 +29,6 @@ dcinside.com##+js(set, trendAjax, noopFunc)
 dcinside.com##+js(set, mediaAjax, noopFunc)
 dcinside.com##+js(set, issueAjax, noopFunc)
 dcinside.com##+js(set, mixNewsMediaAjax, noopFunc)
-namu.wiki##div[class][id]:empty
 namu.wiki##div[style^="color: rgba("]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 namu.wiki##div[style^="margin 0;"]:has( > div > span > span > img[src^="data:image/svg+xml;"] + img[src^="//i.namu.wiki/i/"])
 harpi.in##div:has(> script[src*="jads.js"])
