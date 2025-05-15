@@ -1,15 +1,12 @@
 ! Title: GreenList DNS
-! Version: 2025.05.15
+! Version: 2025.05.16
 
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
 @@||creative.live.missav.com^
 @@||track.cashfriends.io^
 @@||img-ad-img-vp.daumcdn.net^
-@@||gmarket.co.kr^
 
-||nelo2-col.navercorp.com^
-||scv-game.io.naver.com^
 ||vortex.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||watson.telemetry.microsoft.com^
@@ -68,42 +65,28 @@
 ||media.admob.com^
 ||adengine.mobi^
 ||rev.iq^
-||feedback-pa.googleapis.com^
-||feedback-pa.clients6.google.com^
 ||11h11m.net^
 ||ad2.jinhak.com^
 ||ad2.jinhakapply.com^
 ||admob-app-id-*.firebaseio.com^
 ||aem-finance-collector.onkakao.net^
 ||affiliazioniads.snai.it^
-||analytics-alv.google.com^
 ||analytics.githubassets.com^
-||analytics.google.com^
 ||analytics.routinehub.co^
 ||api.loganalytics.io^
-||app.adjust.com^$important
 ||applicationinsights.io^
 ||apptrace.com^
 ||bugly.qcloud.com^
 ||bugsnag.com^
 ||buzzni.com^
 ||cdn.signalfx.com^
-||collect.kr.karrotmarket.com^
-||collector.snowplow.supercell.com^
-||collector.sports.naver.com^
-||crashlytics.com^
-||crashlytics2.l.google.com^
-||crashlyticsreports-pa.googleapis.com^
 ||cubot.eigene.io^
 ||eastus-*.applicationinsights.azure.com^
 ||emforce.co.kr^
 ||esp*.aptrinsic.com^
 ||events.backtrace.io^
 ||events.split.io^
-||firebaselogging-pa.googleapis.com^
-||firebaselogging.googleapis.com^
 ||hottracks.kyobobook.co.kr^
-||in.appcenter.ms^$important
 ||log-upload-os.hoyolab.com^
 ||log.data.musinsa.com^
 ||log.sports.naver.com^
