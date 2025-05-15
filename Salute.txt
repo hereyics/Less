@@ -1,3 +1,19 @@
+[$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
+[$domain=/^newtoki\d+.com/]##.text-center.well
+[$domain=/^newtoki\d+.com/]##.go-btn
+[$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^newtoki\d+.com/]##.view-padding.view-tag
+[$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^manatoki\d+.com/]##.go-btn
+[$domain=/^manatoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^manatoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^manatoki\d+.com/]##.text-center.well
+[$domain=/^manatoki\d+.com/]##.view-padding.view-tag
+[$domain=/^booktoki\d+.com/]##.go-btn
+[$domain=/^booktoki\d+.com/]##.comment-box
+[$domain=/^booktoki\d+.com/]##.view-padding.view-tag
+[$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 startpage.com$$div[id="home-top-banner"]
 startpage.com##div[class^="blog-menu"]
 startpage.com##div[id="home-hide-promo-container"]
@@ -10,6 +26,6 @@ arca.live$$a[class="title preview-image"]
 arca.live$$video[height="100"]
 arca.live$$form[class="form-inline mt-2 justify-content-center"]
 google.*#%#//scriptlet('trusted-click-element', '[aria-controls="hdtbMenus"][aria-expanded="false"][role="button"]', '', '1800')
-||arca.live/static/assets/js/adult.min.js
 @@||app.appsflyer.com^$domain=ofw.adison.co
 @@||avdbs.com^$generichide
+||arca.live/static/assets/js/adult.min.js
