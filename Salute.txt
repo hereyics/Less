@@ -1,10 +1,12 @@
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
+[$domain=/^newtoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^newtoki\d+.com/]##.view-padding.view-tag
 [$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^manatoki\d+.net/]##.go-btn
+[$domain=/^manatoki\d+.net/]##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1)
 [$domain=/^manatoki\d+.net/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^manatoki\d+.net/]##.view-good-box.print-hide
 [$domain=/^manatoki\d+.net/]##.text-center.well
@@ -12,6 +14,8 @@
 [$domain=/^booktoki\d+.com/]##.go-btn
 [$domain=/^booktoki\d+.com/]##.comment-box
 [$domain=/^booktoki\d+.com/]##.view-padding.view-tag
+[$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
+[$domain=/^booktoki\d+.com/]###content_wrapper > div:nth-child(4)
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 startpage.com$$div[id="home-top-banner"]
