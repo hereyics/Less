@@ -1,5 +1,6 @@
 ! Title: LevList
-! Version: 2025-5-17
+! Expires: 12 hours
+! Version: 2025-05-17
 
 ! NAVER > 광고 배너
 ||ssl.pstatic.net/tveta/
