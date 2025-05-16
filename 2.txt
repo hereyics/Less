@@ -1,14 +1,14 @@
 ! Title: GreenList DNS
 ! Version: 2025.05.17
 
-!#include Heaven.txt
-
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
 @@||creative.live.missav.com^
 @@||track.cashfriends.io^
 @@||img-ad-img-vp.daumcdn.net^
 @@||naverwebtoon-phinf.pstatic.net^
+
+!#include Heaven.txt
 
 ||vortex.data.microsoft.com^
 ||settings-win.data.microsoft.com^
