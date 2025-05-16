@@ -15,9 +15,6 @@
 ||scv-blog.io.naver.com/jackpotlog/*/logs
 ||scv-cafe.io.naver.com/jackpotlog/*/logs
 
-@@||ad-creative.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
-@@||searchad-phinf.pstatic.net^$domain=naver.com|www.naver.com|m.naver.com
-
 !#include Salute.txt
 !#include Salute1.txt
 !#include Ublock.txt
