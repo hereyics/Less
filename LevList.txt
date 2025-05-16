@@ -238,6 +238,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^marumaru\d+\.com/]##.btn-lg.btn-info.btn
 [$domain=/^marumaru\d+\.com/]##.at-row.row
 [$domain=/^marumaru\d+\.com/]##p:nth-of-type(1)
+[$domain=/^marumaru\d+\.com/]###mobile_nav > ul.clearfix > li:last-child
+[$domain=/^marumaru\d+\.com/]###mobile_nav > ul.clearfix > li:nth-child(2)
+[$domain=/^marumaru\d+\.com/]###mobile_nav > ul.clearfix > li:nth-child(3)
+[$domain=/^marumaru\d+\.com/]###mobile_nav > ul.clearfix > li:nth-child(4)
 [$domain=/^tv\d+\.wiki/]##.custom_banner_wrap
 [$domain=/^tv\d+\.wiki/]##li:nth-of-type(7)
 [$domain=/^tv\d+\.wiki/]##.items
