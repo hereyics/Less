@@ -24,6 +24,21 @@
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^manga\d+.net/]##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(4) > div.c-page-content.style-1 > div.content-area > div.container > div.row > div.main-col.col-md-8.col-sm-8:first-child > div.ad.c-ads.custom-code.body-top-ads:first-child
+[$domain=/^manga\d+.net/]##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(4) > div.c-page-content.style-1 > div.content-area > div.container > div.row > div.main-col.col-md-8.col-sm-8:first-child > div.ad.c-ads.custom-code.body-bottom-ads:nth-child(3)
+[$domain=/^manga\d+.net/]##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar.wp-manga:nth-child(2)
+[$domain=/^manga\d+.net/]##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.c-blog-post:first-child > div.entry-content:nth-child(2) > div.entry-content_wrap > div.read-container > div.ad.c-ads.custom-code.body-top-ads:first-child
+[$domain=/^manga\d+.net/]##div.wrap:first-child > div.body-wrap > div.site-content:nth-child(3) > div.c-page-content.style-1.reading-content-wrap.chapter-type-manga > div.content-area > div.container > div.row > div.main-col.col-md-12.col-sm-12.sidebar-hidden > div.main-col-inner:last-child > div.c-blog-post:first-child > div.entry-content:nth-child(2) > div.entry-content_wrap > div.read-container > div.ad.c-ads.custom-code.body-bottom-ads:last-child
+[$domain=/^manga\d+.net/]###custom_html-41
+[$domain=/^manga\d+.net/]###block-12
+[$domain=/^manga\d+.net/]###custom_html-40
+[$domain=/^manga\d+.net/]###custom_html-12
+[$domain=/^manga\d+.net/]###custom_html-43
+[$domain=/^manga\d+.net/]###custom_html-44
+[$domain=/^manga\d+.net/]###custom_html-35
+[$domain=/^manga\d+.net/]###custom_html-36
+[$domain=/^manga\d+.net/]###custom_html-48
+[$domain=/^manga\d+.net/]###custom_html-38 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget
 startpage.com$$div[id="home-top-banner"]
 startpage.com##div[class^="blog-menu"]
 startpage.com##div[id="home-hide-promo-container"]
@@ -41,7 +56,6 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||avdbs.com^$generichide
 
 ||google.*/search$removeparam=/^(ved|uact|rlz|oq|k|sclient|iflsig|bih|biw|client|hl|cp|dpr)=/
-||arca.live/static/assets/js/adult.min.js
 ||moeni.live/data/apms/background/*.png
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(1)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(2)
