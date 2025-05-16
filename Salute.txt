@@ -1,4 +1,7 @@
 [$domain=/^newtoki\d+.com/]###id_mbv
+[$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
+[$domain=/^newtoki\d+.com/]##.at-tip.ion-ios-bookmarks
+[$domain=/^newtoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.go-btn
@@ -16,10 +19,16 @@
 [$domain=/^manatoki\d+.net/]##.view-good-box.print-hide
 [$domain=/^manatoki\d+.net/]##.text-center.well
 [$domain=/^manatoki\d+.net/]##.view-padding.view-tag
+[$domain=/^manatoki\d+.net/]##.navbar-wrapper > .toon-nav
+[$domain=/^manatoki\d+.net/]##.at-tip.ion-ios-bookmarks
+[$domain=/^manatoki\d+.net/]##.btn-sm.btn-white.btn.bookmark
 [$domain=/^booktoki\d+.com/]###content_wrapper > div:nth-child(6)
 [$domain=/^booktoki\d+.com/]##.go-btn
 [$domain=/^booktoki\d+.com/]##.text-center.well
 [$domain=/^booktoki\d+.com/]##.comment-box
+[$domain=/^booktoki\d+.com/]##.navbar-wrapper > .toon-nav
+[$domain=/^booktoki\d+.com/]##.at-tip.ion-ios-bookmarks
+[$domain=/^booktoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
 [$domain=/^booktoki\d+.com/]##.view-padding.view-tag
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
