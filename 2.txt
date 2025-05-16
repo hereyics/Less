@@ -8,6 +8,7 @@
 @@||creative.live.missav.com^
 @@||track.cashfriends.io^
 @@||img-ad-img-vp.daumcdn.net^
+@@||naverwebtoon-phinf.pstatic.net^
 
 ||vortex.data.microsoft.com^
 ||settings-win.data.microsoft.com^
