@@ -16,7 +16,7 @@
 ||scv-cafe.io.naver.com/jackpotlog/*/logs
 
 !#include Salute.txt
-!#include Salute1.txt
+!#include Pyosik.txt
 !#include Ublock.txt
 
 komi.la##.mb-10
