@@ -1,4 +1,5 @@
 ! Title: GreenList DNS
+! Expires: 12 hours
 ! Version: 2025.05.17
 
 @@||ad-creative.pstatic.net^
