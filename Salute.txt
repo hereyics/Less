@@ -16,7 +16,9 @@
 [$domain=/^manatoki\d+.net/]##.view-good-box.print-hide
 [$domain=/^manatoki\d+.net/]##.text-center.well
 [$domain=/^manatoki\d+.net/]##.view-padding.view-tag
+[$domain=/^booktoki\d+.com/]###content_wrapper > div:nth-child(6)
 [$domain=/^booktoki\d+.com/]##.go-btn
+[$domain=/^booktoki\d+.com/]##.text-center.well
 [$domain=/^booktoki\d+.com/]##.comment-box
 [$domain=/^booktoki\d+.com/]##.view-padding.view-tag
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
