@@ -28,3 +28,25 @@ arca.live$$form[class="form-inline mt-2 justify-content-center"]
 google.*#%#//scriptlet('trusted-click-element', '[aria-controls="hdtbMenus"][aria-expanded="false"][role="button"]', '', '1800')
 @@||app.appsflyer.com^$domain=ofw.adison.co
 @@||avdbs.com^$generichide
+
+||moeni.live/data/apms/background/*.png
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(1)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(2)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(3)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(4)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(5)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(6)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(7)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(8)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(9)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(10)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(11)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(12)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(13)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(14)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(15)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(16)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(17)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(18)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(19)
+moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(20)
