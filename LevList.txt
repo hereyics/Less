@@ -22,6 +22,8 @@
 komi.la##.mb-10
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
 komi.la##div.relative.flex.min-h-screen.flex-col:first-child > main.flex-1:nth-child(2) > div.responsive-container.py-6:last-child > div.grid.grid-cols-1.md\:grid-cols-4.responsive-gap.mb-8:nth-child(2)
+k-hentai.org##.my-3.container
+k-hentai.org##.rounded-end-0.bottom-50.end-0.position-fixed.py-2.px-1.btn-dark.btn-lg.btn
 webtoon.kakao.com##.swiper-wrapper
 webtoon.kakao.com##.z-toastMinus1.left-0.bottom-0.bg-dark-grey-13.fixed.w-full
 zeta-ai.io##.rounded-b-none.w-full.mt-auto.shadow-400.bg-gray-sub1.rounded-xl.flex-col.max-w-full.max-h-full.flex.relative
