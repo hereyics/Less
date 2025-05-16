@@ -151,7 +151,6 @@
 ||pastebin.com^$dnsrewrite=104.16.181.45
 ||swaytwig.com^$dnsrewrite=104.16.181.45
 ||oo.pe^$dnsrewrite=104.16.181.45
-||dcrefresher.green1052.com^$dnsrewrite=104.16.181.45
 ||synoforum.com^$dnsrewrite=104.16.181.45
 ||newtoki.*^$dnsrewrite=104.16.181.45
 ||aagag.com^$dnsrewrite=104.16.181.45
@@ -183,7 +182,6 @@
 ||aniabout.com^$dnsrewrite=104.16.181.45
 ||ohliplay.com^$dnsrewrite=104.16.181.45
 ||cdndania.com^$dnsrewrite=104.16.181.45
-/(new|mana|book)toki\d*\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
 /copytoon\d*\.com/$dnsrewrite=104.16.181.45
 /toonsarang\d*\.com/$dnsrewrite=104.16.181.45
