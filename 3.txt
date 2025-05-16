@@ -4,8 +4,6 @@
 ||prts.plus/ad_leidian.jpg
 ||novelpia.com/js/jdetects.min.js
 ||arca.live/static/assets/js/adult.min.js
-||dctrend.ai^
-||dccdn11.dcinside.co.kr^
 ||cdn.trend.rankify.best/dctrend/
 ||cdn.inappnews.net^
 ||gall.dcinside.com/_js/survey.js
