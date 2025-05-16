@@ -15,7 +15,6 @@
 [$domain=/^booktoki\d+.com/]##.comment-box
 [$domain=/^booktoki\d+.com/]##.view-padding.view-tag
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
-[$domain=/^booktoki\d+.com/]###content_wrapper > div:nth-child(4)
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 startpage.com$$div[id="home-top-banner"]
