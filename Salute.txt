@@ -1,5 +1,4 @@
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
-[$domain=/^newtoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
