@@ -1,3 +1,4 @@
+[$domain=/^newtoki\d+.com/]###id_mbv
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.go-btn
