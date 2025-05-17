@@ -1,3 +1,4 @@
+IU
 ! Sites that have .ai domain extension
 duckduckgo.com,bing.com##a[href*="forkful.ai"]:upward(li):remove()
 duckduckgo.com,bing.com##a[href*="otter.ai"]:upward(li):remove()
