@@ -424,6 +424,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||cf.iadsdk.apple.com^$important
 @@||tr.iadsdk.apple.com^$important
 @@||news.iadsdk.apple.com^$important
+@@||nlog.commerce.naver.com^$important
+@@||nlog.naver.com^$important
+@@||ntm.pstatic.net^$important
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 
 ! Third Party blocking
