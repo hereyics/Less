@@ -1,4 +1,3 @@
-IU
 csgoconfigs.com##+js(acis, m, CH.Anonymous)
 djs.sk,mladipodnikatelia.sk,tubettajat.net##+js(aopr, miner)
 tasma.ru,vidzi.tv##+js(aopw, decodeURIComponent)
