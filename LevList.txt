@@ -24,6 +24,10 @@
 komi.la##.mb-10
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
 komi.la##div.relative.flex.min-h-screen.flex-col:first-child > main.flex-1:nth-child(2) > div.responsive-container.py-6:last-child > div.grid.grid-cols-1.md\:grid-cols-4.responsive-gap.mb-8:nth-child(2)
+m.xn--h10b90bbmq49b63sq4e.com##.banner
+m.xn--h10b90bbmq49b63sq4e.com##[href="https://hlbam24.com"]
+m.xn--h10b90bbmq49b63sq4e.com###comment
+m.xn--h10b90bbmq49b63sq4e.com##.view-urlshare.basic-btn
 k-hentai.org##.my-3.container
 k-hentai.org##.rounded-end-0.bottom-50.end-0.position-fixed.py-2.px-1.btn-dark.btn-lg.btn
 webtoon.kakao.com##.swiper-wrapper
