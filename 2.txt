@@ -8,9 +8,6 @@
 @@||track.cashfriends.io^
 @@||img-ad-img-vp.daumcdn.net^
 @@||naverwebtoon-phinf.pstatic.net^
-@@||nlog.commerce.naver.com^
-@@||nlog.naver.com^
-@@||ntm.pstatic.net^
 
 !#include Heaven.txt
 
