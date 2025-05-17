@@ -11,16 +11,10 @@
 
 !#include Heaven.txt
 
-||vortex.data.microsoft.com^
-||settings-win.data.microsoft.com^
-||watson.telemetry.microsoft.com^
-||telemetry.microsoft.com^
 ||tracking.epicgames.com^
-||epicgames.112.2o7.net^
 ||telemetry-in.battle.net^
 ||log-ingest.battle.net^
 ||metrics.ubisoft.com^
-||ubistatic3-a.akamaihd.net^
 ||prod.telemetry.rockstargames.com^
 ||stove-pixel.smilegatesite.com^
 ||adsm.smilegatesite.com^
@@ -32,19 +26,13 @@
 ||log.nexon.com^
 ||analytics.nexon.com^
 ||tracking.nexon.com^
-||metrics.steampowered.com^
-||steampipe.steamcontent.com^
-||api.segment.io^
-||cdn.segment.com^
 ||survey.game.nexon.com^
-||analytics.ad.daum.net^
 ||backend.dna-delivery.com^
 ||nimble.li^
 ||splunkcloud.com^
 ||wpadmngr.com^
 ||i2ad.jp^
 ||carbonads.com^
-||ad.daum.net^
 ||track.hubspot.com^
 ||error-tracking.reddit.com^
 ||hs-analytics.net^
@@ -60,7 +48,6 @@
 ||gracwarning.or.kr^
 ||tj.oktoon.top^
 ||adobe.tt.omtrdc.net^
-||t.paypal.com^
 ||gemini.yahoo.com^
 ||m.stripe.network^
 ||log.mmstat.com^
@@ -72,7 +59,6 @@
 ||11h11m.net^
 ||ad2.jinhak.com^
 ||ad2.jinhakapply.com^
-||admob-app-id-*.firebaseio.com^
 ||aem-finance-collector.onkakao.net^
 ||affiliazioniads.snai.it^
 ||analytics.githubassets.com^
@@ -100,28 +86,17 @@
 ||logx.optimizely.com^
 ||lr-ingest.com^
 ||metrics-collector.prod.sketch.com^
-||mobile.events.data.microsoft.com^
 ||montelena-rcv.*.co.kr^
 ||montelena.*.co.kr^
 ||mypopups.com^
-||nlog.naver.com^
 ||opentelemetry.io^
 ||prd-analytics.lotteon.com^
 ||raygun.io^
 ||rum.cronitor.io^
 ||sbs-log.cloud.sbs.co.kr^
-||securiti.ai^
-||sentry-apollo.naver.com.nheos.com^
-||sentry-apollo.naver.com^
-||sentry-cdn.com^
-||sentry-fin.naver.com^
-||sentry.io^$important
-||sentry.tossinvest.com^
 ||sny.monosnap.com^
-||statlog.skt-id.co.kr^
 ||trafficgate.net^
 ||trk.tand.kr^
-||trkpzz.dcinside.com^
 ||uac.etnews.com^
 ||weblog.coupang.com^
 ||whatap-browser-agent.io^
