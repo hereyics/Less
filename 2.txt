@@ -1,6 +1,6 @@
 ! Title: GreenList DNS
 ! Expires: 12 hours
-! Version: 2025.05.17
+! Version: 2025.05.19
 
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
@@ -8,6 +8,8 @@
 @@||track.cashfriends.io^
 @@||img-ad-img-vp.daumcdn.net^
 @@||naverwebtoon-phinf.pstatic.net^
+@@||1xbet.mobi^
+@@||1xbet.com^
 
 !#include Heaven.txt
 
