@@ -1,6 +1,6 @@
 ! Title: LevList
 ! Expires: 12 hours
-! Version: 2025-05-17
+! Version: 2025-05-19
 
 ! NAVER > 광고 배너
 ||ssl.pstatic.net/tveta/
@@ -118,6 +118,8 @@ anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
+harpi.in##div:has(> script[src*="jads.js"])
+prts.plus##a:has(> img[src="/ad_leidian.jpg"])
 ||marumaru*.com/data/apms/background/*g$image
 ||b.hottoon.top/*$image
 ||yatoon*.com/plugin/sns/icon/*.png$image
@@ -127,28 +129,8 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||*.ondobook.net/data/apms/background/%E*g$image
 ||*.ondotv.com/data/apms/background/%E*g$image
 ||joatoon*.com/storage/ad/*.webp$image
-||ad-content.moment.kakao.com^
-||ad-content.*.kakao.com^
-||kyson.ad.daum.net^
-||display.ad.daum.net^
-||webid.ad.daum.net^
-||ad.daum.net^
-||talkchannel-log.kakao.com^
-||tg.kakao.com^
-||stat.tiara.kakao.com^
-||stat.tiara.daum.net^
-||stat.tiara.g.daum.net^
-||track.tiara.kakao.com^
-||track.tiara.daum.net^
-||adserver.rockwell.kakao.com^
-||mud-kage.kakao.co.kr^
-||aem-collector.daumkakao.io^
-||aem-collector-prod-ytlsojie.kgslb.com^
-||adclix.daum.net^
-||adclixad.daum.net^
-||adserver.*.kakao.com^
-||amsimg.daum-img.net^
-||amsv2.daum.net^
+||prts.plus/ad_leidian.jpg
+||novelpia.com/js/jdetects.min.js
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
