@@ -11,6 +11,7 @@
 @@||1xbet.mobi^
 @@||1xbet.com^
 @@||stake.com^
+@@||hey-bro.xyz^$stealth=dpi
 
 !#include Heaven.txt
 
