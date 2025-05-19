@@ -10,6 +10,7 @@
 @@||naverwebtoon-phinf.pstatic.net^
 @@||1xbet.mobi^
 @@||1xbet.com^
+@@||stake.com^
 
 !#include Heaven.txt
 
