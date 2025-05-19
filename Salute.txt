@@ -9,6 +9,7 @@
 [$domain=/^newtoki\d+.com/]##.view-padding.view-tag
 [$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^manatoki\d+.net/]##.go-btn
+[$domain=/^manatoki\d+.net/]###bo_vcb
 [$domain=/^manatoki\d+.net/]##.post-list.media
 [$domain=/^manatoki\d+.net/]##.div-title-underbar
 [$domain=/^manatoki\d+.net/]##.border-deepblue.div-title-underbar-bold > b
