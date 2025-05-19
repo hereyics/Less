@@ -412,6 +412,8 @@ prts.plus##a:has(> img[src="/ad_leidian.jpg"])
 @@||nlog.commerce.naver.com^$important
 @@||nlog.naver.com^$important
 @@||ntm.pstatic.net^$important
+@@||fonts.googleapis.com^$app=com.shinhan.o2o
+@@||fonts.googleapis.com^$stealth=dpi
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 
 ! Third Party blocking
