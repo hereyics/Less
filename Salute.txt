@@ -65,7 +65,7 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||challenges.cloudflare.com^
 @@||app.appsflyer.com^$domain=ofw.adison.co
 @@||avdbs.com^$generichide
-@@||www.manaboza$stealth
+@@||www.manaboza$stealth=dpi
 
 ||google.*/search$removeparam=/^(ved|uact|rlz|oq|k|sclient|iflsig|bih|biw|client|hl|cp|dpr)=/
 ||moeni.live/data/apms/background/*.png
