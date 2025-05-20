@@ -1,4 +1,5 @@
 [$domain=/^newtoki\d+.com/]###id_mbv
+[$domain=/^newtoki\d+.com/]###bo_vcb
 [$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
 [$domain=/^newtoki\d+.com/]##.at-tip.ion-ios-bookmarks
 [$domain=/^newtoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
@@ -25,6 +26,7 @@
 [$domain=/^manatoki\d+.net/]##.btn-sm.btn-white.btn.bookmark
 [$domain=/^booktoki\d+.com/]###content_wrapper > div:nth-child(6)
 [$domain=/^booktoki\d+.com/]##.go-btn
+[$domain=/^booktoki\d+.com/]###bo_vcb
 [$domain=/^booktoki\d+.com/]##.text-center.well
 [$domain=/^booktoki\d+.com/]##.comment-box
 [$domain=/^booktoki\d+.com/]##.navbar-wrapper > .toon-nav
