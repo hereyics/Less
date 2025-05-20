@@ -1,6 +1,6 @@
 ! Title: LevList
 ! Expires: 12 hours
-! Version: 2025-05-19
+! Version: 2025-05-20
 
 ! NAVER > 광고 배너
 ||ssl.pstatic.net/tveta/
@@ -211,6 +211,7 @@ prts.plus##a:has(> img[src="/ad_leidian.jpg"])
 [$domain=/^www.11toon\d+\.com/]##div.ad400__100.mobile-m:nth-of-type(3)
 [$domain=/^www.11toon\d+\.com/]###main-footer
 [$domain=/^www.11toon\d+\.com/]###fviewcomment
+[$domain=/^www.manaboza\d+.com/]##.btn_area
 [$domain=/^www.manaboza\d+.com/]##.banner
 [$domain=/^www.manaboza\d+.com/]##div.theme_bottom_list_div.theme_bnr > a
 [$domain=/^www.manaboza\d+.com/]##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.swiper-container-fade.swiper-container
