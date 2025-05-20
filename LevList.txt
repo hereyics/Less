@@ -1,6 +1,6 @@
 ! Title: LevList
 ! Expires: 12 hours
-! Version: 2025-05-20
+! Version: 2025-05-21
 
 ! NAVER > 광고 배너
 ||ssl.pstatic.net/tveta/
@@ -23,6 +23,7 @@
 komi.la##.mb-10
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
 komi.la##div.relative.flex.min-h-screen.flex-col:first-child > main.flex-1:nth-child(2) > div.responsive-container.py-6:last-child > div.grid.grid-cols-1.md\:grid-cols-4.responsive-gap.mb-8:nth-child(2)
+m.dcinside.com##.trend-rank
 m.xn--h10b90bbmq49b63sq4e.com##.banner
 m.xn--h10b90bbmq49b63sq4e.com##[href="https://hlbam24.com"]
 m.xn--h10b90bbmq49b63sq4e.com###comment
