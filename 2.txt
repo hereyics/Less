@@ -104,6 +104,7 @@
 ||uac.etnews.com^
 ||weblog.coupang.com^
 ||whatap-browser-agent.io^
+/(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
 ||steamdb.info^$dnsrewrite=104.16.181.45
