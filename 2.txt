@@ -13,6 +13,7 @@
 @@||stake.com^
 @@||lcs.naver.com^
 @@||cc.naver.com^
+@@||static.cloudflareinsights.com^
 
 !#include Heaven.txt
 
