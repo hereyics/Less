@@ -12,6 +12,7 @@
 @@||1xbet.com^
 @@||stake.com^
 @@||lcs.naver.com^
+@@||cc.naver.com^
 
 !#include Heaven.txt
 
