@@ -11,11 +11,10 @@
 @@||1xbet.mobi^
 @@||1xbet.com^
 @@||stake.com^
-@@||hey-bro.xyz^$stealth=dpi
+@@||lcs.naver.com^
 
 !#include Heaven.txt
 
-||dvs.samsungmobile.com^
 ||tracking.epicgames.com^
 ||telemetry-in.battle.net^
 ||log-ingest.battle.net^
