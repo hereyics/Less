@@ -16,6 +16,7 @@
 ||scv-blog.io.naver.com/jackpotlog/*/logs
 ||scv-cafe.io.naver.com/jackpotlog/*/logs
 
+!#include 3.txt
 !#include Salute.txt
 !#include Pyosik.txt
 !#include Canyon.txt
