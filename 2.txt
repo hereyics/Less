@@ -2,20 +2,18 @@
 ! Expires: 12 hours
 ! Version: 2025.05.23
 
+@@||1xbet.mobi^
+@@||1xbet.com^
+@@||stake.com^
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
 @@||creative.live.missav.com^
 @@||track.cashfriends.io^
 @@||img-ad-img-vp.daumcdn.net^
 @@||naverwebtoon-phinf.pstatic.net^
-@@||1xbet.mobi^
-@@||1xbet.com^
-@@||stake.com^
 @@||lcs.naver.com^
 @@||cc.naver.com^
 @@||static.cloudflareinsights.com^
-
-!#include Heaven.txt
 
 ||tracking.epicgames.com^
 ||telemetry-in.battle.net^
