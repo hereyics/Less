@@ -1,5 +1,5 @@
 ! Title: GreenList DNS
-! Expires: 12 hours
+! Expires: 1 days
 ! Version: 2025.05.23
 
 @@||1xbet.mobi^
