@@ -104,7 +104,6 @@
 ||uac.etnews.com^
 ||weblog.coupang.com^
 ||whatap-browser-agent.io^
-/(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
 ||steamdb.info^$dnsrewrite=104.16.181.45
@@ -163,6 +162,7 @@
 ||aniabout.com^$dnsrewrite=104.16.181.45
 ||ohliplay.com^$dnsrewrite=104.16.181.45
 ||cdndania.com^$dnsrewrite=104.16.181.45
+/(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
 /copytoon\d*\.com/$dnsrewrite=104.16.181.45
 /toonsarang\d*\.com/$dnsrewrite=104.16.181.45
