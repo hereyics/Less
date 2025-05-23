@@ -1,3 +1,4 @@
+[$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]###id_mbv
 [$domain=/^newtoki\d+.com/]###bo_vcb
 [$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
@@ -9,6 +10,7 @@
 [$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^newtoki\d+.com/]##.view-padding.view-tag
 [$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^manatoki\d+.net/]##.text-right.view-btn
 [$domain=/^manatoki\d+.net/]##.go-btn
 [$domain=/^manatoki\d+.net/]###bo_vcb
 [$domain=/^manatoki\d+.net/]##.post-list.media
