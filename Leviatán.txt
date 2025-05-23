@@ -1,4 +1,4 @@
-! Title: Leviatán For AdGuard
+! Title: Leviatán for AdGuard
 ! Expires: 1 days
 ! Version: 2025-05-23
 
