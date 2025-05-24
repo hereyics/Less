@@ -16,7 +16,6 @@
 ||scv-blog.io.naver.com/jackpotlog/*/logs
 ||scv-cafe.io.naver.com/jackpotlog/*/logs
 
-!#include 3.txt
 !#include Salute.txt
 !#include Pyosik.txt
 !#include Canyon.txt
@@ -128,8 +127,6 @@ anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
-harpi.in##div:has(> script[src*="jads.js"])
-prts.plus##a:has(> img[src="/ad_leidian.jpg"])
 ||marumaru*.com/data/apms/background/*g$image
 ||b.hottoon.top/*$image
 ||yatoon*.com/plugin/sns/icon/*.png$image
@@ -139,8 +136,6 @@ prts.plus##a:has(> img[src="/ad_leidian.jpg"])
 ||*.ondobook.net/data/apms/background/%E*g$image
 ||*.ondotv.com/data/apms/background/%E*g$image
 ||joatoon*.com/storage/ad/*.webp$image
-||prts.plus/ad_leidian.jpg
-||novelpia.com/js/jdetects.min.js
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
