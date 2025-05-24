@@ -1,10 +1,7 @@
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2025.05.23
+! Version: 2025.05.24
 
-@@||1xbet.mobi^
-@@||1xbet.com^
-@@||stake.com^
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
 @@||creative.live.missav.com^
