@@ -1,6 +1,6 @@
 ! Title: Leviatán for AdGuard
 ! Expires: 1 days
-! Version: 2025-05-23
+! Version: 2025-05-24
 
 ! NAVER > 광고 배너
 ||ssl.pstatic.net/tveta/
@@ -115,6 +115,7 @@ ohli24.net##.site-info
 ohli24.net##.main-bg.pd-bt40
 ohli24.net##div.coment-box.layui-tab-brief.layui-tab:nth-of-type(5)
 op.gg###notification-header > li
+anilife.live###post-30 > div.bixbox:nth-child(3) > div.mctnx:last-child > div.dlbox:nth-child(2) > ul > li:nth-child(2) anilife.live###post-30 > div.bixbox.animefull:first-child > div.bigcontent > div.infox:last-child > div.ninfo:last-child > div.info-content:last-child > div.genxed:nth-child(2) anilife.live###post-30 > div.bixbox.animefull:first-child > div.bigcontent > div.infox:last-child > div.ninfo:last-child > div.info-content:last-child > div.taged.min:last-child anilife.live###post-30 > div.bixbox:last-child anilife.live###post-131 > div.single-info.bixbox:last-child > div.infox:last-child > div.info-content:last-child > div.desc.mindes:last-child anilife.live###post-30 > div.bixbox.synp:nth-child(2)
 anilife.live##.surprise
 anilife.live##.link
 anilife.live##[href="/notice"]
