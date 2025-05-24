@@ -1,6 +1,6 @@
 ! Title: GreenList Filter
 ! Expires: 1 days
-! Version: 2025.05.23
+! Version: 2025.05.24
 
 !#if env_mobile
 namu.wiki##div[style^="color: rgba("]:has(> div > div > span + span)
