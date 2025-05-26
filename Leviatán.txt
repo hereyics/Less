@@ -479,6 +479,15 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||nlog.commerce.naver.com^$important
 @@||nlog.naver.com^$important
 @@||ntm.pstatic.net^$important
+@@||ad-creative.pstatic.net^
+@@||searchad-phinf.pstatic.net^
+@@||creative.live.missav.com^
+@@||track.cashfriends.io^
+@@||img-ad-img-vp.daumcdn.net^
+@@||naverwebtoon-phinf.pstatic.net^
+@@||lcs.naver.com^
+@@||cc.naver.com^
+@@||static.cloudflareinsights.com^
 @@||fonts.googleapis.com^$app=com.shinhan.o2o
 @@||fonts.googleapis.com^$stealth=dpi
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
