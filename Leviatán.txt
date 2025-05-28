@@ -52,12 +52,6 @@ namu.wiki##div[style^="margin 0;"]:has( > div > div > span + div)
 
 harpi.in##div:has(> script[src*="jads.js"])
 zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
-||zoot.plus/ad_leidian.jpg
-||novelpia.com/js/jdetects.min.js
-||arca.live/static/assets/js/adult.min.js
-||cdn.trend.rankify.best/dctrend/
-||cdn.inappnews.net^
-
 komi.la##.mb-10
 komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
 komi.la##div.relative.flex.min-h-screen.flex-col:first-child > main.flex-1:nth-child(2) > div.responsive-container.py-6:last-child > div.grid.grid-cols-1.md\:grid-cols-4.responsive-gap.mb-8:nth-child(2)
@@ -168,6 +162,11 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||marumaru*.com/data/apms/background/*g$image
 ||b.hottoon.top/*$image
 ||yatoon*.com/plugin/sns/icon/*.png$image
+||zoot.plus/ad_leidian.jpg
+||novelpia.com/js/jdetects.min.js
+||arca.live/static/assets/js/adult.min.js
+||cdn.trend.rankify.best/dctrend/
+||cdn.inappnews.net^
 ||*.ondoani.com/data/apms/background/%E*g$image
 ||*.ondotoon.com/data/apms/background/%E*g$image
 ||*.ondomana.com/data/apms/background/%E*g$image
