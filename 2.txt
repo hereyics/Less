@@ -3,8 +3,6 @@
 ! Version: 2025.05.30
 
 @@||ad-creative.pstatic.net^
-@@||ad-creative.pstatic.net^
-@@||ad-creative.pstatic.net^
 @@||id.google.com^
 @@||vsak1.play.kakao.com^
 @@||live-orisa-edge.play.kakao.com^
