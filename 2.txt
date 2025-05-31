@@ -83,6 +83,7 @@
 ||aniabout.com^$dnsrewrite=104.16.181.45
 ||ohliplay.com^$dnsrewrite=104.16.181.45
 ||cdndania.com^$dnsrewrite=104.16.181.45
+
 /(new|mana|book)toki\d+\.(com|net|org)/$dnsrewrite=104.16.181.45
 /marumaru\d*\.com/$dnsrewrite=104.16.181.45
 /copytoon\d*\.com/$dnsrewrite=104.16.181.45
