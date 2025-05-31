@@ -1,6 +1,6 @@
-! Title: GreenList DNS
-! Expires: 1 days
-! Version: 2025.05.31
+Title: GreenList DNS
+Expires: 1 days
+Version: 2025.05.31
 
 @@||ad-creative.pstatic.net^
 @@||id.google.com^
