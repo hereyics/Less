@@ -18,6 +18,10 @@
 
 ||ntracker-collector.naver.com^
 ||ntracker-ext-collector.naver.com^
+||scv-blog.io.naver.com^
+||scv-cafe.io.naver.com^
+||scv-game.io.naver.com^
+||scv-ntalk.io.naver.com^
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
