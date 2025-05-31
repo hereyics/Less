@@ -16,6 +16,8 @@
 @@||cc.naver.com^
 @@||static.cloudflareinsights.com^
 
+||ntracker-collector.naver.com^
+||ntracker-ext-collector.naver.com^
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
