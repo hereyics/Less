@@ -65,7 +65,6 @@ arca.live$$select[name="cut"]
 arca.live$$a[class="title preview-image"]
 arca.live$$video[height="100"]
 arca.live$$form[class="form-inline mt-2 justify-content-center"]
-google.*#%#//scriptlet('trusted-click-element', '[aria-controls="hdtbMenus"][aria-expanded="false"][role="button"]', '', '1800')
 pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||challenges.cloudflare.com^
 @@||app.appsflyer.com^$domain=ofw.adison.co
