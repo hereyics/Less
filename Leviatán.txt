@@ -1,6 +1,6 @@
 ! Title: Leviatán for AdGuard
 ! Expires: 1 days
-! Version: 2025-05-30
+! Version: 2025-06-02
 
 ! NAVER > 광고 배너
 ||ssl.pstatic.net/tveta/
