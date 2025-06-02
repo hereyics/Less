@@ -442,6 +442,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||static.cloudflareinsights.com^
 @@||fonts.googleapis.com^$app=com.shinhan.o2o
 @@||fonts.googleapis.com^$stealth=dpi
+||app.dcinside.com/api/_naverad^$empty
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 
 ! Third Party blocking
