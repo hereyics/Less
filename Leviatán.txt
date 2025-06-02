@@ -1,6 +1,6 @@
 ! Title: Leviatán for AdGuard
 ! Expires: 1 days
-! Version: 2025-06-02
+! Version: 2025-06-03
 
 ! NAVER > 광고 배너
 ||ssl.pstatic.net/tveta/
@@ -130,6 +130,7 @@ anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
+||app.dcinside.com/api/_naverad^$empty
 ||marumaru*.com/data/apms/background/*g$image
 ||b.hottoon.top/*$image
 ||yatoon*.com/plugin/sns/icon/*.png$image
@@ -442,7 +443,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||static.cloudflareinsights.com^
 @@||fonts.googleapis.com^$app=com.shinhan.o2o
 @@||fonts.googleapis.com^$stealth=dpi
-||app.dcinside.com/api/_naverad^$empty
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 
 ! Third Party blocking
