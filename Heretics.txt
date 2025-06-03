@@ -1,6 +1,6 @@
 ! Title: GreenList for AdGuard
 ! Expires: 1 days
-! Version: 2025.06.03
+! Version: 2025.06.04
 
 @@||ad-creative.pstatic.net^
 @@||vsak1.play.kakao.com^
@@ -12,6 +12,7 @@
 @@||naverwebtoon-phinf.pstatic.net^
 @@||static.cloudflareinsights.com^
 
+||dms.ospserver.net^
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
