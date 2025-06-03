@@ -12,7 +12,6 @@
 @@||naverwebtoon-phinf.pstatic.net^
 @@||static.cloudflareinsights.com^
 
-||dms.ospserver.net^
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
