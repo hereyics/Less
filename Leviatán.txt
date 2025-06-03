@@ -2,24 +2,6 @@
 ! Expires: 1 days
 ! Version: 2025-06-03
 
-! NAVER > 광고 배너
-||ssl.pstatic.net/tveta/
-||ssl.pstatic.net/melona/
-||ssl.pstatic.net/static/www/m-new/uit/img/
-||ssl.pstatic.net/static/kin/*/promotion/main/
-||ssl.pstatic.net/static/kin/*/promotion/mobile/
-
-! NAVER > 트래커
-||apis.naver.com/mcollector/
-||wcs.naver.net/wcslog.js
-||cafe.naver.com/static/js/mycafe/javascript/lcslog-*.js
-||scv-blog.io.naver.com/jackpotlog/*/logs
-||scv-cafe.io.naver.com/jackpotlog/*/logs
-
-!#include Salute.txt
-!#include Pyosik.txt
-!#include Canyon.txt
-
 harpi.in##div:has(> script[src*="jads.js"])
 zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
 komi.la##.mb-10
@@ -444,6 +426,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||fonts.googleapis.com^$app=com.shinhan.o2o
 @@||fonts.googleapis.com^$stealth=dpi
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
+
+!#include Salute.txt
+!#include Pyosik.txt
+!#include Canyon.txt
 
 ! Third Party blocking
 ||23.83.114.131^$third-party
