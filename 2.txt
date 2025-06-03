@@ -5,7 +5,6 @@
 @@||ad-creative.pstatic.net^
 @@||vsak1.play.kakao.com^
 @@||live-orisa-edge.play.kakao.com^
-@@||static.cloudflareinsights.com^
 @@||searchad-phinf.pstatic.net^
 @@||creative.live.missav.com^
 @@||track.cashfriends.io^
