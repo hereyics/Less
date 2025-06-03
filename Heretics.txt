@@ -1,4 +1,4 @@
-! Title: GreenList DNS
+! Title: GreenList for AdGuard
 ! Expires: 1 days
 ! Version: 2025.06.03
 
