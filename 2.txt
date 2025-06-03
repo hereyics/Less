@@ -1,6 +1,6 @@
 ! Title: GreenList DNS
 ! Expires: 1 days
-! Version: 2025.05.31
+! Version: 2025.06.03
 
 @@||ad-creative.pstatic.net^
 @@||id.google.com^
@@ -12,16 +12,8 @@
 @@||track.cashfriends.io^
 @@||img-ad-img-vp.daumcdn.net^
 @@||naverwebtoon-phinf.pstatic.net^
-@@||lcs.naver.com^
-@@||cc.naver.com^
 @@||static.cloudflareinsights.com^
 
-||ntracker-collector.naver.com^
-||ntracker-ext-collector.naver.com^
-||scv-blog.io.naver.com^
-||scv-cafe.io.naver.com^
-||scv-game.io.naver.com^
-||scv-ntalk.io.naver.com^
 ||warning.or.kr^
 ||blocked.or.kr^
 ||alldoc.work.gd^
