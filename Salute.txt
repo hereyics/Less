@@ -70,6 +70,7 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||app.appsflyer.com^$domain=ofw.adison.co
 @@||avdbs.com^$generichide
 
+||dms.ospserver.net^$all
 ||google.*/search$removeparam=/^(ved|uact|rlz|oq|k|sclient|iflsig|bih|biw|client|hl|cp|dpr)=/
 ||moeni.live/data/apms/background/*.png
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(1)
