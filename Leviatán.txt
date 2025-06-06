@@ -1,7 +1,8 @@
 ! Title: Leviatán for AdGuard
 ! Expires: 1 days
-! Version: 2025-06-03
+! Version: 2025-06-06
 
+youtube.com#@##player-ads
 harpi.in##div:has(> script[src*="jads.js"])
 zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
 komi.la##.mb-10
