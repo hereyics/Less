@@ -1,8 +1,9 @@
 ! Title: Leviatán for AdGuard
 ! Expires: 1 days
-! Version: 2025-06-06
+! Version: 2025-06-10
 
 youtube.com#@##player-ads
+m.fmkorea.com##body > p
 harpi.in##div:has(> script[src*="jads.js"])
 zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
 komi.la##.mb-10
@@ -114,6 +115,7 @@ anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
 ||app.dcinside.com/api/_naverad^$empty
+||t*.hoduhodu.com/_next/image$image
 ||marumaru*.com/data/apms/background/*g$image
 ||b.hottoon.top/*$image
 ||yatoon*.com/plugin/sns/icon/*.png$image
