@@ -180,6 +180,11 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##.relative.mx-auto.max-w-\[800px\]
 [$url=||t*.hoduhodu.com^]##[href="https://bbr-365.com/"] > .my-3.relative
 [$url=||t*.hoduhodu.com^]##[href^="https://www.xapb32.com/affiliates/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##[href^="https://1bet1.one/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##a[href^="https://opgo22.com/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##[href^="https://winner1.site/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##[href^="https://lula.asia/Main"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##[href^="https://onetop.space/Main"] > .my-3.relative
 [$url=||www.cookmana*.com^]##.oot-height
 [$url=||www.cookmana*.com^]##.four.b_item.grid_gap_5.gridArea
 [$url=||www.cookmana*.com^]##.new.mChatBtn.m-chat-btn
