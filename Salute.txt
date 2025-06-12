@@ -1,4 +1,4 @@
-! Title: Ssonic for AdGuard
+! Title: Salute for AdGuard
 ! Expires: 1 days
 ! Version: 2025-06-12
 
@@ -433,6 +433,4 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||cc.naver.com^
 @@||static.cloudflareinsights.com^
 
-!#include Salute.txt
-!#include Pyosik.txt
-!#include Canyon.txt
+!#include 1.txt
