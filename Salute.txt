@@ -3,6 +3,7 @@
 ! Version: 2025-06-12
 
 youtube.com#@##player-ads
+www.youtube.com#%#//scriptlet('trusted-replace-outbound-text', 'JSON.stringify', 'contentPlaybackContext":{', 'contentPlaybackContext":{"isInlinePlaybackNoAd":true,')
 m.fmkorea.com##body > p
 harpi.in##div:has(> script[src*="jads.js"])
 zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
