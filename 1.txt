@@ -54,21 +54,8 @@
 [$domain=/^manga\d+.net/]###custom_html-36
 [$domain=/^manga\d+.net/]###custom_html-48
 [$domain=/^manga\d+.net/]###custom_html-38 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget
-startpage.com$$div[id="home-top-banner"]
-startpage.com##div[class^="blog-menu"]
-startpage.com##div[id="home-hide-promo-container"]
-startpage.com##div[class^="home-hero-down-arrow"]
-startpage.com##div[id="home-below-the-fold-container"]
-arca.live$$div[class="link-list"]
-arca.live$$select[name="sort"]
-arca.live$$select[name="cut"]
-arca.live$$a[class="title preview-image"]
-arca.live$$video[height="100"]
-arca.live$$form[class="form-inline mt-2 justify-content-center"]
 pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||challenges.cloudflare.com^
-@@||app.appsflyer.com^$domain=ofw.adison.co
-@@||avdbs.com^$generichide
 
 ||dms.ospserver.net^$all
 ||moeni.live/data/apms/background/*.png
