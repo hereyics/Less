@@ -393,44 +393,5 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^allstv\d+\.com/]###footer_mobile
 [$domain=/^allstv\d+\.com/]###container > div.main_bn_box.swiper-container:nth-child(3) > div:nth-child(6)
 [$domain=/^allstv\d+\.com/]###container > div.main_bn_box.swiper-container:nth-child(3) > div:nth-child(7)
-@@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
-@@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
-@@||apis.naver.com^$important,app=com.navercorp.game.android.community
-@@||res-creatives.maio.jp$important
-@@||media-api.maio.jp$important
-@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com|m.clien.net
-@@||dcinside.co.kr/viewmovie.php^$stealth
-@@||dcinside.co.kr/viewimage.php^$stealth
-@@||cargo.koreanair.com^$important
-@@||tivan.naver.com^$important
-@@||www.googletagmanager.com^$important,domain=skt0.co.kr
-@@||www-googletagmanager.l.google.com^$important,domain=skt0.co.kr
-@@||mktp.tmoney.co.kr^$important,app=com.samsung.android.spay
-@@||adcr.naver.com^$important,domain=search.naver.com
-@@||mobile.launchdarkly.com^$important,app=com.samsung.android.oneconnect
-@@||ap.www.namecheap.com^$important,document
-@@||wurfl.io/wurfl.js$important,domain=todomate.net
-@@||t.co^$important
-@@||weblog.coupang.com^$important
-@@||metrics.icloud.com^$important
-@@||securemetrics.apple.com^$important
-@@||supportmetrics.apple.com^$important
-@@||iadsdk.apple.com^$important
-@@||ca.iadsdk.apple.com^$important
-@@||cf.iadsdk.apple.com^$important
-@@||tr.iadsdk.apple.com^$important
-@@||news.iadsdk.apple.com^$important
-@@||nlog.commerce.naver.com^$important
-@@||nlog.naver.com^$important
-@@||ntm.pstatic.net^$important
-@@||ad-creative.pstatic.net^
-@@||searchad-phinf.pstatic.net^
-@@||creative.live.missav.com^
-@@||track.cashfriends.io^
-@@||img-ad-img-vp.daumcdn.net^
-@@||naverwebtoon-phinf.pstatic.net^
-@@||lcs.naver.com^
-@@||cc.naver.com^
-@@||static.cloudflareinsights.com^
 
 !#include 1.txt
