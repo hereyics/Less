@@ -1,6 +1,6 @@
-! Title: GreenList for AdGuard
+! Title: BeaN for AdGuard
 ! Expires: 1 days
-! Version: 2025.06.04
+! Version: 2025.06.12
 
 @@||ad-creative.pstatic.net^
 @@||vsak1.play.kakao.com^
@@ -16,7 +16,6 @@
 ||blocked.or.kr^
 ||alldoc.work.gd^
 ||cleanweb1.uplus.co.kr^
-||sololv.onelink.me^
 ||www.gracwarning.or.kr^
 ||gracwarning.or.kr^
 ||tj.oktoon.top^
