@@ -1,6 +1,6 @@
 ! Title: BeaN for AdGuard
 ! Expires: 1 days
-! Version: 2025.06.12
+! Version: 2025.06.13
 
 @@||ad-creative.pstatic.net^
 @@||vsak1.play.kakao.com^
@@ -14,7 +14,6 @@
 
 ||warning.or.kr^
 ||blocked.or.kr^
-||alldoc.work.gd^
 ||cleanweb1.uplus.co.kr^
 ||www.gracwarning.or.kr^
 ||gracwarning.or.kr^
