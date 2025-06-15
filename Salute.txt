@@ -1,6 +1,5 @@
 ! Title: Salute for AdGuard
 ! Expires: 1 days
-! Version: 2025-06-12
 
 youtube.com#@##player-ads
 www.youtube.com#%#//scriptlet('trusted-replace-outbound-text', 'JSON.stringify', 'contentPlaybackContext":{', 'contentPlaybackContext":{"isInlinePlaybackNoAd":true,')
