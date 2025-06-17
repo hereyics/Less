@@ -40,15 +40,10 @@
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
-##DIV.adblock-on
-#@#.adsbygoogle
-@@||challenges.cloudflare.com^
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
-@@||apis.naver.com^$important,app=com.navercorp.game.android.community
 @@||res-creatives.maio.jp$important
 @@||media-api.maio.jp$important
-@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com|m.clien.net
 @@||dcinside.co.kr/viewmovie.php^$stealth
 @@||dcinside.co.kr/viewimage.php^$stealth
 @@||cargo.koreanair.com^$important
@@ -73,15 +68,14 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||nlog.commerce.naver.com^$important
 @@||nlog.naver.com^$important
 @@||ntm.pstatic.net^$important
-@@||ad-creative.pstatic.net^
-@@||searchad-phinf.pstatic.net^
-@@||creative.live.missav.com^
-@@||track.cashfriends.io^
-@@||img-ad-img-vp.daumcdn.net^
-@@||naverwebtoon-phinf.pstatic.net^
-@@||lcs.naver.com^
-@@||cc.naver.com^
-@@||static.cloudflareinsights.com^
+@@||ad-creative.pstatic.net^$important
+@@||searchad-phinf.pstatic.net^$important
+@@||creative.live.missav.com^$important
+@@||track.cashfriends.io^$important
+@@||img-ad-img-vp.daumcdn.net^$important
+@@||naverwebtoon-phinf.pstatic.net^$important
+@@||challenges.cloudflare.com^$important
+@@||static.cloudflareinsights.com^$important
 
 ||dms.ospserver.net^$all
 ||moeni.live/data/apms/background/*.png
