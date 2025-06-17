@@ -77,6 +77,9 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||challenges.cloudflare.com^$important
 @@||static.cloudflareinsights.com^$important
 
+@@||novelpia.com^$stealth=dpi
+@@||www.google.com^$stealth=dpi
+
 ||dms.ospserver.net^$all
 ||moeni.live/data/apms/background/*.png
 ||www.youtube.com^$replace=/<script id="bc-def" nonce=".*?">/<script>\/\//,document 
