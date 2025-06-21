@@ -57,6 +57,8 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||wurfl.io/wurfl.js$important,domain=todomate.net
 @@||discord.com^$important
 @@||t.co^$important
+@@||ad-img.gmarket.com^$important
+@@||ad-img.ebaykorea.com^$important
 @@||weblog.coupang.com^$important
 @@||metrics.icloud.com^$important
 @@||securemetrics.apple.com^$important
