@@ -55,6 +55,7 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||mobile.launchdarkly.com^$important,app=com.samsung.android.oneconnect
 @@||ap.www.namecheap.com^$important,document
 @@||wurfl.io/wurfl.js$important,domain=todomate.net
+@@||discord.com^$important
 @@||t.co^$important
 @@||weblog.coupang.com^$important
 @@||metrics.icloud.com^$important
