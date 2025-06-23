@@ -79,6 +79,7 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||naverwebtoon-phinf.pstatic.net^$important
 @@||challenges.cloudflare.com^$important
 @@||static.cloudflareinsights.com^$important
+@@||onelink.me^$important
 
 @@||novelpia.com^$stealth=dpi
 @@||www.google.com^$stealth=dpi
