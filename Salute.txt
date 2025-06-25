@@ -1,8 +1,9 @@
 ! Title: Salute for AdGuard
 ! Expires: 1 days
-! Version: 2025.06.19
+! Version: 2025.06.26
 
 youtube.com#@##player-ads
+m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
 m.fmkorea.com##body > p
 harpi.in##div:has(> script[src*="jads.js"])
 zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
