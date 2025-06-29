@@ -84,7 +84,6 @@ pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 @@||novelpia.com^$stealth=dpi
 @@||www.google.com^$stealth=dpi
 
-||dms.ospserver.net^$all
 ||moeni.live/data/apms/background/*.png
 ||www.youtube.com^$replace=/<script id="bc-def" nonce=".*?">/<script>\/\//,document 
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(1)
