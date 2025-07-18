@@ -1,23 +1,8 @@
-! Title: BeaN for AdGuard
+! Title: Trexx DNS 필터
 ! Expires: 1 days
-! Version: 2025.06.13
+! Version: 2025.07.18
 
-@@||ad-creative.pstatic.net^
-@@||vsak1.play.kakao.com^
-@@||live-orisa-edge.play.kakao.com^
-@@||searchad-phinf.pstatic.net^
-@@||creative.live.missav.com^
-@@||track.cashfriends.io^
-@@||img-ad-img-vp.daumcdn.net^
-@@||naverwebtoon-phinf.pstatic.net^
-@@||static.cloudflareinsights.com^
-
-||warning.or.kr^
-||blocked.or.kr^
-||cleanweb1.uplus.co.kr^
-||www.gracwarning.or.kr^
-||gracwarning.or.kr^
-||tj.oktoon.top^
+||dms.ospserver.net^
 
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
