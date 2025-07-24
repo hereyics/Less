@@ -1,6 +1,6 @@
 ! Title: Salute for AdGuard
 ! Expires: 1 days
-! Version: 2025.06.26
+! Version: .26
 
 youtube.com#@##player-ads
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
@@ -149,6 +149,8 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||t*.hoduhodu.com^]##[href="https://lula.asia/"] > .my-3.relative
 [$url=||t*.hoduhodu.com^]##.mt-4.flex-wrap.flex
 [$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
+[$url=||t*.hoduhodu.com^]##[href^="https://opgo23.com/"]
+[$url=||t*.hoduhodu.com^]##[href^="https://opgo*.com/"]
 [$url=||t*.hoduhodu.com^]##.right-5.bottom-20.fixed
 [$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||t*.hoduhodu.com^]##.relative.mx-auto.max-w-\[800px\]
