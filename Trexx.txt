@@ -1,8 +1,58 @@
 ! Title: Trexx DNS 필터
 ! Expires: 1 days
-! Version: 2025.07.18
+! Version: 2025.08.08
 
+@@||css-load.com^
+@@||digitalocean.com^
+@@||cloud.digitalocean.com^
+@@||stake.com^
+@@||1x-bet-kr.com^
+@@||stat.tiara.kakao.com^
+@@||mkt.wemakeprice.link^
+@@||phonearena.com^
+@@||cafe.daum.net^
+@@||aliexpress.com^
+@@||ad-creative.pstatic.net^
+@@||searchad-phinf.pstatic.net^
+@@||local.adguard.org^
+@@||nextdns.io^
+@@||linkprice.com^
+@@||place.map.kakao.com^
+@@||launches.appsflyer.com^
+@@||adcr.naver.com^
+@@||tkqlhce.com^
+@@||adplatform-cdn.baemin.com^
+@@||weblog.woowa.in^
+@@||inapps.appsflyer.com^
+@@||s.ppomppu.co.kr^
+@@||pstatic.net^
+@@||ad-img.gmarket.com^
+@@||ad-img.ebaykorea.com^
+@@||gmarket.co.kr^
+@@||adimg.cgv.co.kr^
+@@||ad.cgv.co.kr^
+@@||kamp.daum.net^
+@@||connect.facebook.net^
+@@||s.youtube.com^
+@@||onelink.me^
+@@||gscdn.net^
+@@||ssl.google-analytics.com^
+@@||novelpia.com^
+@@||lcs.naver.com^
+@@||cc.naver.com^
+@@||creative.live.missav.com^
+@@||id.google.com^
+@@||track.cashfriends.io^
+@@||img-ad-img-vp.daumcdn.net^
+@@||live-orisa-edge.play.kakao.com^
+@@||vsak1.play.kakao.com^
+@@||challenges.cloudflare.com^
+@@||static.cloudflareinsights.com^
+@@||img.pay.naver.net^
+
+||gos-api.gos-gsp.io^
 ||dms.ospserver.net^
+||tj.oktoon.top^
 
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
