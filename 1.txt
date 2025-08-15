@@ -9,6 +9,9 @@
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^manatoki[0-9]+\.net/]##[style="margin-bottom: 20px;"].row.row-15
+[$domain=/^manatoki[0-9]+\.net/]##.basic-banner.row.row-10
+[$domain=/^manatoki[0-9]+\.net/]##.board-tail-banner
 [$domain=/^newtoki\d+.com/]##.view-padding.view-tag
 [$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^manatoki\d+.net/]##.text-right.view-btn
@@ -110,6 +113,7 @@ moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(17)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(18)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(19)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(20)
+
 
 
 
