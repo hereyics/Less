@@ -179,6 +179,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$url=||jusokok*.com^]###nlrfbsouijpvkcmhdtqeg > .bg-black.carousel-inner > .active.item
 [$url=||m*.watchakr.com^]##.at-title
 [$url=||kr*.yohli*.net^]##.flex-center.video-share-btn
+[$url=||kr*.yohli*.net^]###pjs_cast_button_player
 [$url=||t*.torrentpi*.com^]###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.widget-box:nth-child(2)
 [$url=||t*.torrentpi*.com^]###thema_wrapper > div.at-body:nth-child(6) > div.at-container > div.row.at-row > div.col-md-9.pull-right.at-col.at-main:first-child > div.row.at-row:last-child > div.col-md-12 > div.widget-box:nth-child(3)
 [$url=||t*.torrentpi*.com^]###mobile_nav > ul.clearfix > li:nth-child(3)
@@ -207,6 +208,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^tvwiki\d+.com/]###bo_v_act
 [$domain=/^tvwiki\d+.com/]###bnb_wrap
 [$domain=/^tvwiki\d+.com/]##.notice
+[$domain=/^tvwiki\d+.com/]##.btn_login
 [$domain=/^marumaru\d+\.com/]##.row-10.row.basic-banner-2
 [$domain=/^marumaru\d+\.com/]##.row-10.row.basic-banner-4
 [$domain=/^marumaru\d+\.com/]##.btn-lg.btn-info.btn
