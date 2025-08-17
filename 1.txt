@@ -45,6 +45,8 @@
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
+www.xvideos.com##.tab-button.share
+www.totohot.net##.mb-4.totohot_sub_bn_m
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||res-creatives.maio.jp$important
@@ -113,6 +115,7 @@ moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(17)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(18)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(19)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(20)
+
 
 
 
