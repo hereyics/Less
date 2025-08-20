@@ -221,6 +221,30 @@ moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(18)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(19)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(20)
 
+www.jogemoa.com##div.popup:nth-of-type(3) > div
+
+www.jogemoa.com##div.popup:nth-of-type(4) > div
+
+www.jogemoa.com##div.popup:nth-of-type(5)
+
+1004crop.com##div.adult-video-content:nth-of-type(3) > div.row.no-gap:nth-of-type(2)
+
+1004crop.com##div.page-content.hide-navbar-on-scroll:nth-of-type(2) > div.row.no-gap:nth-of-type(1)
+
+darkg9.com###container
+
+##div.content-wrap:nth-of-type(2) > div.row.no-gap:nth-of-type(5)
+
+##div.content-wrap:nth-of-type(2) > div.row.da-above:nth-of-type(2)
+
+##div.bstyle:nth-of-type(2) > div.grid.grid-mini
+
+##div.mstyle:nth-of-type(1) > div.grid.grid-mini
+
+##div.page.tab-home > div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(1)
+
+##div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(6)
+
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
