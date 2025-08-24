@@ -2,10 +2,10 @@
 ! Expires: 1 days
 ! Version: 2025.08.25
 
+@@||1x-bet-kr.com^
 @@||css-load.com^
 @@||digitalocean.com^
 @@||cloud.digitalocean.com^
-@@||1x-bet-kr.com^
 @@||stat.tiara.kakao.com^
 @@||mkt.wemakeprice.link^
 @@||phonearena.com^
@@ -46,6 +46,9 @@
 ||gos-api.gos-gsp.io^
 ||dms.ospserver.net^
 ||tj.oktoon.top^
+||cdn.trend.rankify.best^
+||dccdn11.dcinside.co.kr^
+||cdn.inappnews.net^
 
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
@@ -67,7 +70,6 @@
 ||scpslgame.com^$dnsrewrite=104.16.181.45
 ||linuxgsm.com^$dnsrewrite=104.16.181.45
 ||sponsor.ajay.app^$dnsrewrite=104.16.181.45
-||returnyoutubedislikeapi.com^$dnsrewrite=104.16.181.45
 ||buymeacoffee.com^$dnsrewrite=104.16.181.45
 ||emule-security.org^$dnsrewrite=104.16.181.45
 ||codebeautify.org^$dnsrewrite=104.16.181.45
