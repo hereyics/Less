@@ -1,21 +1,16 @@
 ! Title: Trexx DNS 필터
 ! Expires: 1 days
-! Version: 2025.08.08
+! Version: 2025.08.25
 
 @@||css-load.com^
 @@||digitalocean.com^
 @@||cloud.digitalocean.com^
-@@||stake.com^
 @@||1x-bet-kr.com^
 @@||stat.tiara.kakao.com^
 @@||mkt.wemakeprice.link^
 @@||phonearena.com^
-@@||cafe.daum.net^
-@@||aliexpress.com^
 @@||ad-creative.pstatic.net^
 @@||searchad-phinf.pstatic.net^
-@@||local.adguard.org^
-@@||nextdns.io^
 @@||linkprice.com^
 @@||place.map.kakao.com^
 @@||launches.appsflyer.com^
@@ -38,8 +33,6 @@
 @@||gscdn.net^
 @@||ssl.google-analytics.com^
 @@||novelpia.com^
-@@||lcs.naver.com^
-@@||cc.naver.com^
 @@||creative.live.missav.com^
 @@||id.google.com^
 @@||track.cashfriends.io^
