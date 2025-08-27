@@ -2,7 +2,8 @@
 ! Expires: 1 days
 ! Version: 2025.08.17
 
-2jz5m1-my.sharepoint.com##.root-116.ms-MessageBar-multiline.ms-MessageBar--warning.ms-MessageBar
+2jz5m1-my.sharepoint.com###빠른\ 액세스
+2jz5m1-my.sharepoint.com###다음으로\ 파일\ 찾아보기
 youtube.com#@##player-ads
 m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
 m.fmkorea.com##body > p
