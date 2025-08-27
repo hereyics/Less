@@ -1,6 +1,6 @@
 ! Title: Trexx 필터
 ! Expires: 1 days
-! Version: 2025.08.17
+! Version: 2025.08.27
 
 2jz5m1-my.sharepoint.com###빠른\ 액세스
 2jz5m1-my.sharepoint.com###다음으로\ 파일\ 찾아보기
