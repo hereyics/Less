@@ -202,17 +202,19 @@ www.totohot.net##.mb-4.totohot_sub_bn_m
 
 @@||novelpia.com^$stealth=dpi
 @@||www.google.com^$stealth=dpi
-@@||kr-ss5.chat.naver.com^$stealth=dpi
-@@||kr-ss4.chat.naver.com^$stealth=dpi
-@@||kr-ss3.chat.naver.com^$stealth=dpi
-@@||kr-ss2.chat.naver.com^$stealth=dpi
 @@||kr-ss1.chat.naver.com^$stealth=dpi
+@@||kr-ss2.chat.naver.com^$stealth=dpi
+@@||kr-ss3.chat.naver.com^$stealth=dpi
+@@||kr-ss4.chat.naver.com^$stealth=dpi
+@@||kr-ss5.chat.naver.com^$stealth=dpi
+@@||kr-ss6.chat.naver.com^$stealth=dpi
+@@||kr-ss7.chat.naver.com^$stealth=dpi
+@@||kr-ss8.chat.naver.com^$stealth=dpi
+
 
 shana.pe.kr##+js(set, checkShanaBlock, noopFunc)
-chzzkban.xyz##+js(set, checkShanaBlock, noopFunc)
 
 ||moeni.live/data/apms/background/*.png
-||www.youtube.com^$replace=/<script id="bc-def" nonce=".*?">/<script>\/\//,document 
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(1)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(2)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(3)
