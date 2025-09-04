@@ -1,9 +1,10 @@
 ! Title: Trexx DNS 필터
 ! Expires: 1 days
-! Version: 2025.08.25
+! Version: 2025.09.04
 
 @@||1x-bet-kr.com^
 @@||css-load.com^
+@@||html-load.com^
 @@||digitalocean.com^
 @@||cloud.digitalocean.com^
 @@||stat.tiara.kakao.com^
