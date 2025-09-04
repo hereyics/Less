@@ -154,24 +154,12 @@ m.naver.com##.comp_card:not(.comp_weather)
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 www.xvideos.com##.tab-button.share
 www.totohot.net##.mb-4.totohot_sub_bn_m
-@@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
-@@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||res-creatives.maio.jp$important
 @@||media-api.maio.jp$important
-@@||dcinside.co.kr/viewmovie.php^$stealth
-@@||dcinside.co.kr/viewimage.php^$stealth
 @@||cargo.koreanair.com^$important
 @@||tivan.naver.com^$important
-@@||www.googletagmanager.com^$important,domain=skt0.co.kr
-@@||www-googletagmanager.l.google.com^$important,domain=skt0.co.kr
-@@||mktp.tmoney.co.kr^$important,app=com.samsung.android.spay
-@@||adcr.naver.com^$important,domain=search.naver.com
-@@||mobile.launchdarkly.com^$important,app=com.samsung.android.oneconnect
-@@||ap.www.namecheap.com^$important,document
-@@||wurfl.io/wurfl.js$important,domain=todomate.net
 @@||discord.com^$important
 @@||t.co^$important
 @@||ad-img.gmarket.com^$important
@@ -199,6 +187,15 @@ www.totohot.net##.mb-4.totohot_sub_bn_m
 @@||onelink.me^$important
 @@||css-load.com^$important
 @@||html-load.com^$important
+@@||coupang.com^$document
+@@||coupangcdn.com^$document
+@@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
+@@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
+@@||www.googletagmanager.com^$important,domain=skt0.co.kr
+@@||www-googletagmanager.l.google.com^$important,domain=skt0.co.kr
+@@||mktp.tmoney.co.kr^$important,app=com.samsung.android.spay
+@@||adcr.naver.com^$important,domain=search.naver.com
+@@||mobile.launchdarkly.com^$important,app=com.samsung.android.oneconnect
 
 @@||novelpia.com^$stealth=dpi
 @@||www.google.com^$stealth=dpi
@@ -334,6 +331,7 @@ moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(17)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(18)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(19)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(20)
+pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 www.jogemoa.com##div.popup:nth-of-type(3) > div
 www.jogemoa.com##div.popup:nth-of-type(4) > div
 www.jogemoa.com##div.popup:nth-of-type(5)
