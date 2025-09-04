@@ -210,11 +210,110 @@ www.totohot.net##.mb-4.totohot_sub_bn_m
 @@||kr-ss6.chat.naver.com^$stealth=dpi
 @@||kr-ss7.chat.naver.com^$stealth=dpi
 @@||kr-ss8.chat.naver.com^$stealth=dpi
-
+@@||kr-ss9.chat.naver.com^$stealth=dpi
+@@||kr-ss10.chat.naver.com^$stealth=dpi
+@@||ssio01.nchat.naver.com^$stealth=dpi
+@@||ssio02.nchat.naver.com^$stealth=dpi
+@@||ssio03.nchat.naver.com^$stealth=dpi
+@@||ssio04.nchat.naver.com^$stealth=dpi
+@@||ssio05.nchat.naver.com^$stealth=dpi
+@@||ssio06.nchat.naver.com^$stealth=dpi
+@@||ssio07.nchat.naver.com^$stealth=dpi
+@@||ssio08.nchat.naver.com^$stealth=dpi
+@@||ssio09.nchat.naver.com^$stealth=dpi
+@@||ssio10.nchat.naver.com^$stealth=dpi
+@@||ssio11.nchat.naver.com^$stealth=dpi
+@@||ssio12.nchat.naver.com^$stealth=dpi
+@@||ssio13.nchat.naver.com^$stealth=dpi
+@@||ssio14.nchat.naver.com^$stealth=dpi
+@@||ssio15.nchat.naver.com^$stealth=dpi
+@@||ssio16.nchat.naver.com^$stealth=dpi
+@@||ssio17.nchat.naver.com^$stealth=dpi
+@@||ssio18.nchat.naver.com^$stealth=dpi
+@@||ssio19.nchat.naver.com^$stealth=dpi
+@@||ssio20.nchat.naver.com^$stealth=dpi
+@@||ssio21.nchat.naver.com^$stealth=dpi
+@@||ssio22.nchat.naver.com^$stealth=dpi
+@@||ssio23.nchat.naver.com^$stealth=dpi
+@@||ssio24.nchat.naver.com^$stealth=dpi
+@@||ssio25.nchat.naver.com^$stealth=dpi
+@@||ssio26.nchat.naver.com^$stealth=dpi
+@@||ssio27.nchat.naver.com^$stealth=dpi
+@@||ssio28.nchat.naver.com^$stealth=dpi
+@@||ssio29.nchat.naver.com^$stealth=dpi
+@@||ssio30.nchat.naver.com^$stealth=dpi
+@@||ssio31.nchat.naver.com^$stealth=dpi
+@@||ssio32.nchat.naver.com^$stealth=dpi
+@@||ssio33.nchat.naver.com^$stealth=dpi
+@@||ssio34.nchat.naver.com^$stealth=dpi
+@@||ssio35.nchat.naver.com^$stealth=dpi
+@@||ssio36.nchat.naver.com^$stealth=dpi
+@@||ssio37.nchat.naver.com^$stealth=dpi
+@@||ssio38.nchat.naver.com^$stealth=dpi
+@@||ssio39.nchat.naver.com^$stealth=dpi
+@@||ssio40.nchat.naver.com^$stealth=dpi
+@@||ssio41.nchat.naver.com^$stealth=dpi
+@@||ssio42.nchat.naver.com^$stealth=dpi
+@@||ssio43.nchat.naver.com^$stealth=dpi
+@@||ssio44.nchat.naver.com^$stealth=dpi
+@@||ssio45.nchat.naver.com^$stealth=dpi
+@@||ssio46.nchat.naver.com^$stealth=dpi
+@@||ssio47.nchat.naver.com^$stealth=dpi
+@@||ssio48.nchat.naver.com^$stealth=dpi
+@@||ssio49.nchat.naver.com^$stealth=dpi
+@@||ssio50.nchat.naver.com^$stealth=dpi
+@@||ssio51.nchat.naver.com^$stealth=dpi
+@@||ssio52.nchat.naver.com^$stealth=dpi
+@@||ssio53.nchat.naver.com^$stealth=dpi
+@@||ssio54.nchat.naver.com^$stealth=dpi
+@@||ssio55.nchat.naver.com^$stealth=dpi
+@@||ssio56.nchat.naver.com^$stealth=dpi
+@@||ssio57.nchat.naver.com^$stealth=dpi
+@@||ssio58.nchat.naver.com^$stealth=dpi
+@@||ssio59.nchat.naver.com^$stealth=dpi
+@@||ssio60.nchat.naver.com^$stealth=dpi
+@@||ssio61.nchat.naver.com^$stealth=dpi
+@@||ssio62.nchat.naver.com^$stealth=dpi
+@@||ssio63.nchat.naver.com^$stealth=dpi
+@@||ssio64.nchat.naver.com^$stealth=dpi
+@@||ssio65.nchat.naver.com^$stealth=dpi
+@@||ssio66.nchat.naver.com^$stealth=dpi
+@@||ssio67.nchat.naver.com^$stealth=dpi
+@@||ssio68.nchat.naver.com^$stealth=dpi
+@@||ssio69.nchat.naver.com^$stealth=dpi
+@@||ssio70.nchat.naver.com^$stealth=dpi
+@@||ssio71.nchat.naver.com^$stealth=dpi
+@@||ssio72.nchat.naver.com^$stealth=dpi
+@@||ssio73.nchat.naver.com^$stealth=dpi
+@@||ssio74.nchat.naver.com^$stealth=dpi
+@@||ssio75.nchat.naver.com^$stealth=dpi
+@@||ssio76.nchat.naver.com^$stealth=dpi
+@@||ssio77.nchat.naver.com^$stealth=dpi
+@@||ssio78.nchat.naver.com^$stealth=dpi
+@@||ssio79.nchat.naver.com^$stealth=dpi
+@@||ssio80.nchat.naver.com^$stealth=dpi
+@@||ssio81.nchat.naver.com^$stealth=dpi
+@@||ssio82.nchat.naver.com^$stealth=dpi
+@@||ssio83.nchat.naver.com^$stealth=dpi
+@@||ssio84.nchat.naver.com^$stealth=dpi
+@@||ssio85.nchat.naver.com^$stealth=dpi
+@@||ssio86.nchat.naver.com^$stealth=dpi
+@@||ssio87.nchat.naver.com^$stealth=dpi
+@@||ssio88.nchat.naver.com^$stealth=dpi
+@@||ssio89.nchat.naver.com^$stealth=dpi
+@@||ssio90.nchat.naver.com^$stealth=dpi
+@@||ssio91.nchat.naver.com^$stealth=dpi
+@@||ssio92.nchat.naver.com^$stealth=dpi
+@@||ssio93.nchat.naver.com^$stealth=dpi
+@@||ssio94.nchat.naver.com^$stealth=dpi
+@@||ssio95.nchat.naver.com^$stealth=dpi
+@@||ssio96.nchat.naver.com^$stealth=dpi
+@@||ssio97.nchat.naver.com^$stealth=dpi
+@@||ssio98.nchat.naver.com^$stealth=dpi
+@@||ssio99.nchat.naver.com^$stealth=dpi
 
 shana.pe.kr##+js(set, checkShanaBlock, noopFunc)
 
-||moeni.live/data/apms/background/*.png
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(1)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(2)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(3)
@@ -235,29 +334,17 @@ moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(17)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(18)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(19)
 moeni.live##div.exo2.col-sm-3.col-xs-6:nth-of-type(20)
-
 www.jogemoa.com##div.popup:nth-of-type(3) > div
-
 www.jogemoa.com##div.popup:nth-of-type(4) > div
-
 www.jogemoa.com##div.popup:nth-of-type(5)
-
 1004crop.com##div.adult-video-content:nth-of-type(3) > div.row.no-gap:nth-of-type(2)
-
 1004crop.com##div.page-content.hide-navbar-on-scroll:nth-of-type(2) > div.row.no-gap:nth-of-type(1)
-
 darkg9.com###container
-
 ##div.content-wrap:nth-of-type(2) > div.row.no-gap:nth-of-type(5)
-
 ##div.content-wrap:nth-of-type(2) > div.row.da-above:nth-of-type(2)
-
 ##div.bstyle:nth-of-type(2) > div.grid.grid-mini
-
 ##div.mstyle:nth-of-type(1) > div.grid.grid-mini
-
 ##div.page.tab-home > div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(1)
-
 ##div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(6)
 
 [$url=||t1.xtoon*.com^]##.f-tips
