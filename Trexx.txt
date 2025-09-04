@@ -79,6 +79,8 @@ ohli24.net##.site-info
 ohli24.net##.main-bg.pd-bt40
 ohli24.net##div.coment-box.layui-tab-brief.layui-tab:nth-of-type(5)
 op.gg###notification-header > li
+www.xvideos.com##.tab-button.share
+www.totohot.net##.mb-4.totohot_sub_bn_m
 anilife.live###post-30 > div.bixbox:nth-child(3) > div.mctnx:last-child > div.dlbox:nth-child(2) > ul > li:nth-child(2)
 anilife.live###post-30 > div.bixbox.animefull:first-child > div.bigcontent > div.infox:last-child > div.ninfo:last-child > div.info-content:last-child > div.genxed:nth-child(2)
 anilife.live###post-30 > div.bixbox.animefull:first-child > div.bigcontent > div.infox:last-child > div.ninfo:last-child > div.info-content:last-child > div.taged.min:last-child
@@ -93,69 +95,6 @@ anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
-||app.dcinside.com/api/_naverad^$empty
-||marumaru*.com/data/apms/background/*g$image
-||b.hottoon.top/*$image
-||yatoon*.com/plugin/sns/icon/*.png$image
-||zoot.plus/ad_leidian.jpg
-||novelpia.com/js/jdetects.min.js
-||arca.live/static/assets/js/adult.min.js
-||cdn.trend.rankify.best/dctrend/
-||cdn.inappnews.net^
-||*.ondoani.com/data/apms/background/%E*g$image
-||*.ondotoon.com/data/apms/background/%E*g$image
-||*.ondomana.com/data/apms/background/%E*g$image
-||*.ondobook.net/data/apms/background/%E*g$image
-||*.ondotv.com/data/apms/background/%E*g$image
-||joatoon*.com/storage/ad/*.webp$image
-[$domain=/^newtoki\d+.com/]##.text-right.view-btn
-[$domain=/^newtoki\d+.com/]###id_mbv
-[$domain=/^newtoki\d+.com/]##.col-sm-9.col-md-9.col-15
-[$domain=/^newtoki\d+.com/]###bo_vcb
-[$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
-[$domain=/^newtoki\d+.com/]##.at-tip.ion-ios-bookmarks
-[$domain=/^newtoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
-[$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
-[$domain=/^newtoki\d+.com/]##.text-center.well
-[$domain=/^newtoki\d+.com/]##.go-btn
-[$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
-[$domain=/^manatoki[0-9]+\.net/]##[style="margin-bottom: 20px;"].row.row-15
-[$domain=/^manatoki[0-9]+\.net/]##.basic-banner.row.row-10
-[$domain=/^manatoki[0-9]+\.net/]##.board-tail-banner
-[$domain=/^newtoki\d+.com/]##.view-padding.view-tag
-[$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-[$domain=/^manatoki\d+.net/]##.text-right.view-btn
-[$domain=/^manatoki\d+.net/]##.go-btn
-[$domain=/^manatoki\d+.net/]###bo_vcb
-[$domain=/^manatoki\d+.net/]##.post-list.media
-[$domain=/^manatoki\d+.net/]##.div-title-underbar
-[$domain=/^manatoki\d+.net/]##.border-deepblue.div-title-underbar-bold > b
-[$domain=/^manatoki\d+.net/]##.navbar-wrapper > .toon-nav > .show_viewer > .at-tip.ion-ios-book
-[$domain=/^manatoki\d+.net/]##.bottom-wrapper > .toon-nav > .show_viewer > .at-tip.ion-ios-book
-[$domain=/^manatoki\d+.net/]##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1)
-[$domain=/^manatoki\d+.net/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-[$domain=/^manatoki\d+.net/]##.view-good-box.print-hide
-[$domain=/^manatoki\d+.net/]##.text-center.well
-[$domain=/^manatoki\d+.net/]##.view-padding.view-tag
-[$domain=/^manatoki\d+.net/]##.navbar-wrapper > .toon-nav
-[$domain=/^manatoki\d+.net/]###main-banner-view > .col-md-12.col-15
-[$domain=/^manatoki\d+.net/]##.at-tip.ion-ios-bookmarks
-[$domain=/^manatoki\d+.net/]##.btn-sm.btn-white.btn.bookmark
-[$domain=/^booktoki\d+.com/]###content_wrapper > div:nth-child(6)
-[$domain=/^booktoki\d+.com/]##.go-btn
-[$domain=/^booktoki\d+.com/]###bo_vcb
-[$domain=/^booktoki\d+.com/]##div.content-wrapper.left:nth-of-type(1) > div:nth-of-type(2)
-[$domain=/^booktoki\d+.com/]##.text-center.well
-[$domain=/^booktoki\d+.com/]##.comment-box
-[$domain=/^booktoki\d+.com/]##.navbar-wrapper > .toon-nav
-[$domain=/^booktoki\d+.com/]##.at-tip.ion-ios-bookmarks
-[$domain=/^booktoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
-[$domain=/^booktoki\d+.com/]##.view-padding.view-tag
-[$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
-[$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
-[$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-www.xvideos.com##.tab-button.share
-www.totohot.net##.mb-4.totohot_sub_bn_m
 @@||res-creatives.maio.jp$important
 @@||media-api.maio.jp$important
 @@||cargo.koreanair.com^$important
@@ -345,6 +284,68 @@ darkg9.com###container
 ##div.page.tab-home > div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(1)
 ##div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(6)
 
+||app.dcinside.com/api/_naverad^$empty
+||marumaru*.com/data/apms/background/*g$image
+||b.hottoon.top/*$image
+||yatoon*.com/plugin/sns/icon/*.png$image
+||zoot.plus/ad_leidian.jpg
+||novelpia.com/js/jdetects.min.js
+||arca.live/static/assets/js/adult.min.js
+||cdn.trend.rankify.best/dctrend/
+||cdn.inappnews.net^
+||*.ondoani.com/data/apms/background/%E*g$image
+||*.ondotoon.com/data/apms/background/%E*g$image
+||*.ondomana.com/data/apms/background/%E*g$image
+||*.ondobook.net/data/apms/background/%E*g$image
+||*.ondotv.com/data/apms/background/%E*g$image
+||joatoon*.com/storage/ad/*.webp$image
+
+[$domain=/^newtoki\d+.com/]##.text-right.view-btn
+[$domain=/^newtoki\d+.com/]###id_mbv
+[$domain=/^newtoki\d+.com/]##.col-sm-9.col-md-9.col-15
+[$domain=/^newtoki\d+.com/]###bo_vcb
+[$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
+[$domain=/^newtoki\d+.com/]##.at-tip.ion-ios-bookmarks
+[$domain=/^newtoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
+[$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
+[$domain=/^newtoki\d+.com/]##.text-center.well
+[$domain=/^newtoki\d+.com/]##.go-btn
+[$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^manatoki[0-9]+\.net/]##[style="margin-bottom: 20px;"].row.row-15
+[$domain=/^manatoki[0-9]+\.net/]##.basic-banner.row.row-10
+[$domain=/^manatoki[0-9]+\.net/]##.board-tail-banner
+[$domain=/^newtoki\d+.com/]##.view-padding.view-tag
+[$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^manatoki\d+.net/]##.text-right.view-btn
+[$domain=/^manatoki\d+.net/]##.go-btn
+[$domain=/^manatoki\d+.net/]###bo_vcb
+[$domain=/^manatoki\d+.net/]##.post-list.media
+[$domain=/^manatoki\d+.net/]##.div-title-underbar
+[$domain=/^manatoki\d+.net/]##.border-deepblue.div-title-underbar-bold > b
+[$domain=/^manatoki\d+.net/]##.navbar-wrapper > .toon-nav > .show_viewer > .at-tip.ion-ios-book
+[$domain=/^manatoki\d+.net/]##.bottom-wrapper > .toon-nav > .show_viewer > .at-tip.ion-ios-book
+[$domain=/^manatoki\d+.net/]##div.col-lg-12.col-md-6.col-sm-6.col-15.col:nth-of-type(1)
+[$domain=/^manatoki\d+.net/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^manatoki\d+.net/]##.view-good-box.print-hide
+[$domain=/^manatoki\d+.net/]##.text-center.well
+[$domain=/^manatoki\d+.net/]##.view-padding.view-tag
+[$domain=/^manatoki\d+.net/]##.navbar-wrapper > .toon-nav
+[$domain=/^manatoki\d+.net/]###main-banner-view > .col-md-12.col-15
+[$domain=/^manatoki\d+.net/]##.at-tip.ion-ios-bookmarks
+[$domain=/^manatoki\d+.net/]##.btn-sm.btn-white.btn.bookmark
+[$domain=/^booktoki\d+.com/]###content_wrapper > div:nth-child(6)
+[$domain=/^booktoki\d+.com/]##.go-btn
+[$domain=/^booktoki\d+.com/]###bo_vcb
+[$domain=/^booktoki\d+.com/]##div.content-wrapper.left:nth-of-type(1) > div:nth-of-type(2)
+[$domain=/^booktoki\d+.com/]##.text-center.well
+[$domain=/^booktoki\d+.com/]##.comment-box
+[$domain=/^booktoki\d+.com/]##.navbar-wrapper > .toon-nav
+[$domain=/^booktoki\d+.com/]##.at-tip.ion-ios-bookmarks
+[$domain=/^booktoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
+[$domain=/^booktoki\d+.com/]##.view-padding.view-tag
+[$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
+[$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$url=||t1.xtoon*.com^]##.f-tips
 [$url=||t1.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t1.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
