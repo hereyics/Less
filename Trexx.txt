@@ -154,8 +154,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 pornhub.com#%#//scriptlet('set-cookie-reload', 'accessAgeDisclaimerPH', '1')
 www.xvideos.com##.tab-button.share
 www.totohot.net##.mb-4.totohot_sub_bn_m
-@@||css-load.com^$important
-@@||html-load.com^$important
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||res-creatives.maio.jp$important
@@ -196,11 +194,19 @@ www.totohot.net##.mb-4.totohot_sub_bn_m
 @@||challenges.cloudflare.com^$important
 @@||static.cloudflareinsights.com^$important
 @@||onelink.me^$important
+@@||css-load.com^$important
+@@||html-load.com^$important
 
 @@||novelpia.com^$stealth=dpi
 @@||www.google.com^$stealth=dpi
+@@||kr-ss5.chat.naver.com^$stealth=dpi
+@@||kr-ss4.chat.naver.com^$stealth=dpi
+@@||kr-ss3.chat.naver.com^$stealth=dpi
+@@||kr-ss2.chat.naver.com^$stealth=dpi
+@@||kr-ss1.chat.naver.com^$stealth=dpi
 
 shana.pe.kr##+js(set, checkShanaBlock, noopFunc)
+chzzkban.xyz##+js(set, checkShanaBlock, noopFunc)
 
 ||moeni.live/data/apms/background/*.png
 ||www.youtube.com^$replace=/<script id="bc-def" nonce=".*?">/<script>\/\//,document 
