@@ -2,14 +2,8 @@
 ! Expires: 1 days
 ! Version: 2025.09.05
 
-#%#//scriptlet('prevent-fetch', 'www.googletagservices.com')
-#%#//scriptlet('prevent-xhr','www.googletagservices.com')
-#%#//scriptlet('prevent-fetch', 'www.googletagmanager.com')
-#%#//scriptlet('prevent-xhr','www.googletagmanager.com')
+chzzkban.xyz#@#.banner-ad
 
-chzzkban.xyz##div[class="fixed inset-0 flex items-center justify-center z-[9999]"], div[class*="bg-red-300/50"]
-chzzkban.xyz##div[class*="pointer-events-none"][class*="opacity-50"]:style(pointer-events: auto !important; opacity: 1 !important;)
-chzzkban.xyz##body:style(overflow: auto !important;)
 2jz5m1-my.sharepoint.com###빠른\ 액세스
 2jz5m1-my.sharepoint.com###다음으로\ 파일\ 찾아보기
 youtube.com#@##player-ads
