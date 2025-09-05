@@ -3,6 +3,9 @@
 ! Version: 2025.09.05
 
 #%#//scriptlet('prevent-fetch', 'www.googletagservices.com')
+#%#//scriptlet('prevent-xhr','www.googletagservices.com')
+#%#//scriptlet('prevent-fetch', 'www.googletagmanager.com')
+#%#//scriptlet('prevent-xhr','www.googletagmanager.com')
 
 chzzkban.xyz##div[class="fixed inset-0 flex items-center justify-center z-[9999]"], div[class*="bg-red-300/50"]
 chzzkban.xyz##div[class*="pointer-events-none"][class*="opacity-50"]:style(pointer-events: auto !important; opacity: 1 !important;)
