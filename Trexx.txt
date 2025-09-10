@@ -1,6 +1,6 @@
 ! Title: Trexx 필터
 ! Expires: 1 days
-! Version: 2025.09.05
+! Version: 2025.09.10
 
 chatgpt.com##.leading-none.text-sm
 2jz5m1-my.sharepoint.com###빠른\ 액세스
