@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Version: 2025.09.05
 
+chatgpt.com##.leading-none.text-sm
 2jz5m1-my.sharepoint.com###빠른\ 액세스
 2jz5m1-my.sharepoint.com###다음으로\ 파일\ 찾아보기
 youtube.com#@##player-ads
