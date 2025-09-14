@@ -2,7 +2,7 @@
 ! Expires: 1 days
 ! Version: 2025.09.14
 
-toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', 'notice')
+toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 
 chatgpt.com##.leading-none.text-sm
 2jz5m1-my.sharepoint.com###빠른\ 액세스
