@@ -376,6 +376,8 @@ darkg9.com###container
 [$url=||z*.mzgtoon.com^]##[href="https://xn--ly1b93vtre3ub.com/"] > .my-3.relative
 [$url=||z*.mzgtoon.com^]##a[href="https://opgo20.com/"] > .my-3.relative
 [$url=||z*.mzgtoon.com^]##.text-white.relative.z-10.rounded-md.p-4.mb-5.w-full.bg-gray-500
+[$url=||b*.toon-bro.xyz^]##[href="https://8795xzd.com/"]
+[$url=||b*.toon-bro.xyz^]##[href="https://8795xzd.com/"] > .my-3.relative
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(3)
 [$url=||b*.toon-bro.xyz^]##div.flex-1.px-1.md\:px-8.container:nth-of-type(1)
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
