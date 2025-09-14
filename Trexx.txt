@@ -299,7 +299,6 @@ darkg9.com###container
 ||*.ondobook.net/data/apms/background/%E*g$image
 ||*.ondotv.com/data/apms/background/%E*g$image
 ||joatoon*.com/storage/ad/*.webp$image
-||t*.hoduhodu.com/_next/image$image
 
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]###id_mbv
