@@ -1,6 +1,6 @@
 ! Title: Trexx DNS 필터
 ! Expires: 1 days
-! Version: 2025.09.04
+! Version: 2025.09.20
 
 @@||1x-bet-kr.com^
 @@||css-load.com^
@@ -44,12 +44,7 @@
 @@||static.cloudflareinsights.com^
 @@||img.pay.naver.net^
 
-||gos-api.gos-gsp.io^
-||dms.ospserver.net^
 ||tj.oktoon.top^
-||cdn.trend.rankify.best^
-||dccdn11.dcinside.co.kr^
-||cdn.inappnews.net^
 
 ||playrecord.biz^$dnsrewrite=104.16.181.45
 ||sexbjcam.com^$dnsrewrite=104.16.181.45
