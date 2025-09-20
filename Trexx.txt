@@ -1,6 +1,6 @@
 ! Title: Trexx 필터
 ! Expires: 1 days
-! Version: 2025.09.19
+! Version: 2025.09.21
 
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 
@@ -137,6 +137,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||mobile.launchdarkly.com^$important,app=com.samsung.android.oneconnect
 
 @@||novelpia.com^$stealth=dpi
+@@||madalla.kr^$stealth=dpi
 @@||www.google.com^$stealth=dpi
 @@||kr-ss1.chat.naver.com^$stealth=dpi
 @@||kr-ss2.chat.naver.com^$stealth=dpi
