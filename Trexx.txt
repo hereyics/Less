@@ -2,8 +2,10 @@
 ! Expires: 1 days
 ! Version: 2025.09.21
 
+wepplication.github.io##footer
+wepplication.github.io##div.row:nth-of-type(4)
+wepplication.github.io##div.row:nth-of-type(5)
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
-
 chatgpt.com##.leading-none.text-sm
 2jz5m1-my.sharepoint.com###빠른\ 액세스
 2jz5m1-my.sharepoint.com###다음으로\ 파일\ 찾아보기
