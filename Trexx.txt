@@ -381,22 +381,6 @@ darkg9.com###container
 ##div.page.tab-home > div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(1)
 ##div.page-content:nth-of-type(2) > div.row.no-gap:nth-of-type(6)
 
-||app.dcinside.com/api/_naverad^$empty
-||marumaru*.com/data/apms/background/*g$image
-||b.hottoon.top/*$image
-||yatoon*.com/plugin/sns/icon/*.png$image
-||zoot.plus/ad_leidian.jpg
-||novelpia.com/js/jdetects.min.js
-||arca.live/static/assets/js/adult.min.js
-||cdn.trend.rankify.best/dctrend/
-||cdn.inappnews.net^
-||*.ondoani.com/data/apms/background/%E*g$image
-||*.ondotoon.com/data/apms/background/%E*g$image
-||*.ondomana.com/data/apms/background/%E*g$image
-||*.ondobook.net/data/apms/background/%E*g$image
-||*.ondotv.com/data/apms/background/%E*g$image
-||joatoon*.com/storage/ad/*.webp$image
-
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]###id_mbv
 [$domain=/^newtoki\d+.com/]##.col-sm-9.col-md-9.col-15
@@ -466,6 +450,7 @@ darkg9.com###container
 [$url=||t1.xtoon*.com^]##.fw-bold.mb-md-2.mb-2
 [$url=||t1.xtoon*.com^]###category-Ad
 [$url=||t1.xtoon*.com^]###go-top
+[$url=||t1.xtoon*.com^]##.justify-content-md-start.justify-content-center.d-flex
 [$url=||z*.mzgtoon.com^]##.mt-3.relative
 [$url=||z*.mzgtoon.com^]##.right-5.bottom-20.fixed
 [$url=||z*.mzgtoon.com^]##.mt-4.flex-wrap.flex
@@ -478,6 +463,7 @@ darkg9.com###container
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
 [$url=||b*.toon-bro.xyz^]##.bg-background.border.rounded-t-\[10px\].flex-col.h-auto.flex.mt-24.z-50.bottom-0.inset-x-0.fixed
 [$url=||b*.toon-bro.xyz^]##.md\:py-0.md\:px-8.py-6
+[$url=||b*.toon-bro.xyz^]##.bg-black\/80.z-50.inset-0.fixed
 [$url=||b*.toon-bro.xyz^]##.xl\:hidden > div
 [$url=||b*.toon-bro.xyz^]##.mr-2.px-2.py-2.h-9.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center.items-center.inline-flex
 [$url=||t*.hoduhodu.com^]##a.border-b.border-r.w-\[25\%\]:nth-of-type(4)
