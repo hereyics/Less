@@ -2,6 +2,8 @@
 ! Expires: 1 days
 ! Version: 2025.09.23
 
+||tj.oktoon.top^
+
 @@||1x-bet-kr.com^
 @@||css-load.com^
 @@||html-load.com^
@@ -43,5 +45,3 @@
 @@||challenges.cloudflare.com^
 @@||static.cloudflareinsights.com^
 @@||img.pay.naver.net^
-
-||tj.oktoon.top^
