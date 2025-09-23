@@ -1,6 +1,6 @@
 ! Title: Trexx 필터
 ! Expires: 1 days
-! Version: 2025.09.22
+! Version: 2025.09.23
 
 wepplication.github.io##footer
 wepplication.github.io##div.row:nth-of-type(4)
@@ -572,6 +572,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||novelpia.com^$stealth=dpi
 @@||madalla.kr^$stealth=dpi
 @@||www.google.com^$stealth=dpi
+@@||www.etoland.co.kr^$stealth=dpi
 
 @@||kr-ss1.chat.naver.com^$stealth=dpi
 @@||kr-ss2.chat.naver.com^$stealth=dpi
