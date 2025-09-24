@@ -558,6 +558,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||onelink.me^$important
 @@||css-load.com^$important
 @@||html-load.com^$important
+@@||lc.toss.im^$important
 @@||ex-nlive-streaming.navercdn.com^$important
 @@||coupang.com^$all
 @@||coupangcdn.com^$all
@@ -569,6 +570,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||adcr.naver.com^$important,domain=search.naver.com
 @@||mobile.launchdarkly.com^$important,app=com.samsung.android.oneconnect
 
+@@||lc.toss.im^$stealth=dpi
 @@||namu.wiki^$stealth=dpi
 @@||novelpia.com^$stealth=dpi
 @@||madalla.kr^$stealth=dpi
