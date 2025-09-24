@@ -558,8 +558,9 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||onelink.me^$important
 @@||css-load.com^$important
 @@||html-load.com^$important
-@@||coupang.com^$document
-@@||coupangcdn.com^$document
+@@||ex-nlive-streaming.navercdn.com^$important
+@@||coupang.com^$all
+@@||coupangcdn.com^$all
 @@||graph.facebook.com^$app=com.facebook.katana|com.instagram.android|com.myinsta.android
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||www.googletagmanager.com^$important,domain=skt0.co.kr
@@ -574,6 +575,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||www.etoland.co.kr^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
+@@||ex-nlive-streaming.navercdn.com^$stealth=dpi
 
 @@||kr-ss1.chat.naver.com^
 @@||kr-ss2.chat.naver.com^
