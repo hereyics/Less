@@ -571,7 +571,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||namu.wiki^$stealth=dpi
 @@||novelpia.com^$stealth=dpi
 @@||madalla.kr^$stealth=dpi
-@@||www.google.com^$stealth=dpi
 @@||www.etoland.co.kr^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
