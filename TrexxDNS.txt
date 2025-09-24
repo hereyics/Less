@@ -1,8 +1,6 @@
 ! Title: Trexx DNS 필터
 ! Expires: 1 days
-! Version: 2025.09.23
-
-||tj.oktoon.top^
+! Version: 2025.09.25
 
 @@||1x-bet-kr.com^
 @@||css-load.com^
@@ -45,3 +43,7 @@
 @@||challenges.cloudflare.com^
 @@||static.cloudflareinsights.com^
 @@||img.pay.naver.net^
+@@||kr.apis.naver.com^
+@@||livecloud.pstatic.net^
+@@||api.chzzk.naver.com^
+
