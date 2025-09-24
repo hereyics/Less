@@ -2,7 +2,6 @@
 ! Expires: 1 days
 ! Version: 2025.09.25
 
-@@||1x-bet-kr.com^
 @@||css-load.com^
 @@||html-load.com^
 @@||digitalocean.com^
@@ -42,6 +41,7 @@
 @@||challenges.cloudflare.com^
 @@||img.pay.naver.net^
 @@||livecloud.pstatic.net^
+@@||ex-nlive-streaming.navercdn.com^
 
 @@||kr-ss1.chat.naver.com^
 @@||kr-ss2.chat.naver.com^
