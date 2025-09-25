@@ -52,6 +52,10 @@
 @@||img.pay.naver.net^
 @@||livecloud.pstatic.net^
 @@||nng-phinf.pstatic.net^
+@@||nc1.livecloud.navercorp.com^
+@@||nc2.livecloud.navercorp.com^
+@@||is1.livecloud.navercorp.com^
+@@||is2.livecloud.navercorp.com^
 @@||ex-nlive-streaming.navercdn.com^
 
 @@||kr-ss1.chat.naver.com^
