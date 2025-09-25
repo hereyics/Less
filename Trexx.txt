@@ -513,18 +513,6 @@ ohli24.net##div.coment-box.layui-tab-brief.layui-tab:nth-of-type(5)
 op.gg###notification-header > li
 www.xvideos.com##.tab-button.share
 www.totohot.net##.mb-4.totohot_sub_bn_m
-anilife.live###post-30 > div.bixbox:nth-child(3) > div.mctnx:last-child > div.dlbox:nth-child(2) > ul > li:nth-child(2)
-anilife.live###post-30 > div.bixbox.animefull:first-child > div.bigcontent > div.infox:last-child > div.ninfo:last-child > div.info-content:last-child > div.genxed:nth-child(2)
-anilife.live###post-30 > div.bixbox.animefull:first-child > div.bigcontent > div.infox:last-child > div.ninfo:last-child > div.info-content:last-child > div.taged.min:last-child
-anilife.live###post-30 > div.bixbox:last-child
-anilife.live###post-131 > div.single-info.bixbox:last-child > div.infox:last-child > div.info-content:last-child > div.desc.mindes:last-child
-anilife.live###post-30 > div.bixbox.synp:nth-child(2)
-anilife.live##.surprise
-anilife.live##.link
-anilife.live##.year
-anilife.live##[href="/notice"]
-anilife.live##li#menu-item-15.menu-item-13.menu-item-object-page.menu-item-type-post_type.menu-item:nth-of-type(7)
-anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
 @@||res-creatives.maio.jp$important
