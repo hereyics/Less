@@ -550,6 +550,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||graph.facebook.com^$important
 @@||nng-phinf.pstatic.net^$important
 @@||ex-nlive-streaming.navercdn.com^$important
+@@||nc1.livecloud.navercorp.com^$important
+@@||nc2.livecloud.navercorp.com^$important
+@@||is1.livecloud.navercorp.com^$important
+@@||is2.livecloud.navercorp.com^$important
 @@||coupang.com^$all
 @@||coupangcdn.com^$all
 @@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
@@ -567,6 +571,10 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||api.chzzk.naver.com^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
 @@||nng-phinf.pstatic.net^$stealth=dpi
+@@||nc1.livecloud.navercorp.com^$stealth=dpi
+@@||nc2.livecloud.navercorp.com^$stealth=dpi
+@@||is1.livecloud.navercorp.com^$stealth=dpi
+@@||is2.livecloud.navercorp.com^$stealth=dpi
 @@||ex-nlive-streaming.navercdn.com^$stealth=dpi
 
 @@||kr-ss1.chat.naver.com^
