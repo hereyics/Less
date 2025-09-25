@@ -41,7 +41,6 @@
 @@||s.youtube.com^
 @@||onelink.me^
 @@||gscdn.net^
-@@||ssl.google-analytics.com^
 @@||creative.live.missav.com^
 @@||id.google.com^
 @@||track.cashfriends.io^
@@ -52,6 +51,7 @@
 @@||img.pay.naver.net^
 @@||livecloud.pstatic.net^
 @@||nng-phinf.pstatic.net^
+@@||livecloud-thumb.akamaized.net^
 @@||nc1.livecloud.navercorp.com^
 @@||nc2.livecloud.navercorp.com^
 @@||is1.livecloud.navercorp.com^
