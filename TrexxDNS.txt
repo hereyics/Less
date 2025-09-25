@@ -51,6 +51,7 @@
 @@||challenges.cloudflare.com^
 @@||img.pay.naver.net^
 @@||livecloud.pstatic.net^
+@@||nng-phinf.pstatic.net^
 @@||ex-nlive-streaming.navercdn.com^
 
 @@||kr-ss1.chat.naver.com^
