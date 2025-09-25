@@ -549,14 +549,14 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||lc.toss.im^$important
 @@||graph.facebook.com^$important
 @@||nng-phinf.pstatic.net^$important
-@@||ex-nlive-streaming.navercdn.com^$important
+@@||livecloud-thumb.akamaized.net^$important
 @@||nc1.livecloud.navercorp.com^$important
 @@||nc2.livecloud.navercorp.com^$important
 @@||is1.livecloud.navercorp.com^$important
 @@||is2.livecloud.navercorp.com^$important
+@@||ex-nlive-streaming.navercdn.com^$important
 @@||coupang.com^$all
 @@||coupangcdn.com^$all
-@@||graph.facebook.com^$domain=fmkorea.com|facebook.com|instagram.com
 @@||www.googletagmanager.com^$important,domain=skt0.co.kr
 @@||www-googletagmanager.l.google.com^$important,domain=skt0.co.kr
 @@||mktp.tmoney.co.kr^$important,app=com.samsung.android.spay
@@ -569,6 +569,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||madalla.kr^$stealth=dpi
 @@||www.etoland.co.kr^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
+@@||livecloud-thumb.akamaized.net^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
 @@||nng-phinf.pstatic.net^$stealth=dpi
 @@||nc1.livecloud.navercorp.com^$stealth=dpi
