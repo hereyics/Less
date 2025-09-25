@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Version: 2025.09.25
 
+||tj.oktoon.top^
 ||ad-creative.pstatic.net^$badfilter
 ||adcr.naver.com^$badfilter
 ||adshnk.com^$badfilter
