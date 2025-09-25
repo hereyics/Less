@@ -519,7 +519,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||media-api.maio.jp$important
 @@||cargo.koreanair.com^$important
 @@||tivan.naver.com^$important
-@@||discord.com^$important
 @@||t.co^$important
 @@||ad-img.gmarket.com^$important
 @@||ad-img.ebaykorea.com^$important
