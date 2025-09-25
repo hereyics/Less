@@ -11,6 +11,7 @@
 ||searchad-phinf.pstatic.net^$badfilter
 
 @@||lc.toss.im^
+@@||graph.facebook.com^
 @@||css-load.com^
 @@||html-load.com^
 @@||digitalocean.com^
