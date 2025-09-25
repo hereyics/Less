@@ -2,6 +2,13 @@
 ! Expires: 1 days
 ! Version: 2025.09.25
 
+||ad-creative.pstatic.net^$badfilter
+||adcr.naver.com^$badfilter
+||adshnk.com^$badfilter
+||adtouch.adbrix.io^$badfilter
+||dadispapi.gmarket.co.kr^$badfilter
+||searchad-phinf.pstatic.net^$badfilter
+
 @@||lc.toss.im^
 @@||css-load.com^
 @@||html-load.com^
