@@ -1,6 +1,6 @@
 ! Title: Trexx 필터
 ! Expires: 1 days
-! Version: 2025.09.27
+! Version: 2025.09.28
 
 wepplication.github.io##footer
 wepplication.github.io##div.row:nth-of-type(4)
@@ -515,6 +515,13 @@ www.xvideos.com##.tab-button.share
 www.totohot.net##.mb-4.totohot_sub_bn_m
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
+
+||talk-pilsner.kakao.com^$app=com.kakao.talk
+||ik.kakaocdn.net^$app=com.kakao.talk
+||play.kakao.com^$app=com.kakao.talk
+||shortformstats.kakao.com^$app=com.kakao.talk
+||shopper.kakao.com^$app=com.kakao.talk
+
 @@||res-creatives.maio.jp$important
 @@||media-api.maio.jp$important
 @@||cargo.koreanair.com^$important
