@@ -267,7 +267,6 @@ www.pornhub.org##.eudsaLink.blackBtn.buttonClass
 www.pornhub.org##.a8gwnfz9m6n9o97sad
 www.pornhub.org###countryRedirectMessage
 www.pornhub.org##.js-pornstar-suggestions.pornstarsWrapper.positionRelative.clearfix.targetContainer.categoryRow
-||media.trafficjunky.net^
 www.pornhub.org##.noBottom.clearfix.lbzpeaa
 de.pornhub.org##.FreeBlock
 de.pornhub.org##.phpFreeBlock
@@ -516,7 +515,6 @@ www.totohot.net##.mb-4.totohot_sub_bn_m
 page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
 m.naver.com##.comp_card:not(.comp_weather)
 
-||talk-pilsner.kakao.com^$app=com.kakao.talk
 ||ik.kakaocdn.net^$app=com.kakao.talk
 ||play.kakao.com^$app=com.kakao.talk
 ||shortformstats.kakao.com^$app=com.kakao.talk
