@@ -1,8 +1,7 @@
 ! Title: Trexx DNS 필터
 ! Expires: 1 days
-! Version: 2025.09.27
+! Version: 2025.09.29
 
-||tj.oktoon.top^
 ||ad-creative.pstatic.net^$badfilter
 ||adcr.naver.com^$badfilter
 ||adshnk.com^$badfilter
@@ -52,6 +51,7 @@
 @@||img.pay.naver.net^
 @@||livecloud.pstatic.net^
 @@||nng-phinf.pstatic.net^
+@@||video-phinf.pstatic.net^
 @@||livecloud-thumb.akamaized.net^
 @@||nc1.livecloud.navercorp.com^
 @@||nc2.livecloud.navercorp.com^
