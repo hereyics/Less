@@ -1,6 +1,6 @@
 ! Title: Trexx 필터
 ! Expires: 1 days
-! Version: 2025.09.28
+! Version: 2025.09.29
 
 wepplication.github.io##footer
 wepplication.github.io##div.row:nth-of-type(4)
@@ -551,6 +551,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||css-load.com^$important
 @@||html-load.com^$important
 @@||lc.toss.im^$important
+@@||video-phinf.pstatic.net^$important
 @@||graph.facebook.com^$important
 @@||taboola.com^$important
 @@||nng-phinf.pstatic.net^$important
@@ -574,6 +575,8 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||madalla.kr^$stealth=dpi
 @@||www.etoland.co.kr^$stealth=dpi
 @@||api.chzzk.naver.com^$stealth=dpi
+@@||kr.apis.naver.com^$stealth=dpi
+@@||video-phinf.pstatic.net^$stealth=dpi
 @@||livecloud-thumb.akamaized.net^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
 @@||nng-phinf.pstatic.net^$stealth=dpi
