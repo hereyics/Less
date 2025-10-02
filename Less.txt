@@ -1,6 +1,6 @@
-! Title: Trexx 필터
+! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.09.29
+! Version: 2025.10.03
 
 wepplication.github.io##footer
 wepplication.github.io##div.row:nth-of-type(4)
