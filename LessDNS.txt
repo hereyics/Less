@@ -1,6 +1,6 @@
-! Title: Trexx DNS 필터
+! Title: Less DNS 필터
 ! Expires: 1 days
-! Version: 2025.09.29
+! Version: 2025.10.03
 
 ||ad-creative.pstatic.net^$badfilter
 ||adcr.naver.com^$badfilter
