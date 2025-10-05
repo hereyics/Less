@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.10.03
+! Version: 2025.10.05
 
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 chatgpt.com##.leading-none.text-sm
@@ -140,8 +140,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 @@||novelpia.com^$stealth=dpi
 @@||madalla.kr^$stealth=dpi
 @@||www.etoland.co.kr^$stealth=dpi
-@@||api.chzzk.naver.com^$stealth=dpi
-@@||kr.apis.naver.com^$stealth=dpi
+@@||2jz5m1-my.sharepoint.com^$stealth=dpi
 @@||video-phinf.pstatic.net^$stealth=dpi
 @@||livecloud-thumb.akamaized.net^$stealth=dpi
 @@||livecloud.pstatic.net^$stealth=dpi
