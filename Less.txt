@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.10.05
+! Version: 2025.10.06
 
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 chatgpt.com##.leading-none.text-sm
@@ -86,6 +86,7 @@ m.naver.com##.comp_card:not(.comp_weather)
 ||shortformstats.kakao.com^$app=com.kakao.talk
 ||shopper.kakao.com^$app=com.kakao.talk
 
+@@||talk-pilsner.kakao.com$important
 @@||res-creatives.maio.jp$important
 @@||media-api.maio.jp$important
 @@||cargo.koreanair.com^$important
