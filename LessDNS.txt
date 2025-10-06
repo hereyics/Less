@@ -1,6 +1,6 @@
 ! Title: Less DNS 필터
 ! Expires: 1 days
-! Version: 2025.10.03
+! Version: 2025.10.06
 
 ||ad-creative.pstatic.net^$badfilter
 ||adcr.naver.com^$badfilter
@@ -10,7 +10,6 @@
 ||searchad-phinf.pstatic.net^$badfilter
 
 @@||lc.toss.im^
-@@||graph.facebook.com^
 @@||taboola.com^
 @@||css-load.com^
 @@||html-load.com^
@@ -27,6 +26,8 @@
 @@||adcr.naver.com^
 @@||tkqlhce.com^
 @@||adplatform-cdn.baemin.com^
+@@||talk-pilsner.kakao.com^
+@@||graph.facebook.com^
 @@||weblog.woowa.in^
 @@||inapps.appsflyer.com^
 @@||s.ppomppu.co.kr^
