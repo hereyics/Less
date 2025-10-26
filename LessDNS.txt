@@ -1,21 +1,20 @@
 ! Title: Less DNS 필터
 ! Expires: 1 days
-! Version: 2025.10.24
+! Version: 2025.10.26
 
 ||ad-creative.pstatic.net^$badfilter
-||adcr.naver.com^$badfilter
 ||adshnk.com^$badfilter
 ||adtouch.adbrix.io^$badfilter
 ||dadispapi.gmarket.co.kr^$badfilter
-||searchad-phinf.pstatic.net^$badfilter
-||gos-api.gos-gsp.io^
+||static.airbridge.io^$badfilter
+||tivan.naver.com^$badfilter
 
 @@||lc.toss.im^
 @@||taboola.com^
 @@||css-load.com^
 @@||html-load.com^
-@@||digitalocean.com^
-@@||cloud.digitalocean.com^
+@@||adoffice.11st.co.kr^
+@@||buzzvil.com^
 @@||stat.tiara.kakao.com^
 @@||mkt.wemakeprice.link^
 @@||phonearena.com^
@@ -27,7 +26,6 @@
 @@||adcr.naver.com^
 @@||tkqlhce.com^
 @@||adplatform-cdn.baemin.com^
-@@||talk-pilsner.kakao.com^
 @@||graph.facebook.com^
 @@||weblog.woowa.in^
 @@||inapps.appsflyer.com^
