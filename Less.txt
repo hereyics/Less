@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.10.30
+! Version: 2025.11.06
 
 @@||lc.toss.im^$important
 @@||res-creatives.maio.jp$important
@@ -505,9 +505,9 @@
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
-[$domain=/^manatoki[0-9]+\.net/]##[style="margin-bottom: 20px;"].row.row-15
-[$domain=/^manatoki[0-9]+\.net/]##.basic-banner.row.row-10
-[$domain=/^manatoki[0-9]+\.net/]##.board-tail-banner
+[$domain=/^manatoki\d+.net/]##[style="margin-bottom: 20px;"].row.row-15
+[$domain=/^manatoki\d+.net/]##.basic-banner.row.row-10
+[$domain=/^manatoki\d+.net/]##.board-tail-banner
 [$domain=/^newtoki\d+.com/]##.view-padding.view-tag
 [$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^manatoki\d+.net/]##.text-right.view-btn
