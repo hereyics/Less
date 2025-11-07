@@ -2,23 +2,12 @@
 ! Expires: 1 days
 ! Version: 2025.11.08
 
-@@||lc.toss.im^$important
+@@||buzzvil.com^$important
 @@||res-creatives.maio.jp$important
 @@||media-api.maio.jp$important
 @@||cargo.koreanair.com^$important
-@@||tivan.naver.com^$important
-@@||t.co^$important
 @@||ad-img.gmarket.com^$important
 @@||ad-img.ebaykorea.com^$important
-@@||weblog.coupang.com^$important
-@@||metrics.icloud.com^$important
-@@||securemetrics.apple.com^$important
-@@||supportmetrics.apple.com^$important
-@@||iadsdk.apple.com^$important
-@@||ca.iadsdk.apple.com^$important
-@@||cf.iadsdk.apple.com^$important
-@@||tr.iadsdk.apple.com^$important
-@@||news.iadsdk.apple.com^$important
 @@||nlog.commerce.naver.com^$important
 @@||nlog.naver.com^$important
 @@||ntm.pstatic.net^$important
@@ -27,45 +16,21 @@
 @@||creative.live.missav.com^$important
 @@||track.cashfriends.io^$important
 @@||img-ad-img-vp.daumcdn.net^$important
-@@||naverwebtoon-phinf.pstatic.net^$important
 @@||challenges.cloudflare.com^$important
-@@||static.cloudflareinsights.com^$important
-@@||onelink.me^$important
 @@||css-load.com^$important
 @@||html-load.com^$important
 @@||video-phinf.pstatic.net^$important
 @@||graph.facebook.com^$important
-@@||taboola.com^$important
 @@||nng-phinf.pstatic.net^$important
-@@||livecloud-thumb.akamaized.net^$important
-@@||nc1.livecloud.navercorp.com^$important
-@@||nc2.livecloud.navercorp.com^$important
-@@||is1.livecloud.navercorp.com^$important
-@@||is2.livecloud.navercorp.com^$important
-@@||ex-nlive-streaming.navercdn.com^$important
 @@||adoffice.11st.co.kr^$important
-@@||buzzvil.com^$important
-@@||stat.tiara.kakao.com^$important
-@@||mkt.wemakeprice.link^$important
-@@||phonearena.com^$important
-@@||linkprice.com^$important
 @@||place.map.kakao.com^$important
-@@||launches.appsflyer.com^$important
-@@||adcr.naver.com^$important
-@@||tkqlhce.com^$important
-@@||adplatform-cdn.baemin.com^$important
-@@||weblog.woowa.in^$important
-@@||inapps.appsflyer.com^$important
 @@||s.ppomppu.co.kr^$important
-@@||pstatic.net^$important
-@@||gmarket.co.kr^$important
 @@||adimg.cgv.co.kr^$important
 @@||ad.cgv.co.kr^$important
 @@||kamp.daum.net^$important
 @@||connect.facebook.net^$important
 @@||s.youtube.com^$important
-@@||gscdn.net^$important
-@@||id.google.com^$important
+@@||naverwebtoon-phinf.pstatic.net^$important
 @@||live-orisa-edge.play.kakao.com^$important
 @@||vsak1.play.kakao.com^$important
 @@||img.pay.naver.net^$important
@@ -75,10 +40,8 @@
 @@||novelpia.com^$stealth=dpi
 @@||madalla.kr^$stealth=dpi
 @@||bouquetgarni.kr^$stealth=dpi
-@@||www.etoland.co.kr^$stealth=dpi
-@@||m.clien.net^$stealth=dpi
+@@||etoland.co.kr^$stealth=dpi
 @@||clien.net^$stealth=dpi
-@@||2jz5m1-my.sharepoint.com^$stealth=dpi
 
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
 ##[id^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"]):not([style="pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; bottom: 0px;"])
