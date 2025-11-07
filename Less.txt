@@ -30,7 +30,6 @@
 @@||kamp.daum.net^$important
 @@||connect.facebook.net^$important
 @@||s.youtube.com^$important
-@@||naverwebtoon-phinf.pstatic.net^$important
 @@||live-orisa-edge.play.kakao.com^$important
 @@||vsak1.play.kakao.com^$important
 @@||img.pay.naver.net^$important
