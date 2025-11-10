@@ -42,9 +42,6 @@
 @@||etoland.co.kr^$stealth=dpi
 @@||clien.net^$stealth=dpi
 
-##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"])
-##[id^="div-gpt-ad"]:not([style^="width: 1px; height: 1px; absolute; left: -10000px; top: -"]):not([style="pointer-events: none; height: 1px; width: 0px; opacity: 0; visibility: hidden; bottom: 0px;"])
-
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 chatgpt.com##.leading-none.text-sm
 www.google.*##.YkNJDb > .YkNJDb > div > div > .olrp5b > .C6AK7c.XVMlrc > .mXwfNd
@@ -52,13 +49,8 @@ www.google.*###taw
 2jz5m1-my.sharepoint.com###빠른\ 액세스
 2jz5m1-my.sharepoint.com###다음으로\ 파일\ 찾아보기
 youtube.com#@##player-ads
-m.comic.naver.com$$li[tag-content="AD_WEBTOON_MOBILEWEB_UP"][max-length="512"]
-m.fmkorea.com##body > p
 harpi.in##div:has(> script[src*="jads.js"])
 zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
-komi.la##.mb-10
-komi.la##.overflow-hidden.mb-6.py-2.border-primary\/20.border-y.bg-primary\/10
-komi.la##div.relative.flex.min-h-screen.flex-col:first-child > main.flex-1:nth-child(2) > div.responsive-container.py-6:last-child > div.grid.grid-cols-1.md\:grid-cols-4.responsive-gap.mb-8:nth-child(2)
 m.dcinside.com##.trend-rank
 media.naver.com##.phnb_tooltip
 m.ruliweb.com##.board_list_table .table_body:has(.nbp_container)
@@ -94,7 +86,6 @@ manhwabang.org##.banner-container
 manhwabang.org##.copyright
 manhwabang.org###telegram
 aniwolf.com##.block-rounded.block.row
-check-host.net##.text-sm.rounded.border-red-500.border-l-8.pl-1.py-0\.5.bg-gray-200.mb-2
 damoalink.com##.main-ad-banner__list
 damoalink.com##.box-section.main-platform
 damoalink.com###footer
