@@ -20,16 +20,16 @@
 @@||css-load.com^$important
 @@||html-load.com^$important
 @@||video-phinf.pstatic.net^$important
-@@||graph.facebook.com^$important
 @@||nng-phinf.pstatic.net^$important
 @@||adoffice.11st.co.kr^$important
 @@||adimg.cgv.co.kr^$important
 @@||ad.cgv.co.kr^$important
 @@||connect.facebook.net^$important
-@@||s.youtube.com^$important
+@@||graph.facebook.com^$important
 @@||live-orisa-edge.play.kakao.com^$important
 @@||vsak1.play.kakao.com^$important
 @@||img.pay.naver.net^$important
+@@||s.youtube.com^$important
 @@||livecloud.pstatic.net^$important
 
 @@||namu.wiki^$stealth=dpi
@@ -39,66 +39,11 @@
 @@||etoland.co.kr^$stealth=dpi
 @@||clien.net^$stealth=dpi
 
-toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
-www.google.*##.YkNJDb > .YkNJDb > div > div > .olrp5b > .C6AK7c.XVMlrc > .mXwfNd
 www.google.*###taw
-2jz5m1-my.sharepoint.com###빠른\ 액세스
-2jz5m1-my.sharepoint.com###다음으로\ 파일\ 찾아보기
-harpi.in##div:has(> script[src*="jads.js"])
-zoot.plus##a:has(> img[src="/ad_leidian.jpg"])
-m.dcinside.com##.trend-rank
-media.naver.com##.phnb_tooltip
-missav.ws##button.hover\:text-nord6.focus\:outline-none.font-medium.leading-4.text-nord4.text-sm.shadow-sm.whitespace-nowrap.items-center.inline-flex:nth-of-type(3)
-manhwabang.org##.banner_max
-manhwabang.org##.btn_area
-manhwabang.org###bottom_btn
-manhwabang.org###top_btn
-manhwabang.org##.banner-container
-manhwabang.org##.copyright
-manhwabang.org###telegram
-hey-bro.xyz##.mb-2
-hey-bro.xyz##.md\:py-0.md\:px-8.py-6
-www.xvideos.com##.tab-button.share
-page.kakao.com##.bg-sp-da-bg.rounded-8pxr.overflow-hidden.justify-center.flex
-naver.com##div#sb-kh-shortents-wrap
-m.naver.com##.comp_card:not(.comp_weather)
-wepplication.github.io##footer
-wepplication.github.io##div.row:nth-of-type(4)
-wepplication.github.io##div.row:nth-of-type(5)
-anilife.live##.link
-anilife.live##.al-icon-screenshot.al-icon
-anilife.live##.al-hide-cursor.al-control-screenshot.al-control
-anilife.live##.al-controls-center
-anilife.live##.al-control-screenshot.al-control
-anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
-www.pornhub.com##.clearfix.underThumbButtons
-www.pornhub.com##.mostPopularComment
-www.pornhub.com##.fanClubButtons.categoryRow
+www.google.*##.YkNJDb > .YkNJDb > div > div > .olrp5b > .C6AK7c.XVMlrc > .mXwfNd
 www.google.*##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
-chzzkban.xyz##+js(set, __adsToken, true)
-##script[src*="private-stage.com"]
-##script[src*="s.pemsrv.com"]
-##script[src*="s.magsrv.com"]
-##script[src*="boobausauhipsa.net"]
-##script[src*="affluentarmyequator.com"]
-##script[src*="profitablecpmrate.com"]
-##script[src*="meatabdicatedelicatessen.com"]
-$$script:contains(private-stage.com)
-$$script:contains(s.pemsrv.com)
-$$script:contains(s.magsrv.com)
-$$script:contains(boobausauhipsa.net)
-$$script:contains(affluentarmyequator.com)
-$$script:contains(profitablecpmrate.com)
-$$script:contains(meatabdicatedelicatessen.com)
-||private-stage.com^$redirect=noopjs
-||s.pemsrv.com^$redirect=noopjs
-||s.magsrv.com^$redirect=noopjs
-||boobausauhipsa.net^$redirect=noopjs
-||affluentarmyequator.com^$redirect=noopjs
-||profitablecpmrate.com^$redirect=noopjs
-||meatabdicatedelicatessen.com^$redirect=noopjs
-@@||nam.veta.naver.com^$important,app=com.nhn.android.webtoon
-@@||naverpa-phinf.pstatic.net^$important,app=com.nhn.android.webtoon
+m.dcinside.com##.trend-rank
+m.naver.com##.comp_card:not(.comp_weather)
 
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]###id_mbv
