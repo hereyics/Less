@@ -32,6 +32,9 @@
 @@||s.youtube.com^$important
 @@||livecloud.pstatic.net^$important
 
+k2s.cc##.e199m7sk12.css-0 > div
+k2s.cc##.e3o18i35.css-1j0a7yt.compact
+k2s.cc##.e1c0i2cu3.css-onuqpr
 k2s.cc##.e9pu4p33.css-1bm3tvj
 k2s.cc##.omni-email-widget._omniEmailWidget_der9q_322
 k2s.cc##.e124gmq03.css-1nlnn4k
