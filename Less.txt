@@ -36,8 +36,6 @@ www.google.*##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
 hey-bro.xyz##.md\:py-0.md\:px-8.py-6
 toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 chzzkban.xyz##+js(set, __adsToken, true)
-m.fmkorea.com##body > p
-m.fmkorea.com##div > p
 m.dcinside.com##.trend-rank
 m.naver.com##.comp_card:not(.comp_weather)
 
