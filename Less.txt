@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.11.20
+! Version: 2025.11.22
 
 @@||buzzvil.com^$important
 @@||ad-img.gmarket.com^$important
@@ -9,7 +9,6 @@
 @@||nlog.naver.com^$important
 @@||ntm.pstatic.net^$important
 @@||creative.live.missav.com^$important
-@@||track.cashfriends.io^$important
 @@||img-ad-img-vp.daumcdn.net^$important
 @@||css-load.com^$important
 @@||html-load.com^$important
@@ -19,8 +18,8 @@
 @@||ad.cgv.co.kr^$important
 @@||connect.facebook.net^$important
 @@||graph.facebook.com^$important
+@@||kamp.kakao.com^$important
 @@||live-orisa-edge.play.kakao.com^$important
-@@||vsak1.play.kakao.com^$important
 
 k2s.cc##.e199m7sk12.css-0 > div
 k2s.cc##.e3o18i35.css-1j0a7yt.compact
