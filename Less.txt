@@ -1,14 +1,13 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.11.27
+! Version: 2025.11.29
 
-@@||buzzvil.com^$important
+@@||kamp.kakao.com^$important
 @@||ad-img.gmarket.com^$important
 @@||ad-img.ebaykorea.com^$important
 @@||nlog.commerce.naver.com^$important
 @@||nlog.naver.com^$important
 @@||ntm.pstatic.net^$important
-@@||creative.live.missav.com^$important
 @@||img-ad-img-vp.daumcdn.net^$important
 @@||css-load.com^$important
 @@||html-load.com^$important
@@ -16,8 +15,6 @@
 @@||nng-phinf.pstatic.net^$important
 @@||adimg.cgv.co.kr^$important
 @@||ad.cgv.co.kr^$important
-@@||connect.facebook.net^$important
-@@||kamp.kakao.com^$important
 @@||live-orisa-edge.play.kakao.com^$important
 
 k2s.cc##.e199m7sk12.css-0 > div
@@ -45,6 +42,8 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
 [$domain=/^newtoki\d+.com/]##.at-tip.ion-ios-bookmarks
 [$domain=/^newtoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
+[$domain=/^newtoki\d+.com/]##.view-padding.view-tag
+[$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##.text-center.well
 [$domain=/^newtoki\d+.com/]##.go-btn
@@ -52,8 +51,6 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$domain=/^manatoki\d+.net/]##[style="margin-bottom: 20px;"].row.row-15
 [$domain=/^manatoki\d+.net/]##.basic-banner.row.row-10
 [$domain=/^manatoki\d+.net/]##.board-tail-banner
-[$domain=/^newtoki\d+.com/]##.view-padding.view-tag
-[$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^manatoki\d+.net/]##.text-right.view-btn
 [$domain=/^manatoki\d+.net/]##.go-btn
 [$domain=/^manatoki\d+.net/]###bo_vcb
