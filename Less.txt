@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.11.30
+! Version: 2025.12.01
 
 @@||kamp.kakao.com^$important
 @@||ad-img.gmarket.com^$important
@@ -17,14 +17,6 @@
 @@||ad.cgv.co.kr^$important
 @@||live-orisa-edge.play.kakao.com^$important
 
-k2s.cc##.e199m7sk12.css-0 > div
-k2s.cc##.e3o18i35.css-1j0a7yt.compact
-k2s.cc##.e1c0i2cu3.css-onuqpr
-k2s.cc##.e9pu4p33.css-1bm3tvj
-k2s.cc##.omni-email-widget._omniEmailWidget_der9q_322
-k2s.cc##.e124gmq03.css-1nlnn4k
-k2s.cc##.e1k3b5i70.css-dvv134.omniEmailWidget
-k2s.cc##.e3o18i36.css-3y46tr
 www.google.*###taw
 www.google.*##.YkNJDb > .YkNJDb > div > div > .olrp5b > .C6AK7c.XVMlrc > .mXwfNd
 www.google.*##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
@@ -34,7 +26,6 @@ chzzkban.xyz##+js(set, __adsToken, true)
 m.dcinside.com##.trend-rank
 m.naver.com##.comp_card:not(.comp_weather)
 m.naver.com##div#sb-kh-shortents-wrap
-||k2s.cc/static/media/default-XJUxp1EG.svg
 
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]###id_mbv
@@ -106,13 +97,6 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$url=||t*.xtoon*.com^]###category-Ad
 [$url=||t*.xtoon*.com^]###go-top
 [$url=||t*.xtoon*.com^]##.justify-content-md-start.justify-content-center.d-flex
-[$url=||z*.mzgtoon.com^]##.mt-3.relative
-[$url=||z*.mzgtoon.com^]##.right-5.bottom-20.fixed
-[$url=||z*.mzgtoon.com^]##.mt-4.flex-wrap.flex
-[$url=||z*.mzgtoon.com^]##.relative.mx-auto.max-w-\[800px\]
-[$url=||z*.mzgtoon.com^]##[href="https://xn--ly1b93vtre3ub.com/"] > .my-3.relative
-[$url=||z*.mzgtoon.com^]##a[href="https://opgo20.com/"] > .my-3.relative
-[$url=||z*.mzgtoon.com^]##.text-white.relative.z-10.rounded-md.p-4.mb-5.w-full.bg-gray-500
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(3)
 [$url=||b*.toon-bro.xyz^]##div.flex-1.px-1.md\:px-8.container:nth-of-type(1)
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
@@ -121,31 +105,3 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$url=||b*.toon-bro.xyz^]##.bg-black\/80.z-50.inset-0.fixed
 [$url=||b*.toon-bro.xyz^]##.xl\:hidden > div
 [$url=||b*.toon-bro.xyz^]##.mr-2.px-2.py-2.h-9.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center.items-center.inline-flex
-[$url=||t*.hoduhodu.com^]##a.border-b.border-r.w-\[25\%\]:nth-of-type(4)
-[$url=||t*.hoduhodu.com^]##.border.text-black.relative.z-10.rounded-md.p-4.mb-5.w-full.bg-white
-[$url=||t*.hoduhodu.com^]##[href^="https://zxx.bet/Main"]
-[$url=||t*.hoduhodu.com^]##[href^="https://opgo24.com/"]
-[$url=||t*.hoduhodu.com^]##a[href^="https://opgo21.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##.cursor-pointer.hover\:bg-gray-500.text-white.bg-black.rounded-xl.text-sm.p-2.border
-[$url=||t*.hoduhodu.com^]##[href="https://xn--ly1b93vtre3ub.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href="https://1bet1.one/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href="https://winner1.site/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href="https://lula.asia/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href="https://8795xzd.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href="https://8795xzd.com/"]
-[$url=||t*.hoduhodu.com^]##.mt-4.flex-wrap.flex
-[$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href^="https://opgo23.com/"]
-[$url=||t*.hoduhodu.com^]##[href^="https://opgo*.com/"]
-[$url=||t*.hoduhodu.com^]##.right-5.bottom-20.fixed
-[$url=||t*.hoduhodu.com^]##a[href="https://opgo20.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##.relative.mx-auto.max-w-\[800px\]
-[$url=||t*.hoduhodu.com^]##[href="https://bbr-365.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href^="https://www.xapb32.com/affiliates/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href^="https://1bet1.one/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##a[href^="https://opgo22.com/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href^="https://winner1.site/"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href^="https://lula.asia/Main"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href^="https://onetop.space/Main"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href="https://onetop.ws"] > .my-3.relative
-[$url=||t*.hoduhodu.com^]##[href="https://onetop.ws"]
