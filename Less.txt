@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.12.01
+! Version: 2025.12.02
 
 @@||kamp.kakao.com^$important
 @@||ad-img.gmarket.com^$important
@@ -17,6 +17,8 @@
 @@||ad.cgv.co.kr^$important
 @@||live-orisa-edge.play.kakao.com^$important
 
+hoduhodu.com,mzgtoon.com#@#.z-50
+hoduhodu.com,mzgtoon.com##div.fixed.bottom-0.left-0.w-full.bg-black.p-2.z-50
 www.google.*###taw
 www.google.*##.YkNJDb > .YkNJDb > div > div > .olrp5b > .C6AK7c.XVMlrc > .mXwfNd
 www.google.*##.Pqkn2e.E6sCHc.vt6azd.Ww4FFb.ClPXac
@@ -73,9 +75,6 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-[$domain=/^booktoki\d+.com/]##.col-sm-9.col-md-9.col-15
-[$domain=/^[a-z]*toki[0-9]*\.[a-z]{3}/]##[style='margin-bottom: 20px;'].row.row-15
-[$domain=/^[a-z]*toki[0-9]*\.[a-z]{3}/]##li:has([target]:not([href*=bbs]))
 [$url=||t*.xtoon*.com^]##.f-tips
 [$url=||t*.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t*.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
