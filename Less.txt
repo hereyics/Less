@@ -107,3 +107,10 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$url=||b*.toon-bro.xyz^]##.bg-black\/80.z-50.inset-0.fixed
 [$url=||b*.toon-bro.xyz^]##.xl\:hidden > div
 [$url=||b*.toon-bro.xyz^]##.mr-2.px-2.py-2.h-9.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center.items-center.inline-flex
+[$url=||t*.hoduhodu.com^]##[href="https://onetop.ws"]
+[$url=||t*.hoduhodu.com^]##[href="https://8795xzd.com/"]
+[$url=||t*.hoduhodu.com^]##[href^="https://1bet1.one/"]
+[$url=||t*.hoduhodu.com^]##[href^="https://lula.asia/Main"]
+[$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"]
+[$url=||t*.hoduhodu.com^]##[href^="https://zxx.bet/Main"]
+[$url=||t*.hoduhodu.com^]##[href="https://xn--ly1b93vtre3ub.com/"]
