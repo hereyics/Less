@@ -114,3 +114,8 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$url=||t*.hoduhodu.com^]##[href="https://vel-sg7.com/"]
 [$url=||t*.hoduhodu.com^]##[href^="https://zxx.bet/Main"]
 [$url=||t*.hoduhodu.com^]##[href="https://xn--ly1b93vtre3ub.com/"]
+[$url=||t*.hoduhodu.com^]##.right-5.top-28.fixed
+[$url=||t*.hoduhodu.com^]##.right-5.bottom-20.fixed
+[$url=||t*.hoduhodu.com^]##a.border-b.border-r.w-$$25\%$$:nth-of-type(4)
+[$url=||t*.hoduhodu.com^]##.bg-white.mb-2.justify-center.p-1.border.w-$$100px$$.items-center.flex
+[$url=||t*.hoduhodu.com^]##.border.text-black.relative.z-10.rounded-md.p-4.mb-5.w-full.bg-white
