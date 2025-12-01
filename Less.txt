@@ -99,6 +99,8 @@ m.naver.com##div#sb-kh-shortents-wrap
 [$url=||t*.xtoon*.com^]###category-Ad
 [$url=||t*.xtoon*.com^]###go-top
 [$url=||t*.xtoon*.com^]##.justify-content-md-start.justify-content-center.d-flex
+[$url=||b*.toon-bro.xyz^]##.Toastify
+[$url=||b*.toon-bro.xyz^]##button.px-0.lg\:w-9.w-7.py-2.h-9.hover\:text-accent-foreground.hover\:bg-accent.disabled\:opacity-50.disabled\:pointer-events-none.focus-visible\:ring-ring.focus-visible\:ring-1.focus-visible\:outline-none.transition-colors.font-medium.text-sm.rounded-md.whitespace-nowrap.justify-center.items-center.inline-flex:nth-of-type(3)
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(3)
 [$url=||b*.toon-bro.xyz^]##div.flex-1.px-1.md\:px-8.container:nth-of-type(1)
 [$url=||b*.toon-bro.xyz^]##div.mt-3.gap-\[4px\].flex-col.flex:nth-of-type(1)
