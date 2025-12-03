@@ -2,7 +2,6 @@
 ! Expires: 1 days
 ! Version: 2025.12.03
 
-@@||kamp.kakao.com^$important
 @@||ad-img.gmarket.com^$important
 @@||ad-img.ebaykorea.com^$important
 @@||nlog.commerce.naver.com^$important
