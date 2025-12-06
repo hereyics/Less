@@ -1,20 +1,15 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.12.03
+! Version: 2025.12.06
 
 @@||ad-img.gmarket.com^$important
 @@||ad-img.ebaykorea.com^$important
-@@||nlog.commerce.naver.com^$important
-@@||nlog.naver.com^$important
-@@||ntm.pstatic.net^$important
+@@||adimg.cgv.co.kr^$important
+@@||ad.cgv.co.kr^$important
 @@||img-ad-img-vp.daumcdn.net^$important
 @@||css-load.com^$important
 @@||html-load.com^$important
-@@||video-phinf.pstatic.net^$important
-@@||nng-phinf.pstatic.net^$important
-@@||adimg.cgv.co.kr^$important
-@@||ad.cgv.co.kr^$important
-@@||live-orisa-edge.play.kakao.com^$important
+@@||challenges.cloudflare.com^$important
 
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]###id_mbv
