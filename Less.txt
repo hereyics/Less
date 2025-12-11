@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.12.06
+! Version: 2025.12.11
 
 @@||ad-img.gmarket.com^$important
 @@||ad-img.ebaykorea.com^$important
@@ -57,6 +57,10 @@
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
+[$domain=/^bigtv\d+.com/]##.box_text_wave
+[$domain=/^bigtv\d+.com/]##.main_menu_mobile
+[$domain=/^bigtv\d+.com/]##.notice_modal-container
+[$domain=/^bigtv\d+.com/]##.btn_bottom_chat.display-none
 [$url=||t*.xtoon*.com^]##.f-tips
 [$url=||t*.xtoon*.com^]##.d-lg-flex.gap-4.main-menu
 [$url=||t*.xtoon*.com^]##.flex-column.d-flex.w-100 > .mb-3
