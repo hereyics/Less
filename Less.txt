@@ -48,8 +48,8 @@
 [$domain=/^booktoki\d+.com/]##.col-sm-3.col-md-3.col-15
 [$domain=/^booktoki\d+.com/]##.view-good-box.print-hide
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
-[$domain=/^blacktoon\d+.net/]##div.mt-2.banner.container > .row
-[$domain=/^blacktoon\d+.net/]##.show.fade.alert-dismissible.alert-danger.alert
+[$domain=/^blacktoon\d+.com/]##div.mt-2.banner.container > .row
+[$domain=/^blacktoon\d+.com/]##.show.fade.alert-dismissible.alert-danger.alert
 [$domain=/^bigtv\d+.com/]##.box_text_wave
 [$domain=/^bigtv\d+.com/]##.main_menu_mobile
 [$domain=/^bigtv\d+.com/]##.notice_modal-container
