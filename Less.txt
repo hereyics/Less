@@ -2,10 +2,9 @@
 ! Expires: 1 days
 ! Version: 2025.12.16
 
-[$domain=/^newtoki\d+.com/]###id_mbv
+[$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]##.col-sm-9.col-md-9.col-15
-[$domain=/^newtoki\d+.com/]###bo_vcb
 [$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
 [$domain=/^newtoki\d+.com/]##.at-tip.ion-ios-bookmarks
 [$domain=/^newtoki\d+.com/]##.btn-sm.btn-white.btn.bookmark
@@ -13,8 +12,9 @@
 [$domain=/^newtoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^newtoki\d+.com/]##div.col-sm-4.col-md-3.col-15 > div
 [$domain=/^newtoki\d+.com/]##.text-center.well
-[$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.view-good-box.print-hide
+[$domain=/^newtoki\d+.com/]###id_mbv
+[$domain=/^newtoki\d+.com/]###bo_vcb
 [$domain=/^manatoki\d+.net/]##[style="margin-bottom: 20px;"].row.row-15
 [$domain=/^manatoki\d+.net/]##.basic-banner.row.row-10
 [$domain=/^manatoki\d+.net/]##.board-tail-banner
