@@ -50,6 +50,7 @@
 [$domain=/^booktoki\d+.com/]##.visible-xs.btn-group-justified.btn-group > .btn-default.btn-lg.btn
 [$domain=/^blacktoon\d+.com/]##div.mt-2.banner.container > .row
 [$domain=/^blacktoon\d+.com/]##.show.fade.alert-dismissible.alert-danger.alert
+[$domain=/^hdhd\d+.net/]##.toon-nav > [href="/wt"] > .fa-home.fa
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="https://t.me/tkrhddz"]
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="/마이툰"]
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="/망가"]
