@@ -54,7 +54,7 @@
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="/마이툰"]
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="/망가"]
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="http://vipkkhh.com"]
-[$domain=/^hdhd\d+.net/]##.clearfix > li > [href="https://hlbam*.com"]
+[$domain=/^hdhd\d+.net/]##.clearfix > li > [href="https://hlbam27.com"]
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="http://yadonginfo.com"]
 [$domain=/^bigtv\d+.com/]##.box_text_wave
 [$domain=/^bigtv\d+.com/]##.main_menu_mobile
