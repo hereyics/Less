@@ -1,9 +1,9 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2025.12.15
+! Version: 2025.12.16
 
-[$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]###id_mbv
+[$domain=/^newtoki\d+.com/]##.text-right.view-btn
 [$domain=/^newtoki\d+.com/]##.col-sm-9.col-md-9.col-15
 [$domain=/^newtoki\d+.com/]###bo_vcb
 [$domain=/^newtoki\d+.com/]##.navbar-wrapper > .toon-nav
@@ -57,6 +57,15 @@
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="http://vipkkhh.com"]
 [$domain=/^hdhd\d+.net/]##.clearfix > li > a[href^="https://hlbam"][href$=".com"]
 [$domain=/^hdhd\d+.net/]##.clearfix > li > [href="http://yadonginfo.com"]
+[$domain=/^tkor\d+.com/]##li:nth-of-type(3)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(4)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(5)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(6)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(7)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(8)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(9)
+[$domain=/^tkor\d+.com/]##li:nth-of-type(10)
+[$domain=/^tkor\d+.com/]###banner_21_img
 [$domain=/^bigtv\d+.com/]##.box_text_wave
 [$domain=/^bigtv\d+.com/]##.main_menu_mobile
 [$domain=/^bigtv\d+.com/]##.notice_modal-container
