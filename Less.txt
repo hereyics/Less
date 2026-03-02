@@ -1,5 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
+! Version: 2026.03.02
 
 anilife.live##.link
 anilife.live##.al-controls-center
