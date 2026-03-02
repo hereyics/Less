@@ -14,14 +14,12 @@ m.fmkorea.com##.bd_bc_pop_btn.clear.bd_hd
 m.fmkorea.com##.m_rd_nav_side > .m_btn_wrp.fr.img_tx.rd_nav
 fmkorea.com,m.fmkorea.com##div#fmrecentvisited-recent-visits
 fmkorea.com,m.fmkorea.com##div.main_recent
-toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
-google.*##.YkNJDb > .YkNJDb > div > div > .olrp5b > .C6AK7c.XVMlrc > .mXwfNd
-google.*##.W5F9ud
 m.dcinside.com##.trend-rank
 m.naver.com##.comp_card:not(.comp_weather)
 m.naver.com##div#sb-kh-shortents-wrap
 m.naver.com##.id_search.wrap > .main_footer
 m.naver.com##.type_round_card.comp_container
+toon-bro.xyz#%#//scriptlet('trusted-set-local-storage-item', 'bro', '{"notice":4102444800000}')
 
 [$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
