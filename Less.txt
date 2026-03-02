@@ -22,20 +22,6 @@ m.naver.com##.comp_card:not(.comp_weather)
 m.naver.com##div#sb-kh-shortents-wrap
 m.naver.com##.id_search.wrap > .main_footer
 m.naver.com##.type_round_card.comp_container
-$$script:contains(private-stage.com)
-$$script:contains(s.pemsrv.com)
-$$script:contains(s.magsrv.com)
-$$script:contains(boobausauhipsa.net)
-$$script:contains(affluentarmyequator.com)
-$$script:contains(profitablecpmrate.com)
-$$script:contains(meatabdicatedelicatessen.com)
-||private-stage.com^$redirect=noopjs
-||s.pemsrv.com^$redirect=noopjs
-||s.magsrv.com^$redirect=noopjs
-||boobausauhipsa.net^$redirect=noopjs
-||affluentarmyequator.com^$redirect=noopjs
-||profitablecpmrate.com^$redirect=noopjs
-||meatabdicatedelicatessen.com^$redirect=noopjs
 
 [$domain=/^newtoki\d+.com/]##.go-btn
 [$domain=/^newtoki\d+.com/]##.text-right.view-btn
