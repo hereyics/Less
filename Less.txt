@@ -1,6 +1,6 @@
 ! Title: Less for AdGuard
 ! Expires: 1 days
-! Version: 2026.03.02
+! Version: 2026.03.09
 
 anilife.live##.link
 anilife.live##.al-controls-center
@@ -8,13 +8,6 @@ anilife.live##.al-icon-screenshot.al-icon
 anilife.live##.al-control-screenshot.al-control
 anilife.live##.al-hide-cursor.al-control-screenshot.al-control
 anilife.live##div.mobile_menu.latesthome.releases:nth-of-type(4)
-m.fmkorea.com##.manager_list
-m.fmkorea.com##.pop.fm_alert_wrap
-m.fmkorea.com##.best.fm_alert_wrap
-m.fmkorea.com##.bd_bc_pop_btn.clear.bd_hd
-m.fmkorea.com##.m_rd_nav_side > .m_btn_wrp.fr.img_tx.rd_nav
-fmkorea.com,m.fmkorea.com##div#fmrecentvisited-recent-visits
-fmkorea.com,m.fmkorea.com##div.main_recent
 m.dcinside.com##.trend-rank
 m.naver.com##.comp_card:not(.comp_weather)
 m.naver.com##div#sb-kh-shortents-wrap
